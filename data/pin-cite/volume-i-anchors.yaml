@@ -1,0 +1,1593 @@
+schema_version: 1
+description: 'Pin-cite anchor manifest SSOT for Volume I hybrid apparatus. sections
+  = lecture-order ### rails; claim_refs = commentary L2 row order.
+
+  '
+chapters:
+  civ-01:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: reject-farming-progress
+      phrase: there's no evidence for this
+    - slug: farming-harder-than-gathering
+      phrase: it was actually pretty stupid to transition from hunter gatherer into
+        farming
+    - slug: four-theory-families
+      phrase: there are four different disciplines from which we can collect evidence
+    - slug: religion-leading-theory
+      phrase: the consensus what most people agree on today okay most Scholars
+    - slug: gobekli-tepe-ritual-center
+      phrase: Gobekli Tepe is a place of religious worship
+    - slug: catalhoyuk-religion-everywhere
+      phrase: religion permeated or was in every place they were
+    claim_refs:
+    - '#reject-farming-progress'
+    - '#farming-harder-than-gathering'
+    - '#four-theory-families'
+    - '#religion-leading-theory'
+    - '#gobekli-tepe-ritual-center'
+    - '#catalhoyuk-religion-everywhere'
+  civ-02:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: religious-impulse-before-farming
+      phrase: religious impulse this need for religion
+    - slug: ice-age-cave-paintings
+      phrase: Ice Age cave paintings
+    - slug: cave-as-portal
+      phrase: portal a door
+    - slug: animism-defined
+      phrase: we have actually a word for this religion and this word is um animism
+    - slug: durkheim-collective-consciousness
+      phrase: religion is our Collective Consciousness
+    - slug: religious-animals-thesis
+      phrase: we are first and foremost a religious animal
+    claim_refs:
+    - '#religious-impulse-before-farming'
+    - '#ice-age-cave-paintings'
+    - '#cave-as-portal'
+    - '#animism-defined'
+    - '#durkheim-collective-consciousness'
+    - '#religious-animals-thesis'
+  civ-03:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: peaceful-egalitarian-artistic
+      phrase: for most of human history we have been peaceful egalitarian and artistic
+    - slug: yamnaya-preview
+      phrase: a new group of uh people called the Yamnaya came came into being
+    - slug: animism-shamanism-model
+      phrase: it was animism and shamanism
+    - slug: creation-myth-legal-order
+      phrase: this is what we call a creation myth
+    - slug: grandness-completeness-unity
+      phrase: you need these three ideas grandness completeness and unity
+    - slug: molimo-sleep-taboo
+      phrase: the greatest crimes that the pygmy can commit if not the greatest is
+        to be found asleep when the malomo is singing
+    claim_refs:
+    - '#peaceful-egalitarian-artistic'
+    - '#yamnaya-preview'
+    - '#animism-shamanism-model'
+    - '#creation-myth-legal-order'
+    - '#grandness-completeness-unity'
+    - '#molimo-sleep-taboo'
+  civ-04:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: war-property-patriarchy-question
+      phrase: how is it that today we have War private property and patriarchy
+    - slug: gimbutas-old-europe
+      phrase: the anthropologist Marija Gimbutas called Old Europe
+    - slug: proto-indo-european
+      phrase: we call Proto indoan
+    - slug: dna-yamnaya-evidence
+      phrase: advances in genetics DNA technology
+    - slug: conquest-not-diffusion
+      phrase: overwhelming DNA evidence that it was in fact Conquest
+    - slug: women-political-class
+      phrase: Old Europe was ruled by women or women were part of the political class
+    claim_refs:
+    - '#war-property-patriarchy-question'
+    - '#proto-indo-european'
+    - '#gimbutas-old-europe'
+    - '#dna-yamnaya-evidence'
+    - '#conquest-not-diffusion'
+    - '#women-political-class'
+  civ-05:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: three-yamnaya-questions
+      phrase: who are the Yamnaya second question is where do they come from
+    - slug: near-east-mother-goddess
+      phrase: they worship the mother goddess who gives life to everything
+    - slug: social-evolution-definition
+      phrase: Evolution means open Cooperative competition
+    - slug: steppe-scarcity
+      phrase: there are very scarce resources in the steps
+    - slug: pastoralism-innovation
+      phrase: the first Innovation they adopted was a pastoral economy
+    - slug: sky-father-religion
+      phrase: they worship someone called the sky father
+    claim_refs:
+    - '#three-yamnaya-questions'
+    - '#near-east-mother-goddess'
+    - '#social-evolution-definition'
+    - '#steppe-scarcity'
+    - '#pastoralism-innovation'
+    - '#sky-father-religion'
+  civ-06:
+    part_id: part-01-dawn-of-civilization
+    sections:
+    - slug: bronze-age-interconnected
+      phrase: Bronze Age and why is it called the Bronze Age
+    - slug: bronze-like-oil
+      phrase: bronze is like oil today
+    - slug: troy-toll-gate
+      phrase: this place is called Troy
+    - slug: bronze-age-collapse
+      phrase: Bronze Age collapse
+    - slug: elite-overproduction-turchin
+      phrase: Peter Turchin Peter Turchin who's a historian
+    - slug: collapse-generative-greece-israel
+      phrase: Mycenaean Greece changed into a new society that gave us Greek civilization
+    claim_refs:
+    - '#bronze-age-interconnected'
+    - '#bronze-like-oil'
+    - '#troy-toll-gate'
+    - '#bronze-age-collapse'
+    - '#elite-overproduction-turchin'
+    - '#collapse-generative-greece-israel'
+  civ-07:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: greek-western-source
+      phrase: created western civilization
+    - slug: bronze-age-collapse-greece
+      phrase: Bronze Age collapse and three things
+    - slug: destruction-enables-creativity
+      phrase: because of these three things that Greece became the most creative
+    - slug: three-pillars-polis-alphabet-homer
+      phrase: three major reasons why Greek
+    - slug: polis-competition-diversity
+      phrase: competition okay these poleis
+    - slug: alphabet-evolution
+      phrase: development of writing systems
+    - slug: alphabet-speech-revolution
+      phrase: writing can become speaking
+    - slug: oral-culture-advantages
+      phrase: oral culture the first major advantage
+    - slug: literary-culture-advantages
+      phrase: advantages to writing culture
+    - slug: oral-literary-synthesis
+      phrase: combined the advantage of both cultures
+    - slug: homer-poet-for-people
+      phrase: problem with Homer is when he was around
+    - slug: iliad-empathy
+      phrase: we call this idea empathy
+    - slug: iliad-psychology
+      phrase: human psychology
+    - slug: iliad-metaphor
+      phrase: what are metaphors metaphors are connections
+    - slug: homer-theory-of-human
+      phrase: theory of human
+    - slug: greece-china-contrast
+      phrase: why is Greek civilization different from Chinese
+    claim_refs:
+    - '#greek-western-source'
+    - '#bronze-age-collapse-greece'
+    - '#destruction-enables-creativity'
+    - '#three-pillars-polis-alphabet-homer'
+    - '#polis-competition-diversity'
+    - '#alphabet-evolution'
+    - '#alphabet-speech-revolution'
+    - '#oral-culture-advantages'
+    - '#literary-culture-advantages'
+    - '#oral-literary-synthesis'
+    - '#homer-poet-for-people'
+    - '#iliad-empathy'
+    - '#iliad-psychology'
+    - '#iliad-metaphor'
+    - '#homer-theory-of-human'
+    - '#greece-china-contrast'
+  civ-08:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: greek-history-recap
+      phrase: overview of Greek history
+    - slug: geography-is-destiny
+      phrase: geography is Destiny
+    - slug: sparta-character
+      phrase: let's first talk about Sparta
+    - slug: athens-eudaimonia
+      phrase: Athens was a completely opposite Society
+    - slug: ostracism
+      phrase: ostracism okay
+    - slug: democracy-factional-nobility
+      phrase: democracy usually was a battle between different factions
+    - slug: sparta-athens-opposed
+      phrase: diametrically opposed to each other
+    - slug: persian-wars-narrative
+      phrase: Battle of Marathon
+    - slug: persia-strategic-errors
+      phrase: Persians did not do that okay the Persian king
+    - slug: delian-league-empire
+      phrase: Delian League is a
+    - slug: pericles-power
+      phrase: Pericles comes into power
+    - slug: peloponnesian-bully
+      phrase: Athens is basically the big bully
+    - slug: nobility-class-conflict
+      phrase: only way to understand what happened is to understand that the very
+        basis of conflict
+    - slug: cleon-brasidas
+      phrase: Cleon proposes this aggressive strategy
+    - slug: lysander-persian-money
+      phrase: Persia gets involved and gives Sparta a Navy
+    - slug: athens-spared-elite-ties
+      phrase: upper nobility of Sparta and the upper nobility of Athens
+    - slug: rat-utopia-experiment
+      phrase: rat Utopia
+    - slug: wealthy-societies-war
+      phrase: they were killing each other for no reason
+    - slug: humans-not-rats
+      phrase: humans are different from rats
+    claim_refs:
+    - '#greek-history-recap'
+    - '#geography-is-destiny'
+    - '#sparta-character'
+    - '#athens-eudaimonia'
+    - '#ostracism'
+    - '#democracy-factional-nobility'
+    - '#sparta-athens-opposed'
+    - '#persian-wars-narrative'
+    - '#persia-strategic-errors'
+    - '#delian-league-empire'
+    - '#pericles-power'
+    - '#peloponnesian-bully'
+    - '#nobility-class-conflict'
+    - '#cleon-brasidas'
+    - '#lysander-persian-money'
+    - '#athens-spared-elite-ties'
+    - '#rat-utopia-experiment'
+    - '#wealthy-societies-war'
+    - '#humans-not-rats'
+  civ-09:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: collective-identity-institutions
+      phrase: how do you create an identity
+    - slug: theater-democratic-citizen
+      phrase: identity as an as a democratic citizen
+    - slug: festival-dionysus
+      phrase: Festival of Dionysus
+    - slug: prophets-of-democracy
+      phrase: prophets of democracy
+    - slug: oresteia-plot
+      phrase: wrote a play called Oresteia
+    - slug: oresteia-democracy-gift
+      phrase: gods gave you democracy honor them
+    - slug: oedipus-trilogy
+      phrase: Oedipus trilogy okay Oedipus Trilogy
+    - slug: antigone-unwritten-law
+      phrase: laws in the universe ver that are Divine Unwritten
+    - slug: sophocles-anti-king
+      phrase: this is a message that's very much anti- King
+    - slug: old-give-way-young
+      phrase: world works when the old give way to the young
+    - slug: euripides-critic
+      phrase: Euripides he criticized Athenian democracy
+    - slug: trojan-women-melos
+      phrase: Trojan Women is a direct response to what
+    - slug: bacchae-plot
+      phrase: plot of the Bacchae
+    - slug: bacchae-empire-metaphor
+      phrase: mother holds the son's head in her hand
+    - slug: bacchae-alt-interpretations
+      phrase: most common interpretation is it is a play that explores
+    - slug: revenge-hubris-themes
+      phrase: very common theme is the idea of hubris
+    claim_refs:
+    - '#collective-identity-institutions'
+    - '#theater-democratic-citizen'
+    - '#festival-dionysus'
+    - '#prophets-of-democracy'
+    - '#oresteia-plot'
+    - '#oresteia-democracy-gift'
+    - '#oedipus-trilogy'
+    - '#antigone-unwritten-law'
+    - '#sophocles-anti-king'
+    - '#old-give-way-young'
+    - '#euripides-critic'
+    - '#trojan-women-melos'
+    - '#bacchae-plot'
+    - '#bacchae-empire-metaphor'
+    - '#bacchae-alt-interpretations'
+    - '#revenge-hubris-themes'
+  civ-10:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: theater-socrates-opening
+      phrase: profits of democracy
+    - slug: democracy-needs-truth
+      phrase: most people are not capable of exercising reason
+    - slug: socratic-dialogue
+      phrase: Socratic dialogue
+    - slug: language-convention
+      phrase: language is just a convention
+    - slug: clouds-aristophanes
+      phrase: play was called the clouds
+    - slug: aristocratic-students
+      phrase: children of the rich
+    - slug: thirty-tyrants
+      phrase: 30 tyrants
+    - slug: trial-399-bce
+      phrase: 399 BCE Socrates is put on trial
+    - slug: trial-provocation
+      phrase: Socrates refused to defend himself
+    - slug: death-performance-art
+      phrase: performance artist okay
+    - slug: plato-redeems-socrates
+      phrase: Redeeming the reputation of Socrates
+    - slug: republic-cave-intro
+      phrase: allegory of the cave
+    - slug: cave-narrative
+      phrase: imagine a cave deep under the Earth
+    - slug: cave-christianity-bridge
+      phrase: Christians Socrates becomes Jesus
+    - slug: philosopher-king
+      phrase: ruled by philosopher
+    - slug: plato-influence-kings
+      phrase: Kings hate democracy
+    - slug: plato-influences-lost
+      phrase: we don't know and the reason again is most of this is loss
+    - slug: syracuse-failure
+      phrase: went to a place called Syracuse
+    - slug: macedonia-preview
+      phrase: rise of Macedonia
+    claim_refs:
+    - '#theater-socrates-opening'
+    - '#democracy-needs-truth'
+    - '#socratic-dialogue'
+    - '#language-convention'
+    - '#clouds-aristophanes'
+    - '#aristocratic-students'
+    - '#thirty-tyrants'
+    - '#trial-399-bce'
+    - '#trial-provocation'
+    - '#death-performance-art'
+    - '#plato-redeems-socrates'
+    - '#republic-cave-intro'
+    - '#cave-narrative'
+    - '#cave-christianity-bridge'
+    - '#philosopher-king'
+    - '#plato-influence-kings'
+    - '#plato-influences-lost'
+    - '#macedonia-preview'
+    - '#plato-influences-lost'
+    - '#syracuse-failure'
+  civ-11:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: conquest-not-diffusion
+      phrase: spread through a process of Conquest
+    - slug: father-son-analogy
+      phrase: there's a father and there's a son
+    - slug: poor-rich-thought-experiment
+      phrase: let's compare North Korea with South Korea
+    - slug: macedon-geography-pressure
+      phrase: Macedon is very poor weak
+    - slug: thebes-sacred-band
+      phrase: hostage in Thebes
+    - slug: philip-meritocracy-parmenion
+      phrase: turn it into a meritocracy
+    - slug: amphipolis-gold
+      phrase: invades a city called amphipolis
+    - slug: chaeronea-sacred-band
+      phrase: Battle of Chaeronea
+    claim_refs:
+    - '#conquest-not-diffusion'
+    - '#father-son-analogy'
+    - '#poor-rich-thought-experiment'
+    - '#macedon-geography-pressure'
+    - '#thebes-sacred-band'
+    - '#philip-meritocracy-parmenion'
+    - '#amphipolis-gold'
+    - '#chaeronea-sacred-band'
+  civ-12:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: alexander-model-predictions
+      phrase: third prediction we can make about him
+    - slug: philip-death-succession
+      phrase: death of his father in 336
+    - slug: thebes-destruction-fear
+      phrase: destroying Thebes which is one of the great cultural
+    - slug: persian-battle-pattern
+      phrase: Battle of Granicus
+    - slug: cohesion-discipline-devotion
+      phrase: cohesion discipline and devotion
+    - slug: siwa-divine-kingship
+      phrase: goes to a place called The Temple of Zeus
+    - slug: parmenion-cleitus-deaths
+      phrase: Cleitus the Black killing him
+    - slug: india-desert-limits
+      phrase: they basically Mutiny they refuse to fight
+    claim_refs:
+    - '#alexander-model-predictions'
+    - '#philip-death-succession'
+    - '#thebes-destruction-fear'
+    - '#cohesion-discipline-devotion'
+    - '#persian-battle-pattern'
+    - '#siwa-divine-kingship'
+    - '#parmenion-cleitus-deaths'
+    - '#india-desert-limits'
+  civ-13:
+    part_id: part-02-hellenic-world
+    sections:
+    - slug: aristotle-paradox-opening
+      phrase: Aristotle is a paradox
+    - slug: plato-forms-contrast
+      phrase: form of the good
+    - slug: aristotle-cosmology-telos
+      phrase: God is a prime mover
+    - slug: aristotle-as-censor
+      phrase: what I refer to as a sensor
+    - slug: philip-aristotle-parallel
+      phrase: compare contrast the life of Philip
+    - slug: pan-hellenic-project
+      phrase: pan helenic project
+    - slug: hellenistic-successor-kingdoms
+      phrase: empire was divided into three major fragments
+    - slug: library-alexandria-museum
+      phrase: Library of Alexandria
+    claim_refs:
+    - '#aristotle-paradox-opening'
+    - '#plato-forms-contrast'
+    - '#aristotle-cosmology-telos'
+    - '#aristotle-as-censor'
+    - '#philip-aristotle-parallel'
+    - '#pan-hellenic-project'
+    - '#hellenistic-successor-kingdoms'
+    - '#library-alexandria-museum'
+  civ-14:
+    part_id: part-03-roman-imperium
+    sections:
+    - slug: rome-power-map-opening
+      phrase: we start Rome today
+    - slug: open-citizenship-manpower
+      phrase: welcome you as a citizen
+    - slug: character-values-frame
+      phrase: value system or what is known as the character
+    - slug: pyrrhus-first-punic
+      phrase: his name is Pyrrhus
+    - slug: hannibal-cannae-crisis
+      phrase: Battle of Cannae
+    - slug: cohesion-discipline-devotion
+      phrase: cohesion do the soldiers
+    - slug: carthage-destruction-close
+      phrase: Rome in the third Punic War from 149
+    - slug: brutus-republic-myth
+      phrase: Lucius Brutus
+    claim_refs:
+    - '#rome-power-map-opening'
+    - '#open-citizenship-manpower'
+    - '#pyrrhus-first-punic'
+    - '#hannibal-cannae-crisis'
+    - '#cohesion-discipline-devotion'
+    - '#character-values-frame'
+    - '#brutus-republic-myth'
+    - '#carthage-destruction-close'
+  civ-15:
+    part_id: part-03-roman-imperium
+    sections:
+    - slug: three-questions-mythmaker
+      phrase: what did he want what were his motivations
+    - slug: mythmaker-definition
+      phrase: he was a myth maker okay A mythmaker
+    - slug: assassination-identity-threat
+      phrase: they killed Julius Caesar because
+    - slug: post-146-imperial-republic
+      phrase: by 146 Rome had become a contradiction
+    - slug: first-triumvirate
+      phrase: called the first triumvirate
+    - slug: caesar-commentaries-dispatches
+      phrase: read the composition of Caesar
+    - slug: civil-war-rubicon
+      phrase: cross the Rubicon
+    - slug: clemency-personality-cult
+      phrase: offers clemency to the enemy
+    claim_refs:
+    - '#three-questions-mythmaker'
+    - '#mythmaker-definition'
+    - '#post-146-imperial-republic'
+    - '#caesar-commentaries-dispatches'
+    - '#first-triumvirate'
+    - '#civil-war-rubicon'
+    - '#clemency-personality-cult'
+    - '#assassination-identity-threat'
+  civ-16:
+    part_id: part-03-roman-imperium
+    sections:
+    - slug: caesar-will-octavian-frame
+      phrase: read the will of Caesar
+    - slug: second-triumvirate-phases
+      phrase: second triumvirate
+    - slug: philippi-actium-settlement
+      phrase: Battle of Philippi
+    - slug: augustan-settlement
+      phrase: declare him Augustus Caesar
+    - slug: assassination-myth-crystallizes
+      phrase: death of Caesar allow Octavian
+    - slug: pomerium-senate-taboo
+      phrase: idea of the pomerium
+    - slug: antony-self-defeat
+      phrase: he basically self-destructs he didn't have to
+    - slug: adoptive-succession-weakness
+      phrase: Emperors would be adopted
+    claim_refs:
+    - '#caesar-will-octavian-frame'
+    - '#assassination-myth-crystallizes'
+    - '#philippi-actium-settlement'
+    - '#antony-self-defeat'
+    - '#pomerium-senate-taboo'
+    - '#augustan-settlement'
+    - '#adoptive-succession-weakness'
+  civ-17:
+    part_id: part-03-roman-imperium
+    sections:
+    - slug: rome-greece-review
+      phrase: comparing contrast it to the Greeks
+    - slug: augustus-praetorian-army
+      phrase: Praetorian Guard
+    - slug: aeneas-myth-legitimacy
+      phrase: man named Aeneas
+    - slug: literature-roman-identity
+      phrase: greatest work of propaganda ever in human history
+    - slug: homer-virgil-frame
+      phrase: compare and contrast the Iliad and the Odyssey
+    - slug: homer-love-imagination
+      phrase: love is the basis of civilization
+    - slug: virgil-piety-eternity
+      phrase: piety is the basis of civilization
+    - slug: egypt-eternity-handoff
+      phrase: Where do they get the idea of Eternity from
+    claim_refs:
+    - '#rome-greece-review'
+    - '#augustus-praetorian-army'
+    - '#aeneas-myth-legitimacy'
+    - '#homer-virgil-frame'
+    - '#homer-love-imagination'
+    - '#virgil-piety-eternity'
+    - '#literature-roman-identity'
+    - '#egypt-eternity-handoff'
+  civ-18:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: three-questions-opening
+      phrase: today in today's class I'm going to look at three questions
+    - slug: houdin-inside-out-model
+      phrase: French architect named Jean-Pierre Houdin
+    - slug: tomb-resurrection-debate
+      phrase: for the longest time the accepted theory is this was a
+    - slug: manhattan-project-frame
+      phrase: Great Pyramid was designed as Egypt's Manhattan Project
+    - slug: drought-kiloyear-event
+      phrase: kiloyear event happened
+    - slug: pyramid-economy-costs
+      phrase: you need a pyramid economy okay a pyramid economy
+    - slug: imhotep-knowledge-system
+      phrase: his name is Imhotep
+    - slug: bronze-age-preview
+      phrase: next class we'll we'll look at Mesopotamia
+    claim_refs:
+    - '#three-questions-opening'
+    - '#houdin-inside-out-model'
+    - '#tomb-resurrection-debate'
+    - '#manhattan-project-frame'
+    - '#drought-kiloyear-event'
+    - '#pyramid-economy-costs'
+    - '#imhotep-knowledge-system'
+    - '#bronze-age-preview'
+  civ-19:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: framework-mythology-dialectic
+      phrase: before I begin um I want to make three General points
+    - slug: egypt-mesopotamia-contrast
+      phrase: Mesopotamia is a very different culture and civilization than Egypt
+    - slug: sumerian-uruk-origins
+      phrase: first great civilization of the Mesopotamia were the Sumerians
+    - slug: enuma-elish-creation
+      phrase: Mesopotamians okay they have a different myth of creation called the
+        enuma elesh
+    - slug: gilgamesh-immortality-quest
+      phrase: create something called The Epic of gilam mas and today we celebrate
+        the Epic of gamh
+    - slug: gilgamesh-pyramid-dialectic
+      phrase: dialectic with the pyramids
+    - slug: social-evolution-myth
+      phrase: evolution of societies over time
+    - slug: indus-preview
+      phrase: next class we'll discuss the indis valley civilization
+    claim_refs:
+    - '#framework-mythology-dialectic'
+    - '#egypt-mesopotamia-contrast'
+    - '#sumerian-uruk-origins'
+    - '#enuma-elish-creation'
+    - '#gilgamesh-immortality-quest'
+    - '#gilgamesh-pyramid-dialectic'
+    - '#social-evolution-myth'
+    - '#indus-preview'
+  civ-20:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: three-questions-opening
+      phrase: Today I'm going to look at three questions
+    - slug: bronze-trade-context
+      phrase: Middle Bronze Age
+    - slug: peaceful-egalitarian-evidence
+      phrase: we have not found any weapons of war
+    - slug: urban-design-standardization
+      phrase: In terms of sanitation
+    - slug: unreadable-script
+      phrase: impossible for us to decipher their written language
+    - slug: decline-multi-cause
+      phrase: collapsing trade networks
+    - slug: legacy-indian-religions
+      phrase: The first we know as **Hinduism**
+    - slug: proto-buddhist-speculative
+      phrase: Proto-Buddhist** religion
+    claim_refs:
+    - '#three-questions-opening'
+    - '#bronze-trade-context'
+    - '#peaceful-egalitarian-evidence'
+    - '#urban-design-standardization'
+    - '#unreadable-script'
+    - '#decline-multi-cause'
+    - '#legacy-indian-religions'
+    - '#proto-buddhist-speculative'
+  civ-21:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: bible-library-frame
+      phrase: good morning so today we start the Bible
+    - slug: three-myths-correction
+      phrase: there were three ideas about the Hebrew Bible
+    - slug: levant-history-david
+      phrase: now I'm going to talk a little about the broad history
+    - slug: exile-persian-shift
+      phrase: but after the Persian Empire returns them to judism
+    - slug: bible-apology-framework
+      phrase: now I want to talk about the Bible okay because the Bible is the mythology
+    - slug: jedp-political-real-estate
+      phrase: the school that supports the House of David
+    - slug: david-legitimacy-stories
+      phrase: so the last thing I want to talk about today is the apology of David
+    claim_refs:
+    - '#bible-library-frame'
+    - '#three-myths-correction'
+    - '#levant-history-david'
+    - '#exile-persian-shift'
+    - '#bible-apology-framework'
+    - '#jedp-political-real-estate'
+    - '#jedp-political-real-estate'
+    - '#david-legitimacy-stories'
+  civ-22:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: cosmology-not-chronology
+      phrase: okay so good morning we are continuing the Hebrew Bible
+    - slug: poet-god-covenants
+      phrase: so these are the three major reasons why Kings sponsor
+    - slug: cohesion-synchronization
+      phrase: the second purpose is create cohesion
+    - slug: differentiation-fluid-identity
+      phrase: all right now the last question is differentiation
+    - slug: yahwist-author
+      phrase: but the person who wrote the Bible especially Genesis
+    - slug: adam-eve-close-read
+      phrase: so let's go over some of her literary contributions
+    - slug: cain-abel-close-read
+      phrase: Cain argued with him okay Cain argued back
+    - slug: rachel-jacob-irony
+      phrase: the last story I will mention is a story of um Rachel and Jacob
+    claim_refs:
+    - '#cosmology-not-chronology'
+    - '#poet-god-covenants'
+    - '#cohesion-synchronization'
+    - '#differentiation-fluid-identity'
+    - '#yahwist-author'
+    - '#adam-eve-close-read'
+    - '#cain-abel-close-read'
+    - '#rachel-jacob-irony'
+  civ-23:
+    part_id: part-04-ancient-foundations
+    sections:
+    - slug: judaism-periods-overview
+      phrase: okay good morning so um let us do an overview
+    - slug: cyrus-messiah-frame
+      phrase: so what I will do now is I'm going to focus specifically on this period
+    - slug: zoroastrianism-doctrine
+      phrase: all right let's continue so we have this religion Zionism
+    - slug: ezra-canon-merge
+      phrase: a priest a Jewish priest named Ezra he returns to Jerusalem
+    - slug: christianity-forward-bridge
+      phrase: the Christians basically take all this
+    claim_refs:
+    - '#judaism-periods-overview'
+    - '#cyrus-messiah-frame'
+    - '#zoroastrianism-doctrine'
+    - '#ezra-canon-merge'
+    - '#christianity-forward-bridge'
+  civ-24:
+    part_id: part-05-christianity-and-islam
+    sections:
+    - slug: opening-frame
+      phrase: okay uh good morning today we are doing Jesus
+    - slug: historical-jesus
+      phrase: let's look at first what we know about the historical Jesus
+    - slug: biblical-jesus
+      phrase: now that we looked at the Historical Jesus let's look at the biblical
+        Jesus
+    - slug: original-sin-atonement
+      phrase: the biggest problem is the idea of atonement and original sin
+    - slug: jews-killed-jesus
+      phrase: the Bible says very explicitly at times that it was the Jews who killed
+        Jesus
+    - slug: jerusalem-context
+      phrase: before I talk about Jesus I want to talk about the historical circumstance
+    - slug: gnostic-layers
+      phrase: today we call these new religions narcissism
+    - slug: gospel-of-thomas
+      phrase: Gospel of Thomas which we recently discovered
+    - slug: martyrdom-paul-preview
+      phrase: if Jesus himself was a gnostic if this is what he taught
+    claim_refs:
+    - '#historical-jesus'
+    - '#historical-jesus'
+    - '#biblical-jesus'
+    - '#original-sin-atonement'
+    - '#jews-killed-jesus'
+    - '#gnostic-layers'
+    - '#gospel-of-thomas'
+    - '#martyrdom-paul-preview'
+  civ-25:
+    part_id: part-05-christianity-and-islam
+    sections:
+    - slug: opening-paradox
+      phrase: okay good morning um so last class we talked about
+    - slug: jesus-christianity-paradox
+      phrase: the kingdom of God is within us
+    - slug: paul-acts-frame
+      phrase: now let's talk about the life in Times of Paul
+    - slug: paul-biography
+      phrase: who is Paul we actually know very little
+    - slug: faith-circumcision
+      phrase: through faith in Jesus you will achieve salvation
+    - slug: james-conflict
+      phrase: James the just hears about this from all his Jewish friends
+    - slug: acts-rome-ending
+      phrase: when we come into Rome Paul was allowed
+    - slug: paul-spy-thesis
+      phrase: but I believe he was a spy for the Roman Empire
+    claim_refs:
+    - '#jesus-christianity-paradox'
+    - '#paul-biography'
+    - '#faith-circumcision'
+    - '#paul-acts-frame'
+    - '#acts-rome-ending'
+    - '#paul-spy-thesis'
+    - '#paul-spy-thesis'
+    - '#faith-circumcision'
+  civ-26:
+    part_id: part-05-christianity-and-islam
+    sections:
+    - slug: opening-monotheism
+      phrase: okay so good morning uh we are doing monotheism today
+    - slug: christian-tradition
+      phrase: let's look at the Christian tradition
+    - slug: lecture-reconstruction
+      phrase: as we discuss in our class historically that's not what happened
+    - slug: pauline-triumph
+      phrase: why is it that Paul's Church
+    - slug: constantine-nicaea
+      phrase: eventually emerged an emperor named Constantine and he had fought
+    - slug: godhead-equation
+      phrase: this is called The godhead all right
+    - slug: monotheism-modernity
+      phrase: these three new ideas are capitalism science and the nation state
+    claim_refs:
+    - '#christian-tradition'
+    - '#lecture-reconstruction'
+    - '#constantine-nicaea'
+    - '#godhead-equation'
+    - '#monotheism-modernity'
+  civ-27:
+    part_id: part-05-christianity-and-islam
+    sections:
+    - slug: opening-augustine
+      phrase: okay good morning um so we are doing Augustine today
+    - slug: end-of-history
+      phrase: call the end of History this is a concept
+    - slug: rome-sack-crisis
+      phrase: in 410 Rome is sacked and this is a problem
+    - slug: city-of-god
+      phrase: he writes a book called city of God
+    - slug: confessions-eden
+      phrase: we are going to look at two major works of um Augustine
+    - slug: lucretia-obedience
+      phrase: he talks about Lu lucrecia lucrecia
+    - slug: dark-ages-eastward
+      phrase: from Arabia will come a new religious moov called Islam
+    claim_refs:
+    - '#opening-augustine'
+    - '#end-of-history'
+    - '#rome-sack-crisis'
+    - '#city-of-god'
+    - '#confessions-eden'
+    - '#lucretia-obedience'
+    - '#dark-ages-eastward'
+  civ-28:
+    part_id: part-05-christianity-and-islam
+    sections:
+    - slug: source-scarcity
+      phrase: okay good morning um so we are doing Muhammad
+    - slug: abraham-family
+      phrase: Christians Jews and Arabs are all one big family why because in the
+        Bible
+    - slug: hadith-traditional
+      phrase: let's go over what is traditionally understood about Muhammad
+    - slug: revolutionary-analogies
+      phrase: the first is from 1850 to 1864 in China there's something called the
+        typing Rebellion
+    - slug: arabia-innovation-zone
+      phrase: in 600 CE the hotbed of innovation was actually here in the araban peninsula
+    - slug: jihad-land-promise
+      phrase: therefore we must fight a Jihad to take it back because that is God's
+        will
+    - slug: muhammad-unification
+      phrase: Muhammad was a revolutionary who wanted to overthrow the social order
+    - slug: whitewashing-close
+      phrase: why don't we know any of this why isn't this hot in history books
+    claim_refs:
+    - '#source-scarcity'
+    - '#abraham-family'
+    - '#revolutionary-analogies'
+    - '#arabia-innovation-zone'
+    - '#muhammad-unification'
+    - '#jihad-land-promise'
+    - '#whitewashing-close'
+  civ-29:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: opening-dante-peak
+      phrase: today we do Dante and Dante really is the height of civilization
+    - slug: tuscan-vernacular-epic
+      phrase: he chooses to write it in tusin
+    - slug: mary-center-theology
+      phrase: in Dante's rendering of Christian theology Mary is at the
+    - slug: paradox-structure-jigsaw
+      phrase: the first is the idea of paradox
+    - slug: three-revolutions-seeds
+      phrase: seeds of these three major revolutions
+    - slug: apocalyptic-overturn
+      phrase: completely overturn this tradition
+    - slug: augustine-review-frame
+      phrase: let's review Augustine
+    - slug: augustine-rebuttal
+      phrase: Dante is trying to rebut Augustine
+    - slug: god-imagination
+      phrase: you have to imagine God
+    claim_refs:
+    - '#opening-dante-peak'
+    - '#tuscan-vernacular-epic'
+    - '#apocalyptic-overturn'
+    - '#augustine-rebuttal'
+    - '#mary-center-theology'
+    - '#paradox-structure-jigsaw'
+    - '#god-imagination'
+    - '#three-revolutions-seeds'
+  civ-30:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: first-semester-close
+      phrase: we finished Dante today and this will be our last session
+    - slug: poetry-memorized
+      phrase: poetry is meant to be memorized
+    - slug: supplant-virgil
+      phrase: his mission is to supplant Virgil
+    - slug: unreliable-narrator
+      phrase: turns him into an unreliable guide
+    - slug: dido-virgil-limits
+      phrase: Virgil refuses to name ditto
+    - slug: kato-statius-merit
+      phrase: Kato is in purgatory
+    - slug: virgil-disappears-refusal
+      phrase: Virgil has run away at this climax
+    - slug: beatrice-love-trust
+      phrase: love is not about possession it's about trust
+    - slug: protestant-scientific-access
+      phrase: direct access to God
+    claim_refs:
+    - '#first-semester-close'
+    - '#poetry-memorized'
+    - '#supplant-virgil'
+    - '#unreliable-narrator'
+    - '#dido-virgil-limits'
+    - '#beatrice-love-trust'
+    - '#virgil-disappears-refusal'
+    - '#protestant-scientific-access'
+  civ-31:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: second-semester-frame
+      phrase: first class of the second semester
+    - slug: cycle-and-line-models
+      phrase: there's a cycle and then there's a line
+    - slug: oceanic-curve-model
+      phrase: call the oceanic curve of
+    - slug: no-moral-judgment
+      phrase: proposing is there's no moral
+    - slug: borderlands-pattern
+      phrase: called the Borderlands okay
+    - slug: boundary-collapse-pressures
+      phrase: boundary conditions of all
+    - slug: conflict-zone-hurricanes
+      phrase: this war in Ukraine it is a
+    claim_refs:
+    - '#second-semester-frame'
+    - '#cycle-and-line-models'
+    - '#no-moral-judgment'
+    - '#boundary-collapse-pressures'
+    - '#borderlands-pattern'
+    - '#conflict-zone-hurricanes'
+  civ-32:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: rome-america-parallels
+      phrase: Rome and United States it's very
+    - slug: cultural-military-triumph
+      phrase: cultural system that allowed it to
+    - slug: roman-citizenship-value
+      phrase: who gets to be a citizen who doesn't
+    - slug: republic-empire-tension
+      phrase: America cannot both be a
+    - slug: caracalla-rupture
+      phrase: of Caracalla which made
+    - slug: america-war-civil-violence
+      phrase: America will start a Civil War as
+    claim_refs:
+    - '#rome-america-parallels'
+    - '#cultural-military-triumph'
+    - '#roman-citizenship-value'
+    - '#republic-empire-tension'
+    - '#caracalla-rupture'
+    - '#america-war-civil-violence'
+  civ-33:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: byzantine-roman-continuation
+      phrase: seen the Byzantine Empire as a
+    - slug: scholarly-consensus-first
+      phrase: I want to present the scholarly
+    - slug: nicaea-trinity
+      phrase: Nicaea Nakia established the idea of the
+    - slug: theodosian-walls
+      phrase: the Theodosian walls which makes Conant
+    - slug: pagan-christian-contrast
+      phrase: individual soul is what
+    - slug: bureaucracy-stagnation
+      phrase: stagnation okay there's nothing new
+    claim_refs:
+    - '#byzantine-roman-continuation'
+    - '#scholarly-consensus-first'
+    - '#theodosian-walls'
+    - '#nicaea-trinity'
+    - '#pagan-christian-contrast'
+    - '#bureaucracy-stagnation'
+  civ-34:
+    part_id: part-06-medieval-imagination
+    sections:
+    - slug: holy-roman-western-continuation
+      phrase: Holy Roman Empire in the west we think
+    - slug: charlemagne-crowned
+      phrase: Charlemagne was crowned Holy Roman
+    - slug: catholic-church-coopt
+      phrase: in trying to co-op new people
+    - slug: rome-constantinople-schism
+      phrase: Rome and Conant pople
+    - slug: augustine-city-of-god-blueprint
+      phrase: he basically made city of God the
+    - slug: useful-fiction-close
+      phrase: Roman Empire was a useful fiction for
+    claim_refs:
+    - '#holy-roman-western-continuation'
+    - '#charlemagne-crowned'
+    - '#catholic-church-coopt'
+    - '#rome-constantinople-schism'
+    - '#augustine-city-of-god-blueprint'
+    - '#useful-fiction-close'
+  civ-35:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: fifth-pillar-thesis
+      phrase: five pillars
+    - slug: viking-age-frame
+      phrase: 793 to 1066
+    - slug: normandy-england-afterlife
+      phrase: normandy the normans
+    - slug: expansion-settlement-trade
+      phrase: settlements the first
+    - slug: community-before-individual
+      phrase: community is distinct from the individual
+    - slug: premodern-race-contrast
+      phrase: race and racism
+    claim_refs:
+    - '#fifth-pillar-thesis'
+    - '#viking-age-frame'
+    - '#expansion-settlement-trade'
+    - '#normandy-england-afterlife'
+    - '#community-before-individual'
+    - '#premodern-race-contrast'
+  civ-36:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: oral-reconstruction-limit
+      phrase: purposefully an oral tradition
+    - slug: archaeology-graves
+      phrase: dig up their graves
+    - slug: oral-intimacy-imagination
+      phrase: intimacy and bonding
+    - slug: literary-shame-watchfulness
+      phrase: shame you're very conscious
+    - slug: homer-dante-shakespeare
+      phrase: dante and shakespeare
+    - slug: civilization-creativity-loss
+      phrase: less creative because of civilization
+    claim_refs:
+    - '#oral-reconstruction-limit'
+    - '#archaeology-graves'
+    - '#oral-intimacy-imagination'
+    - '#literary-shame-watchfulness'
+    - '#homer-dante-shakespeare'
+    - '#civilization-creativity-loss'
+  civ-37:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: golden-age-divergence
+      phrase: dark ages uh islam was embarked
+    - slug: islam-sunni-shia-orientation
+      phrase: shia which is based primarily
+    - slug: baghdad-cosmopolitan-center
+      phrase: baghdad okay it
+    - slug: house-of-wisdom-translation
+      phrase: house of wisdom and it
+    - slug: golden-age-decline-mongols
+      phrase: mongols will sack baghdad
+    - slug: empire-literature-threshold
+      phrase: when it becomes an empire
+    claim_refs:
+    - '#golden-age-divergence'
+    - '#islam-sunni-shia-orientation'
+    - '#baghdad-cosmopolitan-center'
+    - '#house-of-wisdom-translation'
+    - '#golden-age-decline-mongols'
+    - '#empire-literature-threshold'
+  civ-38:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: china-model-test
+      phrase: china um obviously we are in china
+    - slug: four-inventions-creativity
+      phrase: compass paper print
+    - slug: hundred-schools-foundations
+      phrase: hundred schools
+    - slug: open-cooperative-competition
+      phrase: open cooperative
+    - slug: examination-center-control
+      phrase: examination that um promoted bureaucrats
+    - slug: confucian-bureaucratic-legitimation
+      phrase: bureaucratic
+    claim_refs:
+    - '#china-model-test'
+    - '#four-inventions-creativity'
+    - '#hundred-schools-foundations'
+    - '#open-cooperative-competition'
+    - '#confucian-bureaucratic-legitimation'
+    - '#examination-center-control'
+  civ-39:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: mongol-brutality-constraints
+      phrase: mongols have a terrible reputation for their brutality
+    - slug: nomadic-pastoral-culture
+      phrase: nomadic pastoral
+    - slug: steppe-agricultural-contrast
+      phrase: agricultural empires
+    - slug: walls-fortifications-response
+      phrase: great wall of of china
+    - slug: mongol-specialist-absorption
+      phrase: indian engineers
+    - slug: mythology-cultural-values
+      phrase: mythology
+    claim_refs:
+    - '#mongol-brutality-constraints'
+    - '#nomadic-pastoral-culture'
+    - '#steppe-agricultural-contrast'
+    - '#walls-fortifications-response'
+    - '#mongol-specialist-absorption'
+    - '#mythology-cultural-values'
+  civ-40:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: opening-crusades-bridge
+      phrase: doing the crusades
+    - slug: jesus-poverty-contrast
+      phrase: camel to go through
+    - slug: roman-successor-church
+      phrase: catholic church basically became
+    - slug: salvation-orthodoxy-power
+      phrase: enforce right thinking
+    - slug: scapegoating-mechanism
+      phrase: scapegoat
+    - slug: afterlife-worldview
+      phrase: happy afterlife
+    claim_refs:
+    - '#opening-crusades-bridge'
+    - '#jesus-poverty-contrast'
+    - '#roman-successor-church'
+    - '#salvation-orthodoxy-power'
+    - '#scapegoating-mechanism'
+    - '#afterlife-worldview'
+  civ-41:
+    part_id: part-07-world-after-rome
+    sections:
+    - slug: opening-renaissance-question
+      phrase: how did the Renaissance start
+    - slug: greece-christian-modernity
+      phrase: re-imagining of classical Greece
+    - slug: italian-citystates-competition
+      phrase: city states of Italy
+    - slug: divine-comedy-imagination
+      phrase: Divine Comedy
+    - slug: dante-most-responsible
+      phrase: Dante is most responsible
+    - slug: michelangelo-creation-adam
+      phrase: Creation of Adam
+    - slug: quiet-revolution-poetry
+      phrase: peacefully through the power of poetry
+    claim_refs:
+    - '#greece-christian-modernity'
+    - '#italian-citystates-competition'
+    - '#dante-most-responsible'
+    - '#divine-comedy-imagination'
+    - '#michelangelo-creation-adam'
+    - '#quiet-revolution-poetry'
+  civ-42:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: catholic-corruption-response
+      phrase: created by the Catholic religion
+    - slug: protestant-anxiety-belief
+      phrase: Anxiety. Why does it create anxiety?
+    - slug: work-discipline-anxiety
+      phrase: remove this anxiety by ordering your
+    - slug: capitalism-anxiety-birth
+      phrase: capitalism because of the anxiety
+    - slug: direct-access-god
+      phrase: direct access to God. Okay? So he's
+    - slug: durkheim-suicide-link
+      phrase: Email Durkham and he's a French
+    claim_refs:
+    - '#catholic-corruption-response'
+    - '#direct-access-god'
+    - '#protestant-anxiety-belief'
+    - '#work-discipline-anxiety'
+    - '#capitalism-anxiety-birth'
+    - '#durkheim-suicide-link'
+  civ-43:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: dante-science-bridge
+      phrase: really Dante who helped give give birth
+    - slug: theological-science-inquiry
+      phrase: three major theological assumptions
+    - slug: monotheism-designed-order
+      phrase: important idea is the idea of monotheism
+    - slug: copernicus-kepler-galileo-newton
+      phrase: to remember is that Copernicus was a
+    - slug: newton-theologian-not-secular
+      phrase: Newton didn't really see himself as a
+    - slug: newton-zionism-balfour
+      phrase: something called the Bal for declaration
+    claim_refs:
+    - '#dante-science-bridge'
+    - '#theological-science-inquiry'
+    - '#monotheism-designed-order'
+    - '#copernicus-kepler-galileo-newton'
+    - '#newton-theologian-not-secular'
+    - '#newton-zionism-balfour'
+  civ-44:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: conquistador-mercenaries-bandits
+      phrase: mercenaries. They're bandits. They're
+    - slug: islamic-mongol-interconnect
+      phrase: Islamic Empire is sort of to connect
+    - slug: disease-conquest-factor
+      phrase: lot of diseases, right? They got a
+    - slug: aztec-inca-hierarchy
+      phrase: They had uh hierarchy. They
+    - slug: taboo-worldview-collapse
+      phrase: ultimate taboo is. Okay, the ultimate
+    - slug: strict-hierarchy-vulnerability
+      phrase: strict hierarchy, it becomes the
+    claim_refs:
+    - '#islamic-mongol-interconnect'
+    - '#conquistador-mercenaries-bandits'
+    - '#disease-conquest-factor'
+    - '#aztec-inca-hierarchy'
+    - '#taboo-worldview-collapse'
+    - '#strict-hierarchy-vulnerability'
+  civ-45:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: gunpowder-rupture
+      phrase: doing the gunpowdered revolution
+    - slug: europe-1700-conquest-question
+      phrase: 1700 conquer the world
+    - slug: military-political-correspondence
+      phrase: Sparta, Athens, Macedonia, and Rome
+    - slug: professional-army-engineers
+      phrase: professional army, you need engineers
+    - slug: europe-gunpowder-innovation
+      phrase: innovated gunpowder and turned it into a
+    - slug: schooling-military-discipline
+      phrase: schooling model that we use today is
+    claim_refs:
+    - '#europe-1700-conquest-question'
+    - '#military-political-correspondence'
+    - '#gunpowder-rupture'
+    - '#professional-army-engineers'
+    - '#europe-gunpowder-innovation'
+    - '#schooling-military-discipline'
+  civ-46:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: french-revolution-trilogy-open
+      phrase: three-part series on the French Revolution
+    - slug: religious-worldview-foundation
+      phrase: underpins society and civilization
+    - slug: four-worldviews-succession
+      phrase: animistic and this is basically during
+    - slug: enlightenment-reason-debate
+      phrase: reason, debate and progress are the
+    - slug: rousseau-social-contract
+      phrase: he wrote the social contract. We will
+    - slug: nation-state-religion-transfer
+      phrase: religion becomes part of the nation
+    claim_refs:
+    - '#french-revolution-trilogy-open'
+    - '#religious-worldview-foundation'
+    - '#four-worldviews-succession'
+    - '#enlightenment-reason-debate'
+    - '#rousseau-social-contract'
+    - '#nation-state-religion-transfer'
+  civ-47:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: french-revolution-continues
+      phrase: So we continue the French Revolution
+    - slug: rousseau-philosopher-poet
+      phrase: philosopher poet of the revolution
+    - slug: robespierre-prophet-leader
+      phrase: prophet who will take his people into
+    - slug: robespierre-jesus-analogy
+      phrase: second coming of Jesus
+    - slug: reign-of-terror-virtue
+      phrase: reign of terror is a time of
+    - slug: robespierre-scapegoat-downfall
+      phrase: a scapegoat is someone
+    claim_refs:
+    - '#french-revolution-continues'
+    - '#rousseau-philosopher-poet'
+    - '#robespierre-prophet-leader'
+    - '#robespierre-jesus-analogy'
+    - '#reign-of-terror-virtue'
+    - '#robespierre-scapegoat-downfall'
+  civ-48:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: french-revolution-trilogy-close
+      phrase: finished the French Revolution trilogy
+    - slug: napoleon-needs-robespierre
+      phrase: Napoleon would not have been possible
+    - slug: talent-promotion-capacity
+      phrase: promote the talented
+    - slug: revolutionary-elite-promotion
+      phrase: promoting and rewarding those who are true
+    - slug: napoleon-empire-myth
+      phrase: mythologies are part of the collective
+    - slug: modern-myth-charisma-analogy
+      phrase: Think of Trump
+    claim_refs:
+    - '#french-revolution-trilogy-close'
+    - '#napoleon-needs-robespierre'
+    - '#talent-promotion-capacity'
+    - '#revolutionary-elite-promotion'
+    - '#napoleon-empire-myth'
+    - '#modern-myth-charisma-analogy'
+  civ-49:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: anglo-american-section-open
+      phrase: AngloAmerican Empire which rules the world
+    - slug: spanish-feudal-catholic-disaster
+      phrase: at this time in history, Spain was a
+    - slug: dutch-commercial-republic
+      phrase: call the Dutch Republic. Okay? Uh don't
+    - slug: corporations-capitalism-innovation
+      phrase: corporation in the world
+    - slug: dutch-forms-british-american
+      phrase: will become the model for the American
+    - slug: dutch-art-domestic-interior
+      phrase: this is a Dutch painting. This is a
+    claim_refs:
+    - '#anglo-american-section-open'
+    - '#spanish-feudal-catholic-disaster'
+    - '#dutch-commercial-republic'
+    - '#corporations-capitalism-innovation'
+    - '#dutch-art-domestic-interior'
+    - '#dutch-forms-british-american'
+  civ-50:
+    part_id: part-08-birth-of-modernity
+    sections:
+    - slug: greatest-empire-question
+      phrase: England become the greatest empire in
+    - slug: geography-island-adaptation
+      phrase: England, Wales, Scotland, it is an
+    - slug: open-competitive-cooperation
+      phrase: open competitive cooperation
+    - slug: invasion-elite-replacement
+      phrase: elites were constantly replaced by new elites
+    - slug: british-constitution-america
+      phrase: the basis for the American constitution
+    - slug: american-political-analogies
+      phrase: America today, Donald Trump, right? You
+    claim_refs:
+    - '#greatest-empire-question'
+    - '#geography-island-adaptation'
+    - '#invasion-elite-replacement'
+    - '#open-competitive-cooperation'
+    - '#british-constitution-america'
+    - '#american-political-analogies'
+  civ-51:
+    part_id: part-09-age-of-conscience
+    sections:
+    - slug: four-modern-civilizations
+      phrase: four great modern civilizations
+    - slug: white-mans-burden
+      phrase: white men's burden
+    - slug: language-of-empire-question
+      phrase: how did Shakespeare transform English
+    - slug: diction-vocabulary
+      phrase: what we call diction
+    - slug: iambic-pentameter
+      phrase: i'm a pentameter
+    - slug: theater-mass-education
+      phrase: theater is primarily the means
+    claim_refs:
+    - '#four-modern-civilizations'
+    - '#white-mans-burden'
+    - '#language-of-empire-question'
+    - '#diction-vocabulary'
+    - '#iambic-pentameter'
+    - '#theater-mass-education'
+  civ-52:
+    part_id: part-09-age-of-conscience
+    sections:
+    - slug: america-modern-competitor
+      phrase: four major civilizations that are competing
+    - slug: anti-civilization-design
+      phrase: designed as the anti-ivilization
+    - slug: puritan-literacy-boston
+      phrase: Boston from the very beginning it's a literate society
+    - slug: franklin-self-help
+      phrase: self-help uh fad
+    - slug: hamilton-constitution-empire
+      phrase: genius of the constitution
+    - slug: empire-of-democracy-lincoln
+      phrase: we are an empire of democracy
+    claim_refs:
+    - '#america-modern-competitor'
+    - '#anti-civilization-design'
+    - '#puritan-literacy-boston'
+    - '#franklin-self-help'
+    - '#hamilton-constitution-empire'
+    - '#empire-of-democracy-lincoln'
+  civ-53:
+    part_id: part-09-age-of-conscience
+    sections:
+    - slug: russia-third-modern-civ
+      phrase: Today we'll do Russia
+    - slug: human-heart-mystery
+      phrase: greatest mystery
+    - slug: putin-ukraine-question
+      phrase: why did Putin invade Ukraine
+    - slug: moscow-marginal-vassalage
+      phrase: Moscow along
+    - slug: crime-and-punishment-heart
+      phrase: what crime and punishment will show us
+    - slug: grand-inquisitor-kiss
+      phrase: He kisses the Grand Inquisitor
+    claim_refs:
+    - '#russia-third-modern-civ'
+    - '#human-heart-mystery'
+    - '#putin-ukraine-question'
+    - '#moscow-marginal-vassalage'
+    - '#crime-and-punishment-heart'
+    - '#grand-inquisitor-kiss'
+  civ-54:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: unity-of-will-german
+      phrase: unity of will in German civilization today
+    - slug: prussia-not-militarist-myth
+      phrase: Western prejudice against Prussia is wrong
+    - slug: frederick-great-reforms
+      phrase: Fedic the Great who is considered uh the great nation builder of Prussia
+    - slug: prussian-education-meritocracy
+      phrase: conceptualize public education as a meritocracy
+    - slug: wagner-unity-of-will
+      phrase: through music we can rediscover the unity of the world, the unity of
+        the will
+    - slug: hitler-catastrophic-mobilization
+      phrase: these ideas in the context of warmer republic will lead to the rise
+        of the Nazis and Hitler
+    claim_refs:
+    - '#unity-of-will-german'
+    - '#prussia-not-militarist-myth'
+    - '#frederick-great-reforms'
+    - '#prussian-education-meritocracy'
+    - '#wagner-unity-of-will'
+    - '#hitler-catastrophic-mobilization'
+  civ-55:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: kant-dante-imagination-love
+      phrase: imagination is the animating force of the universe and love is the unifying
+        force
+    - slug: critique-of-pure-reason
+      phrase: critique of pure reason
+    - slug: synthetic-a-priori
+      phrase: whether or not a priority synthetic knowledge exists
+    - slug: hegel-geist-resolution
+      phrase: He's going to resolve these three issues for Kant
+    - slug: hegel-dialectic
+      phrase: the main thing that moves is the dialectic
+    - slug: kant-hegel-science-bridge
+      phrase: will go inspire neuroscience, artificial intelligence and uh quantum
+        mechanics
+    claim_refs:
+    - '#kant-dante-imagination-love'
+    - '#critique-of-pure-reason'
+    - '#synthetic-a-priori'
+    - '#hegel-geist-resolution'
+    - '#hegel-dialectic'
+    - '#kant-hegel-science-bridge'
+  civ-56:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: marx-dialectical-materialism
+      phrase: dialectical materialism which is idea of class struggle
+    - slug: marx-capitalism-diagnosis
+      phrase: embedded in capitalism is the seeds of its demise
+    - slug: religion-before-economics
+      phrase: religion that drives human history
+    - slug: marx-three-mistakes-religion
+      phrase: people care about religion not economics
+    - slug: capitalism-communism-same-religion
+      phrase: Capitalism and communism are the same religion
+    - slug: freud-forward-pointer
+      phrase: next Tuesday we do Freud
+    claim_refs:
+    - '#marx-dialectical-materialism'
+    - '#marx-capitalism-diagnosis'
+    - '#religion-before-economics'
+    - '#marx-three-mistakes-religion'
+    - '#capitalism-communism-same-religion'
+    - '#freud-forward-pointer'
+  civ-57:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: freud-after-kant-hegel-marx
+      phrase: Freud will come along and he will present a completely different conception
+    - slug: id-ego-superego
+      phrase: these three forces are the superego, the ego and the id
+    - slug: jung-collective-unconscious
+      phrase: The collective unconscious is embedded through society
+    - slug: modernism-cult-of-self
+      phrase: easiest definition is cult of the self
+    - slug: freud-protects-powerful-interests
+      phrase: his system was designed to pro protect the interests of powerful interests,
+        powerful men
+    - slug: freud-trauma-then-fantasy
+      phrase: at first was shocked. I think everyone would be shocked
+    claim_refs:
+    - '#freud-after-kant-hegel-marx'
+    - '#modernism-cult-of-self'
+    - '#id-ego-superego'
+    - '#jung-collective-unconscious'
+    - '#freud-trauma-then-fantasy'
+    - '#freud-protects-powerful-interests'
+  civ-58:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: nation-state-definition
+      phrase: Nation state is composed of two words nation and state
+    - slug: nationalism-political-religion
+      phrase: nationalism can absorb other ideas
+    - slug: rousseau-general-will
+      phrase: something called the general will which is the collective mind of the
+        people
+    - slug: german-romantic-geist
+      phrase: The Germans believe in the gist
+    - slug: eugenics-origin
+      phrase: this also leads to the idea of eugenics
+    - slug: sets-up-stalin-america-close
+      phrase: we're going to focus in Tyler Stalin next class
+    claim_refs:
+    - '#nation-state-definition'
+    - '#nationalism-political-religion'
+    - '#rousseau-general-will'
+    - '#german-romantic-geist'
+    - '#eugenics-origin'
+    - '#sets-up-stalin-america-close'
+  civ-59:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: stalin-greatest-man-thesis
+      phrase: Joseph Stalin is probably the greatest man who ever lived
+    - slug: stalin-willed-reality
+      phrase: Stalin willed this reality into being
+    - slug: lenin-secret-police-sponsorship
+      phrase: The secret police was a active supporter of Vladimir Lenin
+    - slug: continuous-revolution-purge
+      phrase: he maintains the the stability and the vitality of the revolution is
+        by constantly purging his enemies
+    - slug: great-purge-show-trials
+      phrase: something called the great purge which is continued revolution
+    - slug: operation-barbarossa-counterfactual
+      phrase: Hitler launches operation barbarosa
+    claim_refs:
+    - '#stalin-greatest-man-thesis'
+    - '#stalin-willed-reality'
+    - '#lenin-secret-police-sponsorship'
+    - '#continuous-revolution-purge'
+    - '#great-purge-show-trials'
+    - '#operation-barbarossa-counterfactual'
+  civ-60:
+    part_id: part-10-rise-of-the-nation-state
+    sections:
+    - slug: bretton-woods-reserve-currency
+      phrase: The American currency will become the reserve currency of the world
+    - slug: exorbitant-privilege
+      phrase: exorbitant privilege
+    - slug: pax-americana-rules-order
+      phrase: In the fact of Americana, what matters is the international rulesbased
+        order
+    - slug: easy-money-destroy-nations
+      phrase: If you want to nuke an economy and a nation you really want to destroy
+        an economy in a nation give them easy money
+    - slug: putin-ukraine-resources-pyramid
+      phrase: Russia invaded Ukraine because if Russia were able to dominate Ukraine
+    - slug: course-close-imagination-love
+      phrase: The imagination is the animating animating force of the universe
+    claim_refs:
+    - '#bretton-woods-reserve-currency'
+    - '#exorbitant-privilege'
+    - '#pax-americana-rules-order'
+    - '#easy-money-destroy-nations'
+    - '#putin-ukraine-resources-pyramid'
+    - '#course-close-imagination-love'

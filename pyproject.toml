@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "predictive-history"
+version = "0.1.0"
+description = "Provider-neutral Predictive History public namespace catalog and study orientation."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Predictive History contributors" }]
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Education"]
+dependencies = ["PyYAML>=6.0"]
+
+[project.scripts]
+predictive-history = "civ_ph.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

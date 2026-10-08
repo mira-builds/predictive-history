@@ -1,0 +1,9 @@
+sections:
+  - title: Opening
+    split: paragraph
+  - title: Core Analysis
+    split: paragraph
+  - title: Strategic Implications
+    split: paragraph
+  - title: Closing Questions
+    split: paragraph

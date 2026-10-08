@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public orientation card",
+  "type": "object",
+  "required": [
+    "source_id",
+    "title",
+    "series",
+    "part",
+    "placement_weight",
+    "review_status",
+    "sections",
+    "source_snapshot"
+  ],
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "pattern": "^(civ|gb|geo|gt|sh)-[0-9]{2}$"
+    },
+    "series": {
+      "type": "string",
+      "enum": [
+        "civilization",
+        "great-books",
+        "geo-strategy",
+        "game-theory",
+        "secret-history"
+      ]
+    },
+    "part": {
+      "type": "string",
+      "enum": [
+        "civilization",
+        "world-war"
+      ]
+    },
+    "placement_weight": {
+      "type": "string",
+      "enum": [
+        "strong",
+        "medium",
+        "light"
+      ]
+    },
+    "sections": {
+      "type": "object",
+      "required": [
+        "Where This Sits",
+        "Reading Posture",
+        "Historical Pressure Points",
+        "Limits of the Frame",
+        "Return Path"
+      ]
+    }
+  }
+}

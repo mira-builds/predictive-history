@@ -1,0 +1,872 @@
+{
+  "schema_version": 5,
+  "scope": "essays",
+  "fingerprint": "bd967d557b8a4a2b",
+  "card_count": 43,
+  "transcript_word_total": 54107,
+  "ssot": "data/cards.jsonl",
+  "markdown_index": "essays/predictive-history-essay-index.md",
+  "hub_index": "docs/predictive-history-index.md",
+  "chapters": [
+    {
+      "source_id": "essay-2025-08-06-vision-mission-goals",
+      "title": "Vision, Mission, Goals",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-06-vision-mission-goals.md",
+        "commentary": "commentaries/essay-2025-08-06-vision-mission-goals-commentary.md"
+      },
+      "transcript_word_count": 684,
+      "publication_date": "2025-08-06",
+      "source_video_url": "https://predictivehistory.substack.com/p/vision-mission-goals",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-08-continuity-of-government-is-a-joke",
+      "title": "\"Continuity of Government\" is a Joke. Here's Why.",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-08-continuity-of-government-is-a-joke.md",
+        "commentary": "commentaries/essay-2025-08-08-continuity-of-government-is-a-joke-commentary.md"
+      },
+      "transcript_word_count": 847,
+      "publication_date": "2025-08-08",
+      "source_video_url": "https://predictivehistory.substack.com/p/continuity-of-government-is-a-joke",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-13-the-third-coming",
+      "title": "The Third Coming",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-13-the-third-coming.md",
+        "commentary": "commentaries/essay-2025-08-13-the-third-coming-commentary.md"
+      },
+      "transcript_word_count": 1246,
+      "publication_date": "2025-08-13",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-third-coming",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-20-the-secret-history-of-the-world-1",
+      "title": "The Secret History of the World #1: The Cost of Money",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-20-the-secret-history-of-the-world-1.md",
+        "commentary": "commentaries/essay-2025-08-20-the-secret-history-of-the-world-1-commentary.md"
+      },
+      "transcript_word_count": 1256,
+      "publication_date": "2025-08-20",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-1",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-22-the-secret-history-of-the-world-2",
+      "title": "The Secret History of the World #2: Measuring the Resilience of Societies",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-22-the-secret-history-of-the-world-2.md",
+        "commentary": "commentaries/essay-2025-08-22-the-secret-history-of-the-world-2-commentary.md"
+      },
+      "transcript_word_count": 792,
+      "publication_date": "2025-08-22",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-2",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-26-the-secret-history-of-the-world-3",
+      "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-26-the-secret-history-of-the-world-3.md",
+        "commentary": "commentaries/essay-2025-08-26-the-secret-history-of-the-world-3-commentary.md"
+      },
+      "transcript_word_count": 1704,
+      "publication_date": "2025-08-26",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-3",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-08-29-the-secret-history-of-the-world-4",
+      "title": "The Secret History of the World #4: Enter Epstein Island",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-08-29-the-secret-history-of-the-world-4.md",
+        "commentary": "commentaries/essay-2025-08-29-the-secret-history-of-the-world-4-commentary.md"
+      },
+      "transcript_word_count": 1514,
+      "publication_date": "2025-08-29",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-4",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-05-the-secret-history-of-the-world-5",
+      "title": "The Secret History of the World #5: The Poetry of Transgression",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-05-the-secret-history-of-the-world-5.md",
+        "commentary": "commentaries/essay-2025-09-05-the-secret-history-of-the-world-5-commentary.md"
+      },
+      "transcript_word_count": 1656,
+      "publication_date": "2025-09-05",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-5",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-09-the-secret-history-of-the-world-6",
+      "title": "The Secret History of the World #6: Manchurian Candidates",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-09-the-secret-history-of-the-world-6.md",
+        "commentary": "commentaries/essay-2025-09-09-the-secret-history-of-the-world-6-commentary.md"
+      },
+      "transcript_word_count": 1362,
+      "publication_date": "2025-09-09",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-secret-history-of-the-world-6",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-12-secret-history-7-the-voyage-home",
+      "title": "Secret History #7: The Voyage Home",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-12-secret-history-7-the-voyage-home.md",
+        "commentary": "commentaries/essay-2025-09-12-secret-history-7-the-voyage-home-commentary.md"
+      },
+      "transcript_word_count": 958,
+      "publication_date": "2025-09-12",
+      "source_video_url": "https://predictivehistory.substack.com/p/secret-history-7-the-voyage-home",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-13-tipping-point-usa",
+      "title": "Tipping Point USA",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-13-tipping-point-usa.md",
+        "commentary": "commentaries/essay-2025-09-13-tipping-point-usa-commentary.md"
+      },
+      "transcript_word_count": 1189,
+      "publication_date": "2025-09-13",
+      "source_video_url": "https://predictivehistory.substack.com/p/tipping-point-usa",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-17-i-have-questions-about-tyler-robinson",
+      "title": "I Have Questions about Tyler Robinson",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-17-i-have-questions-about-tyler-robinson.md",
+        "commentary": "commentaries/essay-2025-09-17-i-have-questions-about-tyler-robinson-commentary.md"
+      },
+      "transcript_word_count": 2428,
+      "publication_date": "2025-09-17",
+      "source_video_url": "https://predictivehistory.substack.com/p/i-have-questions-about-tyler-robinson",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-20-predictive-history-reading-list",
+      "title": "\"Predictive History\" Reading List",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-20-predictive-history-reading-list.md",
+        "commentary": "commentaries/essay-2025-09-20-predictive-history-reading-list-commentary.md"
+      },
+      "transcript_word_count": 777,
+      "publication_date": "2025-09-20",
+      "source_video_url": "https://predictivehistory.substack.com/p/predictive-history-reading-list",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-22-what-can-be-done",
+      "title": "What Can Be Done?",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-22-what-can-be-done.md",
+        "commentary": "commentaries/essay-2025-09-22-what-can-be-done-commentary.md"
+      },
+      "transcript_word_count": 1555,
+      "publication_date": "2025-09-22",
+      "source_video_url": "https://predictivehistory.substack.com/p/what-can-be-done",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-09-27-the-empire-goes-to-war",
+      "title": "The Empire Goes to War",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-09-27-the-empire-goes-to-war.md",
+        "commentary": "commentaries/essay-2025-09-27-the-empire-goes-to-war-commentary.md"
+      },
+      "transcript_word_count": 1224,
+      "publication_date": "2025-09-27",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-empire-goes-to-war",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-01-war-machine-usa",
+      "title": "War Machine USA",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-01-war-machine-usa.md",
+        "commentary": "commentaries/essay-2025-10-01-war-machine-usa-commentary.md"
+      },
+      "transcript_word_count": 1404,
+      "publication_date": "2025-10-01",
+      "source_video_url": "https://predictivehistory.substack.com/p/war-machine-usa",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-03-why-i-refuse-to-get-rich",
+      "title": "Why I Refuse to Get Rich",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-03-why-i-refuse-to-get-rich.md",
+        "commentary": "commentaries/essay-2025-10-03-why-i-refuse-to-get-rich-commentary.md"
+      },
+      "transcript_word_count": 1115,
+      "publication_date": "2025-10-03",
+      "source_video_url": "https://predictivehistory.substack.com/p/why-i-refuse-to-get-rich",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+      "title": "Secret History #8: The Rise of the American Kakistocracy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy.md",
+        "commentary": "commentaries/essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy-commentary.md"
+      },
+      "transcript_word_count": 1052,
+      "publication_date": "2025-10-10",
+      "source_video_url": "https://predictivehistory.substack.com/p/secret-history-8-the-rise-of-the-american-kakistocracy",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-12-the-limits-of-pax-judaica",
+      "title": "The Limits of Pax Judaica",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-12-the-limits-of-pax-judaica.md",
+        "commentary": "commentaries/essay-2025-10-12-the-limits-of-pax-judaica-commentary.md"
+      },
+      "transcript_word_count": 927,
+      "publication_date": "2025-10-12",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-limits-of-pax-judaica",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-15-secret-history-10-the-war-of-heaven",
+      "title": "Secret History #9: The War of Heaven and Hell",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-15-secret-history-10-the-war-of-heaven.md",
+        "commentary": "commentaries/essay-2025-10-15-secret-history-10-the-war-of-heaven-commentary.md"
+      },
+      "transcript_word_count": 969,
+      "publication_date": "2025-10-15",
+      "source_video_url": "https://predictivehistory.substack.com/p/secret-history-10-the-war-of-heaven",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2025-10-17-secret-history-10-the-great-revealing",
+      "title": "Secret History #10: The Great Revealing",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2025-10-17-secret-history-10-the-great-revealing.md",
+        "commentary": "commentaries/essay-2025-10-17-secret-history-10-the-great-revealing-commentary.md"
+      },
+      "transcript_word_count": 830,
+      "publication_date": "2025-10-17",
+      "source_video_url": "https://predictivehistory.substack.com/p/secret-history-10-the-great-revealing",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-01-03-blowback-venezuela",
+      "title": "Blowback Venezuela",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-01-03-blowback-venezuela.md",
+        "commentary": "commentaries/essay-2026-01-03-blowback-venezuela-commentary.md"
+      },
+      "transcript_word_count": 1129,
+      "publication_date": "2026-01-03",
+      "source_video_url": "https://predictivehistory.substack.com/p/blowback-venezuela",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-01-10-minnesota-burning",
+      "title": "Minnesota Burning",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-01-10-minnesota-burning.md",
+        "commentary": "commentaries/essay-2026-01-10-minnesota-burning-commentary.md"
+      },
+      "transcript_word_count": 922,
+      "publication_date": "2026-01-10",
+      "source_video_url": "https://predictivehistory.substack.com/p/minnesota-burning",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-01-17-iran-greenland-and-canada",
+      "title": "Iran, Greenland, and Canada",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-01-17-iran-greenland-and-canada.md",
+        "commentary": "commentaries/essay-2026-01-17-iran-greenland-and-canada-commentary.md"
+      },
+      "transcript_word_count": 775,
+      "publication_date": "2026-01-17",
+      "source_video_url": "https://predictivehistory.substack.com/p/iran-greenland-and-canada",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-01-24-carneys-speech-and-trumps-letter",
+      "title": "Carney’s Speech and Trump’s Letter",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-01-24-carneys-speech-and-trumps-letter.md",
+        "commentary": "commentaries/essay-2026-01-24-carneys-speech-and-trumps-letter-commentary.md"
+      },
+      "transcript_word_count": 1104,
+      "publication_date": "2026-01-24",
+      "source_video_url": "https://predictivehistory.substack.com/p/carneys-speech-and-trumps-letter",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-02-07-twilight-of-the-liberal-elite",
+      "title": "Twilight of the Liberal Elite",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-02-07-twilight-of-the-liberal-elite.md",
+        "commentary": "commentaries/essay-2026-02-07-twilight-of-the-liberal-elite-commentary.md"
+      },
+      "transcript_word_count": 1061,
+      "publication_date": "2026-02-07",
+      "source_video_url": "https://predictivehistory.substack.com/p/twilight-of-the-liberal-elite",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-02-14-welcome-to-the-rupture",
+      "title": "Welcome to the Rupture",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-02-14-welcome-to-the-rupture.md",
+        "commentary": "commentaries/essay-2026-02-14-welcome-to-the-rupture-commentary.md"
+      },
+      "transcript_word_count": 1568,
+      "publication_date": "2026-02-14",
+      "source_video_url": "https://predictivehistory.substack.com/p/welcome-to-the-rupture",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-02-21-countdown-to-iran",
+      "title": "Countdown to Iran",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-02-21-countdown-to-iran.md",
+        "commentary": "commentaries/essay-2026-02-21-countdown-to-iran-commentary.md"
+      },
+      "transcript_word_count": 1211,
+      "publication_date": "2026-02-21",
+      "source_video_url": "https://predictivehistory.substack.com/p/countdown-to-iran",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-02-28-world-war-iii-begins",
+      "title": "World War III Begins",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-02-28-world-war-iii-begins.md",
+        "commentary": "commentaries/essay-2026-02-28-world-war-iii-begins-commentary.md"
+      },
+      "transcript_word_count": 932,
+      "publication_date": "2026-02-28",
+      "source_video_url": "https://predictivehistory.substack.com/p/world-war-iii-begins",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-03-07-the-acceleration",
+      "title": "The Acceleration",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-03-07-the-acceleration.md",
+        "commentary": "commentaries/essay-2026-03-07-the-acceleration-commentary.md"
+      },
+      "transcript_word_count": 1574,
+      "publication_date": "2026-03-07",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-acceleration",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-03-14-vietnam-redux",
+      "title": "Vietnam Redux",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-03-14-vietnam-redux.md",
+        "commentary": "commentaries/essay-2026-03-14-vietnam-redux-commentary.md"
+      },
+      "transcript_word_count": 1324,
+      "publication_date": "2026-03-14",
+      "source_video_url": "https://predictivehistory.substack.com/p/vietnam-redux",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-03-21-the-us-iran-end-game",
+      "title": "The US-Iran End Game",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-03-21-the-us-iran-end-game.md",
+        "commentary": "commentaries/essay-2026-03-21-the-us-iran-end-game-commentary.md"
+      },
+      "transcript_word_count": 1288,
+      "publication_date": "2026-03-21",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-end-game",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-04-04-world-war-trump",
+      "title": "World War Trump",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-04-world-war-trump.md",
+        "commentary": "commentaries/essay-2026-04-04-world-war-trump-commentary.md"
+      },
+      "transcript_word_count": 1300,
+      "publication_date": "2026-04-04",
+      "source_video_url": "https://predictivehistory.substack.com/p/world-war-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-04-11-our-wtf-years",
+      "title": "Our WTF! Years",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-11-our-wtf-years.md",
+        "commentary": "commentaries/essay-2026-04-11-our-wtf-years-commentary.md"
+      },
+      "transcript_word_count": 1493,
+      "publication_date": "2026-04-11",
+      "source_video_url": "https://predictivehistory.substack.com/p/our-wtf-years",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-04-18-the-us-iran-war-round-two",
+      "title": "The US-Iran War, Round Two",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-18-the-us-iran-war-round-two.md",
+        "commentary": "commentaries/essay-2026-04-18-the-us-iran-war-round-two-commentary.md"
+      },
+      "transcript_word_count": 1251,
+      "publication_date": "2026-04-18",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-04-25-the-trump-new-deal",
+      "title": "The Trump New Deal",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-04-25-the-trump-new-deal.md",
+        "commentary": "commentaries/essay-2026-04-25-the-trump-new-deal-commentary.md"
+      },
+      "transcript_word_count": 1296,
+      "publication_date": "2026-04-25",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-trump-new-deal",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-01-god-emperor-trump",
+      "title": "God Emperor Trump",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "medium",
+      "paths": {
+        "transcript": "essays/essay-2026-05-01-god-emperor-trump.md",
+        "commentary": "commentaries/essay-2026-05-01-god-emperor-trump-commentary.md"
+      },
+      "transcript_word_count": 1202,
+      "publication_date": "2026-05-01",
+      "source_video_url": "https://predictivehistory.substack.com/p/god-emperor-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-09-the-us-china-grand-bargain",
+      "title": "The US-China Grand Bargain",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-05-09-the-us-china-grand-bargain.md",
+        "commentary": "commentaries/essay-2026-05-09-the-us-china-grand-bargain-commentary.md"
+      },
+      "transcript_word_count": 1815,
+      "publication_date": "2026-05-09",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-us-china-grand-bargain",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-16-chinas-third-center-strategy",
+      "title": "China's Third Center Strategy",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-05-16-chinas-third-center-strategy.md",
+        "commentary": "commentaries/essay-2026-05-16-chinas-third-center-strategy-commentary.md"
+      },
+      "transcript_word_count": 1923,
+      "publication_date": "2026-05-16",
+      "source_video_url": "https://predictivehistory.substack.com/p/chinas-third-center-strategy",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-23-the-loneliness-of-mad-king-trump",
+      "title": "The Loneliness of Mad King Trump",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-05-23-the-loneliness-of-mad-king-trump.md",
+        "commentary": "commentaries/essay-2026-05-23-the-loneliness-of-mad-king-trump-commentary.md"
+      },
+      "transcript_word_count": 1634,
+      "publication_date": "2026-05-23",
+      "source_video_url": "https://predictivehistory.substack.com/p/the-loneliness-of-mad-king-trump",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-05-30-peter-thiels-republic",
+      "title": "Peter Thiel's Republic",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-05-30-peter-thiels-republic.md",
+        "commentary": "commentaries/essay-2026-05-30-peter-thiels-republic-commentary.md"
+      },
+      "transcript_word_count": 1580,
+      "publication_date": "2026-05-30",
+      "source_video_url": "https://predictivehistory.substack.com/p/peter-thiels-republic",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-06-13-welcome-to-boomer-hell",
+      "title": "Welcome to Boomer Hell",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-06-13-welcome-to-boomer-hell.md",
+        "commentary": "commentaries/essay-2026-06-13-welcome-to-boomer-hell-commentary.md"
+      },
+      "transcript_word_count": 1147,
+      "publication_date": "2026-06-13",
+      "source_video_url": "https://predictivehistory.substack.com/p/welcome-to-boomer-hell",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    },
+    {
+      "source_id": "essay-2026-06-19-peace-in-our-time",
+      "title": "Peace in Our Time?",
+      "part": "civilization",
+      "surface": "ph-civ",
+      "volume_label": "Volume I — Civilization (law discovery)",
+      "series": "essays",
+      "review_status": "in_review",
+      "placement_weight": "strong",
+      "paths": {
+        "transcript": "essays/essay-2026-06-19-peace-in-our-time.md",
+        "commentary": "commentaries/essay-2026-06-19-peace-in-our-time-commentary.md"
+      },
+      "transcript_word_count": 1089,
+      "publication_date": "2026-06-19",
+      "source_video_url": "https://predictivehistory.substack.com/p/peace-in-our-time",
+      "commentary_maturity": "scaffold",
+      "scaffold_version": "ph_civ_commentary_canvas_v1",
+      "deprecated_part_routing": false
+    }
+  ]
+}

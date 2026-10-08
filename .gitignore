@@ -1,0 +1,19 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Local junctions: mirrored skills resolve to strategy-codex (machine-specific; do not commit)
+.cursor/skills/check-streams
+.cursor/skills/academy-mirror-sync
+.cursor/skills/youtube-raw-input-transcript
+.cursor/skills/repo-hygiene-pass
+.cursor/skills/handoff-check
+.cursor/skills/portable-skills-sync
+.cursor/skills/transcript-cleanup
+.cursor/skills/transcript-proper-noun-normalization
+.cursor/skills/coffee
+.cursor/skills/repo-feedback-prompt

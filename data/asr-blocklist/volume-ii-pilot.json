@@ -1,0 +1,5435 @@
+{
+  "version": "2026-06-09",
+  "scope": "volume-ii civ-01..18",
+  "pilot_slugs": [
+    "civ-01",
+    "civ-02",
+    "civ-03",
+    "civ-04",
+    "civ-05",
+    "civ-06",
+    "civ-07",
+    "civ-08",
+    "civ-09",
+    "civ-10",
+    "civ-11",
+    "civ-12",
+    "civ-13",
+    "civ-14",
+    "civ-15",
+    "civ-16",
+    "civ-17",
+    "civ-18"
+  ],
+  "source_script": "statecraft/civ-lens/jiang/ph-civ/scripts/_pilot_asr_normalize_civ01_civ07.py",
+  "allowed_residuals": [
+    {
+      "literal": "effing",
+      "note": "Pygmy forest-spirit gloss; civ-03 pilot left uncertain"
+    },
+    {
+      "literal": "zad",
+      "note": "uncertain proper noun; civ-07 pilot left unresolved"
+    },
+    {
+      "literal": "Macedone",
+      "note": "uncertain; civ-01 pilot left unresolved"
+    },
+    {
+      "literal": "Gobekli Tepes",
+      "note": "goes-corruption artifact; re-run repair_goes_corruption"
+    }
+  ],
+  "entries": [
+    {
+      "id": "plato-is-what-we-call-irrationalist-um-is-what-we-call-a",
+      "literal": "Plato is what we call irrationalist um is what we call an empiricist",
+      "replacement": "Plato is what we call a rationalist um Aristotle is what we call an empiricist"
+    },
+    {
+      "id": "those-who-criticized-pericles-were-now-exiled-from-a-the",
+      "literal": "those who criticized Pericles were now exiled from a therefore Peres",
+      "replacement": "those who criticized Pericles were now exiled from Athens therefore Pericles"
+    },
+    {
+      "id": "battle-of-um-um-what-what-what-s-that-battle-called-naga",
+      "literal": "Battle of um um what what what's that battle called\\nagain 31 AUM",
+      "replacement": "Battle of Actium"
+    },
+    {
+      "id": "upon-his-adoption-he-is-now-named-gayes-julius-cesar-oct",
+      "literal": "upon his adoption he is now named gayes Julius Cesar Octavius",
+      "replacement": "upon his adoption he is now named Gaius Julius Caesar Octavian"
+    },
+    {
+      "id": "augustus-caesar-his-name-has-nout-change",
+      "literal": "Augustus Caesar his name has\\nout change",
+      "replacement": "Augustus Caesar his name has\\nnow changed"
+    },
+    {
+      "id": "octavian-octavian-right-now-he-s-only-18",
+      "literal": "Octavian Octavian right now he's only 18",
+      "replacement": "Octavian right now he's only 18"
+    },
+    {
+      "id": "he-made-the-caly-which-was-full-nobility",
+      "literal": "he made the caly which was full nobility",
+      "replacement": "he made the cavalry which was full nobility"
+    },
+    {
+      "id": "in-many-ways-children-the-trojan-women",
+      "literal": "in many ways children the Trojan Women",
+      "replacement": "in many ways essentially the Trojan Women"
+    },
+    {
+      "id": "including-melow-an-island-called-melow",
+      "literal": "including melow an island called melow",
+      "replacement": "including Melos an island called Melos"
+    },
+    {
+      "id": "sang-okay-ro-romans-are-three-kingdoms",
+      "literal": "sang okay Ro Romans are three kingdoms",
+      "replacement": "Romance of the Three Kingdoms"
+    },
+    {
+      "id": "fights-for-the-thr-the-two-brothers",
+      "literal": "fights for the thr the two brothers",
+      "replacement": "fights for the throne the two brothers"
+    },
+    {
+      "id": "thousands-of-policies-around-greece",
+      "literal": "thousands of policies around Greece",
+      "replacement": "thousands of poleis around Greece"
+    },
+    {
+      "id": "and-then-and-then-heot-nis-dragged",
+      "literal": "and then and then heot\\nis dragged",
+      "replacement": "and then she is dragged"
+    },
+    {
+      "id": "daughter-of-oedipus-and-the-br-and",
+      "literal": "daughter of Oedipus and the BR and",
+      "replacement": "daughter of Oedipus and Jocasta and"
+    },
+    {
+      "id": "hanb-hannibal-harba-hannibal-barka",
+      "literal": "hanb Hannibal harba Hannibal Barka",
+      "replacement": "Hannibal Barca"
+    },
+    {
+      "id": "one-character-is-hecuba-and-hecuba",
+      "literal": "one character is hecuba and hecuba",
+      "replacement": "one character is Hecuba and Hecuba"
+    },
+    {
+      "id": "and-then-and-then-heot-is-dragged",
+      "literal": "and then and then heot is dragged",
+      "replacement": "and then she is dragged"
+    },
+    {
+      "id": "conflict-between-c-and-naristotle",
+      "literal": "conflict between C and\\nAristotle",
+      "replacement": "conflict between Plato and\\nAristotle"
+    },
+    {
+      "id": "from-the-pic-okay-meaning-ice-age",
+      "literal": "from the pic okay meaning Ice Age",
+      "replacement": "from the Ice Age"
+    },
+    {
+      "id": "neither-is-ratal-an-isolated-case",
+      "literal": "neither is ratal an isolated case",
+      "replacement": "neither is this an isolated case"
+    },
+    {
+      "id": "this-is-the-agent-is-what-we-call",
+      "literal": "this is the agent is what we call",
+      "replacement": "this is what we call"
+    },
+    {
+      "id": "agamemnon-was-an-right-agamemnon",
+      "literal": "Agamemnon was an right Agamemnon",
+      "replacement": "Agamemnon was in the right Agamemnon"
+    },
+    {
+      "id": "conflict-between-c-and-aristotle",
+      "literal": "conflict between C and Aristotle",
+      "replacement": "conflict between Plato and Aristotle"
+    },
+    {
+      "id": "behalf-of-aristes-and-the-f-say",
+      "literal": "behalf of aristes and the F say",
+      "replacement": "behalf of Orestes and the Furies say"
+    },
+    {
+      "id": "intialization-and-systemization",
+      "literal": "intialization and systemization",
+      "replacement": "institutionalization and systemization"
+    },
+    {
+      "id": "sparta-was-the-hedgemon-sparta",
+      "literal": "Sparta was the hedgemon sparta",
+      "replacement": "Sparta was the hegemon Sparta"
+    },
+    {
+      "id": "branch-age-collapsed-m-in-gree",
+      "literal": "branch age collapsed m in gree",
+      "replacement": "Bronze Age collapsed Mycenaean Greece"
+    },
+    {
+      "id": "came-from-that-period-laa-okay",
+      "literal": "came from that period laa okay",
+      "replacement": "came from that period Laozi okay"
+    },
+    {
+      "id": "if-we-understand-a-as-a-sensor",
+      "literal": "if we understand a as a sensor",
+      "replacement": "if we understand Aristotle as a sensor"
+    },
+    {
+      "id": "menas-and-his-brother-eg-menon",
+      "literal": "menas and his brother EG Menon",
+      "replacement": "Menelaus and his brother Agamemnon"
+    },
+    {
+      "id": "ramulus-is-descended-from-inas",
+      "literal": "ramulus is descended from inas",
+      "replacement": "Romulus is descended from Aeneas"
+    },
+    {
+      "id": "daughter-in-virginia-the-wind",
+      "literal": "daughter in Virginia the wind",
+      "replacement": "daughter at Aulis the wind"
+    },
+    {
+      "id": "great-bang-sorry-the-big-bang",
+      "literal": "great bang sorry the Big Bang",
+      "replacement": "Big Bang"
+    },
+    {
+      "id": "people-develop-huis-arrogance",
+      "literal": "people develop huis arrogance",
+      "replacement": "people develop hubris arrogance"
+    },
+    {
+      "id": "son-named-aristes-and-aristes",
+      "literal": "son named aristes and aristes",
+      "replacement": "son named Orestes and Orestes"
+    },
+    {
+      "id": "were-isis-um-sopes-and-europe",
+      "literal": "were Isis um sopes and Europe",
+      "replacement": "were Aeschylus, Sophocles, and Euripides"
+    },
+    {
+      "id": "athena-takes-pity-on-aristes",
+      "literal": "Athena takes pity on aristes",
+      "replacement": "Athena takes pity on Orestes"
+    },
+    {
+      "id": "authority-which-is-a-theough",
+      "literal": "authority which is a theough",
+      "replacement": "authority which is a theocracy"
+    },
+    {
+      "id": "both-aristes-and-the-fairies",
+      "literal": "both aristes and the fairies",
+      "replacement": "both Orestes and the Furies"
+    },
+    {
+      "id": "in-thebes-to-a-fean-princess",
+      "literal": "in Thebes to a fean princess",
+      "replacement": "in Thebes to a Theban princess"
+    },
+    {
+      "id": "sacrifice-your-daughter-ifia",
+      "literal": "sacrifice your daughter ifia",
+      "replacement": "sacrifice your daughter Iphigenia"
+    },
+    {
+      "id": "secretly-buries-polyes-creon",
+      "literal": "secretly buries polyes Creon",
+      "replacement": "secretly buries Polynices Creon"
+    },
+    {
+      "id": "sentences-integrity-to-death",
+      "literal": "sentences Integrity To Death",
+      "replacement": "sentences Antigone to death"
+    },
+    {
+      "id": "specialization-intialization",
+      "literal": "specialization intialization",
+      "replacement": "specialization institutionalization"
+    },
+    {
+      "id": "what-a-treat-a-treaties-does",
+      "literal": "what a treat a treaties does",
+      "replacement": "what Atreus does"
+    },
+    {
+      "id": "word-he-uses-is-called-ts-ts",
+      "literal": "word he uses is called TS TS",
+      "replacement": "word he uses is called telos"
+    },
+    {
+      "id": "atum-he-s-also-known-as-rah",
+      "literal": "atum he's also known as Rah",
+      "replacement": "Atum he's also known as Ra"
+    },
+    {
+      "id": "burials-of-the-yayah-people",
+      "literal": "burials of the yayah people",
+      "replacement": "burials of the Yamnaya people"
+    },
+    {
+      "id": "designated-to-be-prescribed",
+      "literal": "designated to be prescribed",
+      "replacement": "designated to be proscribed"
+    },
+    {
+      "id": "mother-clestra-and-augustus",
+      "literal": "mother clestra and Augustus",
+      "replacement": "mother Clytemnestra and Aegisthus"
+    },
+    {
+      "id": "piety-liberty-and-republica",
+      "literal": "piety Liberty and Republica",
+      "replacement": "piety Liberty and res publica"
+    },
+    {
+      "id": "restore-the-woman-nrepublic",
+      "literal": "restore the woman\\nRepublic",
+      "replacement": "restore the Roman\\nRepublic"
+    },
+    {
+      "id": "some-hots-would-break-khufu",
+      "literal": "some Hots would break Khufu",
+      "replacement": "some helots would break curfew"
+    },
+    {
+      "id": "peaceful-otan-and-artistic",
+      "literal": "peaceful otan and artistic",
+      "replacement": "peaceful egalitarian and artistic"
+    },
+    {
+      "id": "provincial-governor-of-gul",
+      "literal": "provincial governor of Gul",
+      "replacement": "provincial governor of Gaul"
+    },
+    {
+      "id": "restore-the-woman-republic",
+      "literal": "restore the woman Republic",
+      "replacement": "restore the Roman Republic"
+    },
+    {
+      "id": "so-a-treaties-becomes-king",
+      "literal": "so a treaties becomes king",
+      "replacement": "so Atreus becomes king"
+    },
+    {
+      "id": "ag-man-on-marri-s-clestra",
+      "literal": "AG man on marri's clestra",
+      "replacement": "Agamemnon marries Clytemnestra"
+    },
+    {
+      "id": "julie-c-the-assassination",
+      "literal": "Julie C the assassination",
+      "replacement": "Julius Caesar the assassination"
+    },
+    {
+      "id": "orestes-okay-agus-escapes",
+      "literal": "Orestes okay agus escapes",
+      "replacement": "Orestes escapes"
+    },
+    {
+      "id": "banished-from-your-polish",
+      "literal": "banished from your polish",
+      "replacement": "banished from your polis"
+    },
+    {
+      "id": "during-the-bran-age-there",
+      "literal": "during the bran age there",
+      "replacement": "during the Bronze Age there"
+    },
+    {
+      "id": "including-the-hots-belong",
+      "literal": "including the hots belong",
+      "replacement": "including the helots belong"
+    },
+    {
+      "id": "many-hots-and-the-sp-were",
+      "literal": "many Hots and the SP were",
+      "replacement": "many helots and the Spartans were"
+    },
+    {
+      "id": "pety-liberty-and-republic",
+      "literal": "pety Liberty and Republic",
+      "replacement": "piety Liberty and res publica"
+    },
+    {
+      "id": "prescription-prescription",
+      "literal": "prescription prescription",
+      "replacement": "proscription proscription"
+    },
+    {
+      "id": "story-of-the-children-war",
+      "literal": "story of the children war",
+      "replacement": "story of the Trojan War"
+    },
+    {
+      "id": "that-scares-cron-so-creon",
+      "literal": "that scares cron so Creon",
+      "replacement": "that scares Creon so Creon"
+    },
+    {
+      "id": "that-s-the-that-s-the-ilc",
+      "literal": "that's the that's the ilc",
+      "replacement": "that's the Iliad"
+    },
+    {
+      "id": "though-canine-disappeared",
+      "literal": "though canine disappeared",
+      "replacement": "though Canaan disappeared"
+    },
+    {
+      "id": "achilles-calls-aan-a-dog",
+      "literal": "achilles calls aan a dog",
+      "replacement": "Achilles calls Agamemnon a dog"
+    },
+    {
+      "id": "body-of-antigone-is-hmon",
+      "literal": "body of Antigone is hmon",
+      "replacement": "body of Antigone is Haemon"
+    },
+    {
+      "id": "build-the-parent-because",
+      "literal": "build the parent because",
+      "replacement": "build the pyramid because"
+    },
+    {
+      "id": "children-are-slaughtered",
+      "literal": "children are slaughtered",
+      "replacement": "Trojans are slaughtered"
+    },
+    {
+      "id": "decided-aesus-was-guilty",
+      "literal": "decided aesus was guilty",
+      "replacement": "decided Orestes was guilty"
+    },
+    {
+      "id": "destroy-the-masan-greece",
+      "literal": "destroy the masan Greece",
+      "replacement": "destroy Mycenaean Greece"
+    },
+    {
+      "id": "frequency-is-fp-and-fshp",
+      "literal": "frequency is FP and fshp",
+      "replacement": "frequency is F-sharp"
+    },
+    {
+      "id": "insulted-by-the-f-people",
+      "literal": "insulted by the F people",
+      "replacement": "insulted by the Theban people"
+    },
+    {
+      "id": "phac-mason-and-aristotle",
+      "literal": "phac Mason and Aristotle",
+      "replacement": "Philip and Macedon and Aristotle"
+    },
+    {
+      "id": "reimagines-his-fation-as",
+      "literal": "reimagines his fation as",
+      "replacement": "reimagines his funeral oration as"
+    },
+    {
+      "id": "she-makes-agius-now-king",
+      "literal": "she makes agius now king",
+      "replacement": "she makes Aegisthus now king"
+    },
+    {
+      "id": "talk-about-um-yides-okay",
+      "literal": "talk about um yides okay",
+      "replacement": "talk about Euripides okay"
+    },
+    {
+      "id": "that-scares-cron-so-cron",
+      "literal": "that scares cron so cron",
+      "replacement": "that scares Creon so Creon"
+    },
+    {
+      "id": "the-polish-any-questions",
+      "literal": "the Polish any questions",
+      "replacement": "the polis, any questions"
+    },
+    {
+      "id": "the-spars-had-discipline",
+      "literal": "the spars had discipline",
+      "replacement": "the Spartans had discipline"
+    },
+    {
+      "id": "vote-in-favor-of-aristes",
+      "literal": "vote in favor of aristes",
+      "replacement": "vote in favor of Orestes"
+    },
+    {
+      "id": "julius-caesar-and-austa",
+      "literal": "Julius Caesar and austa",
+      "replacement": "Julius Caesar and Augustus"
+    },
+    {
+      "id": "menos-tells-his-brother",
+      "literal": "Menos tells his brother",
+      "replacement": "Menelaus tells his brother"
+    },
+    {
+      "id": "victorious-kestra-kills",
+      "literal": "Victorious kestra kills",
+      "replacement": "Victorious Clytemnestra kills"
+    },
+    {
+      "id": "answer-is-yeah-man-okay",
+      "literal": "answer is yeah man okay",
+      "replacement": "answer is a man okay"
+    },
+    {
+      "id": "children-horse-strategy",
+      "literal": "children horse strategy",
+      "replacement": "Trojan horse strategy"
+    },
+    {
+      "id": "for-every-one-hot-sorry",
+      "literal": "for every one hot sorry",
+      "replacement": "for every one helot sorry"
+    },
+    {
+      "id": "guess-what-forties-when",
+      "literal": "guess what forties when",
+      "replacement": "guess what Thucydides when"
+    },
+    {
+      "id": "his-brother-is-menw-who",
+      "literal": "his brother is menw who",
+      "replacement": "his brother is Menelaus who"
+    },
+    {
+      "id": "in-egypt-and-in-samaria",
+      "literal": "in Egypt and in Samaria",
+      "replacement": "in Egypt and in Sumer"
+    },
+    {
+      "id": "macedonians-to-be-greek",
+      "literal": "macedonians to be Greek",
+      "replacement": "Macedonians to be Greek"
+    },
+    {
+      "id": "panh-helenistic-project",
+      "literal": "panh helenistic project",
+      "replacement": "pan-Hellenistic project"
+    },
+    {
+      "id": "path-of-leas-resistance",
+      "literal": "path of leas resistance",
+      "replacement": "path of least resistance"
+    },
+    {
+      "id": "people-like-the-emperis",
+      "literal": "people like the emperis",
+      "replacement": "people like the empiricists"
+    },
+    {
+      "id": "refus-to-worship-dianis",
+      "literal": "refus to worship dianis",
+      "replacement": "refuse to worship Dionysus"
+    },
+    {
+      "id": "so-clra-while-agamemnon",
+      "literal": "so clra while Agamemnon",
+      "replacement": "so Clytemnestra while Agamemnon"
+    },
+    {
+      "id": "what-the-play-rades-did",
+      "literal": "what the play rades did",
+      "replacement": "what the playwrights did"
+    },
+    {
+      "id": "wife-of-a-manar-because",
+      "literal": "wife of a Manar because",
+      "replacement": "wife of Agamemnon because"
+    },
+    {
+      "id": "hpp-lights-hopl-lights",
+      "literal": "HPP lights hopl lights",
+      "replacement": "hoplites"
+    },
+    {
+      "id": "playdoh-um-socres-aoso",
+      "literal": "Playdoh um socres aoso",
+      "replacement": "Plato, Socrates, Aristotle"
+    },
+    {
+      "id": "and-aristes-um-becomes",
+      "literal": "and aristes um becomes",
+      "replacement": "and Orestes um becomes"
+    },
+    {
+      "id": "and-the-the-say-to-him",
+      "literal": "and the the say to him",
+      "replacement": "and the Furies say to him"
+    },
+    {
+      "id": "confusion-nbureaucracy",
+      "literal": "confusion\\nbureaucracy",
+      "replacement": "Confucian bureaucracy"
+    },
+    {
+      "id": "happened-in-melos-okay",
+      "literal": "happened in Melos okay",
+      "replacement": "happened at Melos okay"
+    },
+    {
+      "id": "his-880-000-um-soldier",
+      "literal": "his 880,000 um Soldier",
+      "replacement": "his 80,000 soldier"
+    },
+    {
+      "id": "let-the-children-horse",
+      "literal": "let the children horse",
+      "replacement": "let the Trojan horse"
+    },
+    {
+      "id": "library-of-of-exandria",
+      "literal": "library of of exandria",
+      "replacement": "library of Alexandria"
+    },
+    {
+      "id": "obviously-thean-people",
+      "literal": "obviously thean people",
+      "replacement": "obviously the Athenian people"
+    },
+    {
+      "id": "offending-thean-people",
+      "literal": "offending thean people",
+      "replacement": "offending the Athenian people"
+    },
+    {
+      "id": "processes-the-greatest",
+      "literal": "processes the greatest",
+      "replacement": "possesses the greatest"
+    },
+    {
+      "id": "skeletons-of-the-yayah",
+      "literal": "skeletons of the yayah",
+      "replacement": "skeletons of the Yamnaya"
+    },
+    {
+      "id": "then-diis-the-wanderer",
+      "literal": "then diis the wanderer",
+      "replacement": "then Dionysus the wanderer"
+    },
+    {
+      "id": "these-880-000-soldiers",
+      "literal": "these 880,000 soldiers",
+      "replacement": "these 80,000 soldiers"
+    },
+    {
+      "id": "they-are-uh-aoral-okay",
+      "literal": "they are uh aoral okay",
+      "replacement": "they are uh immoral okay"
+    },
+    {
+      "id": "time-of-the-yaya-about",
+      "literal": "time of the yaya about",
+      "replacement": "time of the Yamnaya about"
+    },
+    {
+      "id": "we-thethan-people-will",
+      "literal": "we thethan people will",
+      "replacement": "we the Athenian people will"
+    },
+    {
+      "id": "while-caesar-was-in-go",
+      "literal": "while Caesar was in go",
+      "replacement": "while Caesar was in Gaul"
+    },
+    {
+      "id": "with-a-furious-the-old",
+      "literal": "with a furious the old",
+      "replacement": "with the Furies the old"
+    },
+    {
+      "id": "antigone-and-hmon-are",
+      "literal": "Antigone and hmon are",
+      "replacement": "Antigone and Haemon are"
+    },
+    {
+      "id": "eg-manan-killed-their",
+      "literal": "EG Manan killed their",
+      "replacement": "Agamemnon killed their"
+    },
+    {
+      "id": "and-arises-has-broken",
+      "literal": "and arises has broken",
+      "replacement": "and Orestes has broken"
+    },
+    {
+      "id": "arus-is-allowed-to-go",
+      "literal": "arus is allowed to go",
+      "replacement": "Orestes is allowed to go"
+    },
+    {
+      "id": "as-a-backai-are-about",
+      "literal": "as a backai are about",
+      "replacement": "as the Bacchae are about"
+    },
+    {
+      "id": "because-of-r-collapse",
+      "literal": "because of R collapse",
+      "replacement": "because of Bronze Age collapse"
+    },
+    {
+      "id": "bronate-civilizations",
+      "literal": "bronate civilizations",
+      "replacement": "Bronze Age civilizations"
+    },
+    {
+      "id": "called-the-the-lysium",
+      "literal": "called the the lysium",
+      "replacement": "called the Lyceum"
+    },
+    {
+      "id": "challenge-the-spin-to",
+      "literal": "challenge the spin to",
+      "replacement": "challenge the Sphinx to"
+    },
+    {
+      "id": "clestra-killed-man-on",
+      "literal": "clestra killed man on",
+      "replacement": "Clytemnestra killed Agamemnon"
+    },
+    {
+      "id": "computer-stimulations",
+      "literal": "computer stimulations",
+      "replacement": "computer simulations"
+    },
+    {
+      "id": "conquest-of-the-yayah",
+      "literal": "conquest of the yayah",
+      "replacement": "conquest of the Yamnaya"
+    },
+    {
+      "id": "control-over-the-hots",
+      "literal": "control over the hots",
+      "replacement": "control over the helots"
+    },
+    {
+      "id": "germanicus-germanicus",
+      "literal": "germanicus germanicus",
+      "replacement": "Germanicus Germanicus"
+    },
+    {
+      "id": "iselis-sopes-and-ides",
+      "literal": "iselis sopes and Ides",
+      "replacement": "Aeschylus, Sophocles, and Euripides"
+    },
+    {
+      "id": "pressure-bals-go-jewy",
+      "literal": "pressure bals go jewy",
+      "replacement": "precious metals and jewelry"
+    },
+    {
+      "id": "remaining-son-is-agus",
+      "literal": "remaining son is agus",
+      "replacement": "remaining son is Orestes"
+    },
+    {
+      "id": "repa-right-the-public",
+      "literal": "repa right the public",
+      "replacement": "res publica right the public"
+    },
+    {
+      "id": "sister-of-p-polynices",
+      "literal": "sister of P Polynices",
+      "replacement": "sister of Polynices"
+    },
+    {
+      "id": "talk-about-issus-okay",
+      "literal": "talk about issus okay",
+      "replacement": "talk about Aeschylus okay"
+    },
+    {
+      "id": "the-bran-age-collapse",
+      "literal": "the bran age collapse",
+      "replacement": "the Bronze Age collapse"
+    },
+    {
+      "id": "the-first-is-egan-who",
+      "literal": "the first is Egan who",
+      "replacement": "the first is Agamemnon who"
+    },
+    {
+      "id": "the-hots-to-be-slaves",
+      "literal": "the hots to be slaves",
+      "replacement": "the helots to be slaves"
+    },
+    {
+      "id": "we-do-samaria-samaria",
+      "literal": "we do Samaria Samaria",
+      "replacement": "we do Sumeria"
+    },
+    {
+      "id": "you-re-your-dog-eanon",
+      "literal": "you're your dog eanon",
+      "replacement": "you're your dog Agamemnon"
+    },
+    {
+      "id": "10-hots-for-everyone",
+      "literal": "10 hots for everyone",
+      "replacement": "10 helots for everyone"
+    },
+    {
+      "id": "alexander-the-greate",
+      "literal": "Alexander the greate",
+      "replacement": "Alexander the Great"
+    },
+    {
+      "id": "isis-sopes-and-yides",
+      "literal": "Isis sopes and yides",
+      "replacement": "Aeschylus, Sophocles, and Euripides"
+    },
+    {
+      "id": "j-caesar-and-leopard",
+      "literal": "J Caesar and leopard",
+      "replacement": "Julius Caesar and Lepidus"
+    },
+    {
+      "id": "republica-repa-means",
+      "literal": "Republica repa means",
+      "replacement": "res publica means"
+    },
+    {
+      "id": "against-other-polies",
+      "literal": "against other polies",
+      "replacement": "against other poleis"
+    },
+    {
+      "id": "and-ori-says-to-them",
+      "literal": "and Ori says to them",
+      "replacement": "and Orestes says to them"
+    },
+    {
+      "id": "aristes-tells-athena",
+      "literal": "aristes tells Athena",
+      "replacement": "Orestes tells Athena"
+    },
+    {
+      "id": "best-jours-in-greece",
+      "literal": "best jours in Greece",
+      "replacement": "best generals in Greece"
+    },
+    {
+      "id": "civil-mines-in-spain",
+      "literal": "civil mines in Spain",
+      "replacement": "silver mines in Spain"
+    },
+    {
+      "id": "cron-gets-very-angry",
+      "literal": "cron gets very angry",
+      "replacement": "Creon gets very angry"
+    },
+    {
+      "id": "cross-cross-the-alps",
+      "literal": "cross cross the Alps",
+      "replacement": "cross the Alps"
+    },
+    {
+      "id": "fation-is-considered",
+      "literal": "fation is considered",
+      "replacement": "oration is considered"
+    },
+    {
+      "id": "focusing-on-the-pois",
+      "literal": "focusing on the pois",
+      "replacement": "focusing on the poleis"
+    },
+    {
+      "id": "for-mason-and-greece",
+      "literal": "for Mason and Greece",
+      "replacement": "for Mycenaean Greece"
+    },
+    {
+      "id": "he-hecuba-s-daughter",
+      "literal": "he Hecuba's daughter",
+      "replacement": "Hecuba's daughter"
+    },
+    {
+      "id": "he-curses-a-treaties",
+      "literal": "he curses a treaties",
+      "replacement": "he curses Atreus"
+    },
+    {
+      "id": "it-s-irritate-second",
+      "literal": "it's irritate second",
+      "replacement": "it's arete second"
+    },
+    {
+      "id": "leopard-is-basically",
+      "literal": "leopard is basically",
+      "replacement": "Lepidus is basically"
+    },
+    {
+      "id": "per-comes-into-power",
+      "literal": "per comes into power",
+      "replacement": "Pericles comes into power"
+    },
+    {
+      "id": "phing-formation-phic",
+      "literal": "phing formation phic",
+      "replacement": "phalanx formation"
+    },
+    {
+      "id": "purpose-of-the-lysia",
+      "literal": "purpose of the lysia",
+      "replacement": "purpose of the Lyceum"
+    },
+    {
+      "id": "reading-forties-will",
+      "literal": "reading forties will",
+      "replacement": "reading Thucydides will"
+    },
+    {
+      "id": "remember-aristot-was",
+      "literal": "remember aristot was",
+      "replacement": "remember Aristotle was"
+    },
+    {
+      "id": "tallest-man-man-made",
+      "literal": "tallest man man-made",
+      "replacement": "tallest man-made"
+    },
+    {
+      "id": "the-christians-nhave",
+      "literal": "the Christians\\nhave",
+      "replacement": "the Etruscans\\nhave"
+    },
+    {
+      "id": "the-children-advance",
+      "literal": "the children Advance",
+      "replacement": "the Trojans advance"
+    },
+    {
+      "id": "the-means-controlled",
+      "literal": "the means controlled",
+      "replacement": "the Mycenaeans controlled"
+    },
+    {
+      "id": "the-playright-create",
+      "literal": "the playright create",
+      "replacement": "the playwrights create"
+    },
+    {
+      "id": "this-makes-cron-very",
+      "literal": "this makes cron very",
+      "replacement": "this makes Creon very"
+    },
+    {
+      "id": "universe-of-the-ilad",
+      "literal": "universe of the ilad",
+      "replacement": "universe of the Iliad"
+    },
+    {
+      "id": "what-a-the-great-did",
+      "literal": "what a the great did",
+      "replacement": "what Alexander the Great did"
+    },
+    {
+      "id": "what-the-spars-could",
+      "literal": "what the spars could",
+      "replacement": "what the Spartans could"
+    },
+    {
+      "id": "when-you-have-er-and",
+      "literal": "when you have ER and",
+      "replacement": "when you have arete and"
+    },
+    {
+      "id": "you-had-tonius-again",
+      "literal": "you had tonius again",
+      "replacement": "you had Antony again"
+    },
+    {
+      "id": "aros-is-what-called",
+      "literal": "Aros is what called",
+      "replacement": "Aristotle is what called"
+    },
+    {
+      "id": "eg-menan-gets-upset",
+      "literal": "EG Menan gets upset",
+      "replacement": "Agamemnon gets upset"
+    },
+    {
+      "id": "eternal-spiral-lamp",
+      "literal": "Eternal spiral lamp",
+      "replacement": "eternal spiral"
+    },
+    {
+      "id": "greek-general-aysus",
+      "literal": "Greek General aysus",
+      "replacement": "Greek general"
+    },
+    {
+      "id": "healy-but-the-healy",
+      "literal": "Healy but the Healy",
+      "replacement": "hilly but the hilly"
+    },
+    {
+      "id": "hector-kills-petras",
+      "literal": "Hector kills Petras",
+      "replacement": "Hector kills Patroclus"
+    },
+    {
+      "id": "john-pierre-nhoudin",
+      "literal": "John Pierre\\nhoudin",
+      "replacement": "Jean-Pierre Houdin"
+    },
+    {
+      "id": "achillus-is-feeling",
+      "literal": "achillus is feeling",
+      "replacement": "Achilles is feeling"
+    },
+    {
+      "id": "aens-is-a-democracy",
+      "literal": "aens is a democracy",
+      "replacement": "Athens is a democracy"
+    },
+    {
+      "id": "agus-is-responsible",
+      "literal": "agus is responsible",
+      "replacement": "Orestes is responsible"
+    },
+    {
+      "id": "backai-in-macedonia",
+      "literal": "backai in Macedonia",
+      "replacement": "Bacchae in Macedonia"
+    },
+    {
+      "id": "before-theah-humans",
+      "literal": "before theah humans",
+      "replacement": "before the Yamnaya humans"
+    },
+    {
+      "id": "before-thean-people",
+      "literal": "before thean people",
+      "replacement": "before the Athenian people"
+    },
+    {
+      "id": "body-of-jud-judices",
+      "literal": "body of Jud judices",
+      "replacement": "body of Julius Caesar"
+    },
+    {
+      "id": "brilant-politically",
+      "literal": "brilant politically",
+      "replacement": "brilliant politically"
+    },
+    {
+      "id": "call-an-emperis-all",
+      "literal": "call an emperis all",
+      "replacement": "call an empiricist all"
+    },
+    {
+      "id": "canine-is-important",
+      "literal": "canine is important",
+      "replacement": "Canaan is important"
+    },
+    {
+      "id": "collapsed-m-in-gree",
+      "literal": "collapsed m in gree",
+      "replacement": "collapsed Mycenaean Greece"
+    },
+    {
+      "id": "cron-and-his-guards",
+      "literal": "cron and his guards",
+      "replacement": "Creon and his guards"
+    },
+    {
+      "id": "cron-thinks-his-son",
+      "literal": "cron thinks his son",
+      "replacement": "Creon thinks his son"
+    },
+    {
+      "id": "daughter-eugenia-so",
+      "literal": "daughter Eugenia so",
+      "replacement": "daughter Iphigenia so"
+    },
+    {
+      "id": "daughter-of-um-edus",
+      "literal": "daughter of um edus",
+      "replacement": "daughter of Oedipus"
+    },
+    {
+      "id": "death-of-eugenia-so",
+      "literal": "death of Eugenia so",
+      "replacement": "death of Iphigenia so"
+    },
+    {
+      "id": "dianis-the-wanderer",
+      "literal": "dianis the wanderer",
+      "replacement": "Dionysus the wanderer"
+    },
+    {
+      "id": "eventure-will-decay",
+      "literal": "eventure will Decay",
+      "replacement": "eventually will decay"
+    },
+    {
+      "id": "hell-is-not-my-wife",
+      "literal": "hell is not my wife",
+      "replacement": "Helen is not my wife"
+    },
+    {
+      "id": "huge-children-horse",
+      "literal": "huge children horse",
+      "replacement": "huge Trojan horse"
+    },
+    {
+      "id": "in-the-ora-the-play",
+      "literal": "in the Ora the play",
+      "replacement": "in the Oresteia the play"
+    },
+    {
+      "id": "is-thata-of-liberty",
+      "literal": "is thata of Liberty",
+      "replacement": "is idea of Liberty"
+    },
+    {
+      "id": "menas-marries-helen",
+      "literal": "menas marries Helen",
+      "replacement": "Menelaus marries Helen"
+    },
+    {
+      "id": "most-orians-believe",
+      "literal": "most orians believe",
+      "replacement": "most historians believe"
+    },
+    {
+      "id": "named-at-trees-okay",
+      "literal": "named at trees okay",
+      "replacement": "named Atreus okay"
+    },
+    {
+      "id": "now-aristes-is-free",
+      "literal": "now aristes is free",
+      "replacement": "now Orestes is free"
+    },
+    {
+      "id": "place-called-canine",
+      "literal": "place called canine",
+      "replacement": "place called Canaan"
+    },
+    {
+      "id": "place-called-farcus",
+      "literal": "place called farcus",
+      "replacement": "place called Pharsalus"
+    },
+    {
+      "id": "plat-platonic-ideal",
+      "literal": "plat platonic ideal",
+      "replacement": "Platonic ideal"
+    },
+    {
+      "id": "polyus-who-rebelled",
+      "literal": "polyus who rebelled",
+      "replacement": "Polynices who rebelled"
+    },
+    {
+      "id": "power-of-dionis-and",
+      "literal": "power of dionis and",
+      "replacement": "power of Dionysus and"
+    },
+    {
+      "id": "pracy-of-the-senate",
+      "literal": "pracy of the Senate",
+      "replacement": "supremacy of the Senate"
+    },
+    {
+      "id": "real-children-horse",
+      "literal": "real children horse",
+      "replacement": "real Trojan horse"
+    },
+    {
+      "id": "remember-helin-runs",
+      "literal": "remember helin runs",
+      "replacement": "remember Helen runs"
+    },
+    {
+      "id": "shocking-about-daad",
+      "literal": "shocking about daad",
+      "replacement": "shocking about the Iliad"
+    },
+    {
+      "id": "sickled-in-the-vine",
+      "literal": "sickled in the vine",
+      "replacement": "sealed in the shrine"
+    },
+    {
+      "id": "that-s-what-a-wants",
+      "literal": "that's what a wants",
+      "replacement": "that's what Alexander wants"
+    },
+    {
+      "id": "the-christians-have",
+      "literal": "the Christians have",
+      "replacement": "the Etruscans have"
+    },
+    {
+      "id": "the-hots-to-prevent",
+      "literal": "the hots to prevent",
+      "replacement": "the helots to prevent"
+    },
+    {
+      "id": "the-phans-connected",
+      "literal": "the phans connected",
+      "replacement": "the Phoenicians connected"
+    },
+    {
+      "id": "tmus-marcus-and-cus",
+      "literal": "tmus Marcus and cus",
+      "replacement": "Decimus Marcus and Cassius"
+    },
+    {
+      "id": "want-the-hots-to-be",
+      "literal": "want the hots to be",
+      "replacement": "want the helots to be"
+    },
+    {
+      "id": "when-he-was-a-liive",
+      "literal": "when he was a liive",
+      "replacement": "when he was alive"
+    },
+    {
+      "id": "when-you-read-thead",
+      "literal": "when you read thead",
+      "replacement": "when you read the Iliad"
+    },
+    {
+      "id": "worked-on-the-ninad",
+      "literal": "worked on the\\ninad",
+      "replacement": "worked on the\\nAeneid"
+    },
+    {
+      "id": "c-cristianity-okay",
+      "literal": "C cristianity okay",
+      "replacement": "Christianity okay"
+    },
+    {
+      "id": "egan-man-should-be",
+      "literal": "Egan man should be",
+      "replacement": "Agamemnon should be"
+    },
+    {
+      "id": "festival-of-dianis",
+      "literal": "Festival of dianis",
+      "replacement": "Festival of Dionysus"
+    },
+    {
+      "id": "festival-of-dionis",
+      "literal": "Festival of dionis",
+      "replacement": "Festival of Dionysus"
+    },
+    {
+      "id": "i-ll-be-fing-a-lot",
+      "literal": "I'll be fing a lot",
+      "replacement": "I'll be throwing a lot"
+    },
+    {
+      "id": "jericho-and-um-kak",
+      "literal": "Jericho and um kak",
+      "replacement": "Jericho and Catalhoyuk"
+    },
+    {
+      "id": "liberty-and-republ",
+      "literal": "Liberty and republ",
+      "replacement": "Liberty and res publica"
+    },
+    {
+      "id": "across-the-agan-se",
+      "literal": "across the agan SE",
+      "replacement": "across the Aegean Sea"
+    },
+    {
+      "id": "aristes-goes-talks",
+      "literal": "aristes goes talks",
+      "replacement": "Orestes goes talks"
+    },
+    {
+      "id": "balance-of-apprais",
+      "literal": "balance of apprais",
+      "replacement": "broad surveys"
+    },
+    {
+      "id": "branch-it-collapse",
+      "literal": "branch it collapse",
+      "replacement": "Bronze Age collapse"
+    },
+    {
+      "id": "branchage-collapse",
+      "literal": "branchage collapse",
+      "replacement": "Bronze Age collapse"
+    },
+    {
+      "id": "called-the-yaya-um",
+      "literal": "called the yaya um",
+      "replacement": "called the Yamnaya um"
+    },
+    {
+      "id": "confusion-scholars",
+      "literal": "confusion Scholars",
+      "replacement": "Confucian scholars"
+    },
+    {
+      "id": "dionis-was-the-god",
+      "literal": "dionis was the god",
+      "replacement": "Dionysus was the god"
+    },
+    {
+      "id": "don-t-mean-to-negr",
+      "literal": "don't mean to negr",
+      "replacement": "don't mean to denigrate"
+    },
+    {
+      "id": "draki-must-witness",
+      "literal": "draki must witness",
+      "replacement": "Andromache must witness"
+    },
+    {
+      "id": "ensure-democ-stays",
+      "literal": "ensure democ stays",
+      "replacement": "ensure democracy stays"
+    },
+    {
+      "id": "fighting-the-goals",
+      "literal": "fighting the goals",
+      "replacement": "fighting the Gauls"
+    },
+    {
+      "id": "first-triumph-rate",
+      "literal": "first Triumph rate",
+      "replacement": "first triumvirate"
+    },
+    {
+      "id": "groups-of-yah-okay",
+      "literal": "groups of yah okay",
+      "replacement": "groups of Yamnaya okay"
+    },
+    {
+      "id": "har-is-was-running",
+      "literal": "har is was running",
+      "replacement": "Herodotus was writing"
+    },
+    {
+      "id": "he-leaves-his-coun",
+      "literal": "he leaves his coun",
+      "replacement": "he leaves his consulship"
+    },
+    {
+      "id": "in-this-polish-and",
+      "literal": "in this polish and",
+      "replacement": "in this polis and"
+    },
+    {
+      "id": "including-diis-but",
+      "literal": "including diis but",
+      "replacement": "including Dionysus but"
+    },
+    {
+      "id": "iselis-is-a-profit",
+      "literal": "iselis is a profit",
+      "replacement": "Aeschylus is a prophet"
+    },
+    {
+      "id": "mediterranian-okay",
+      "literal": "mediterranian okay",
+      "replacement": "Mediterranean okay"
+    },
+    {
+      "id": "place-like-goe-and",
+      "literal": "place like goe and",
+      "replacement": "place like Gobekli Tepe and"
+    },
+    {
+      "id": "pordan-the-ben-ben",
+      "literal": "pordan the Ben Ben",
+      "replacement": "pyramid the benben"
+    },
+    {
+      "id": "psychotic-dialogue",
+      "literal": "psychotic dialogue",
+      "replacement": "Socratic dialogue"
+    },
+    {
+      "id": "rly-different-from",
+      "literal": "rly different from",
+      "replacement": "really different from"
+    },
+    {
+      "id": "saying-toan-people",
+      "literal": "saying toan people",
+      "replacement": "saying to Athenian people"
+    },
+    {
+      "id": "see-the-ora-in-the",
+      "literal": "see the Ora in the",
+      "replacement": "see the Oresteia in the"
+    },
+    {
+      "id": "seizures-um-legacy",
+      "literal": "seizures um Legacy",
+      "replacement": "Caesar's Legacy"
+    },
+    {
+      "id": "so-the-fies-accept",
+      "literal": "so the fies accept",
+      "replacement": "so the Furies accept"
+    },
+    {
+      "id": "son-is-named-julus",
+      "literal": "son is named julus",
+      "replacement": "son is named Iulus"
+    },
+    {
+      "id": "spawning-young-man",
+      "literal": "spawning young man",
+      "replacement": "Spartan young man"
+    },
+    {
+      "id": "started-the-uh-lum",
+      "literal": "started the uh Lum",
+      "replacement": "started the Lyceum"
+    },
+    {
+      "id": "the-children-horse",
+      "literal": "the children horse",
+      "replacement": "the Trojan horse"
+    },
+    {
+      "id": "the-graty-brothers",
+      "literal": "the graty brothers",
+      "replacement": "the Gracchi brothers"
+    },
+    {
+      "id": "the-hels-are-going",
+      "literal": "the hels are going",
+      "replacement": "the helots are going"
+    },
+    {
+      "id": "the-parent-because",
+      "literal": "the parent because",
+      "replacement": "the pyramid because"
+    },
+    {
+      "id": "the-wunning-system",
+      "literal": "the wunning system",
+      "replacement": "the writing system"
+    },
+    {
+      "id": "there-s-a-spinx-an",
+      "literal": "there's a Spinx an",
+      "replacement": "there's a Sphinx an"
+    },
+    {
+      "id": "ultimately-the-aan",
+      "literal": "ultimately the aan",
+      "replacement": "ultimately the Aegean"
+    },
+    {
+      "id": "unique-to-the-ilad",
+      "literal": "unique to the ilad",
+      "replacement": "unique to the Iliad"
+    },
+    {
+      "id": "what-are-the-spers",
+      "literal": "what are the spers",
+      "replacement": "what are the Spartans"
+    },
+    {
+      "id": "what-is-er-er-just",
+      "literal": "what is er er just",
+      "replacement": "what is arete just"
+    },
+    {
+      "id": "when-hyon-s-mother",
+      "literal": "when hyon's mother",
+      "replacement": "when Haemon's mother"
+    },
+    {
+      "id": "who-are-the-yamaya",
+      "literal": "who are the yamaya",
+      "replacement": "who are the Yamnaya"
+    },
+    {
+      "id": "within-the-promium",
+      "literal": "within the promium",
+      "replacement": "within the pomerium"
+    },
+    {
+      "id": "eg-manan-consults",
+      "literal": "EG Manan consults",
+      "replacement": "Agamemnon consults"
+    },
+    {
+      "id": "fe-f-people-don-t",
+      "literal": "Fe F people don't",
+      "replacement": "Theban people don't"
+    },
+    {
+      "id": "leber-uh-libertin",
+      "literal": "Leber uh libertin",
+      "replacement": "libertine"
+    },
+    {
+      "id": "philip-the-second",
+      "literal": "Philip the Second",
+      "replacement": "Philip II"
+    },
+    {
+      "id": "republica-because",
+      "literal": "Republica because",
+      "replacement": "res publica because"
+    },
+    {
+      "id": "sabin-the-atrians",
+      "literal": "Sabin the atrians",
+      "replacement": "Sabines the Etruscans"
+    },
+    {
+      "id": "a-maki-and-j-maki",
+      "literal": "a Maki and J Maki",
+      "replacement": "Andromache and Andromache"
+    },
+    {
+      "id": "achronic-dialogue",
+      "literal": "achronic dialogue",
+      "replacement": "Socratic dialogue"
+    },
+    {
+      "id": "adicus-and-unlike",
+      "literal": "adicus and unlike",
+      "replacement": "Odysseus and unlike"
+    },
+    {
+      "id": "aent-of-the-great",
+      "literal": "aent of the great",
+      "replacement": "Alexander the Great"
+    },
+    {
+      "id": "ailles-who-killed",
+      "literal": "ailles who killed",
+      "replacement": "Achilles who killed"
+    },
+    {
+      "id": "air-ao-can-become",
+      "literal": "air AO can become",
+      "replacement": "Aristotle can become"
+    },
+    {
+      "id": "ancestor-was-enas",
+      "literal": "ancestor was enas",
+      "replacement": "ancestor was Aeneas"
+    },
+    {
+      "id": "aoto-is-a-fiction",
+      "literal": "aoto is a fiction",
+      "replacement": "Aristotle is a fiction"
+    },
+    {
+      "id": "aysus-in-disguise",
+      "literal": "aysus in Disguise",
+      "replacement": "Odysseus in disguise"
+    },
+    {
+      "id": "bank-row-the-army",
+      "literal": "bank Row the Army",
+      "replacement": "bankroll the Army"
+    },
+    {
+      "id": "body-of-the-feral",
+      "literal": "body of the feral",
+      "replacement": "body of the Pharaoh"
+    },
+    {
+      "id": "bran-age-collapse",
+      "literal": "bran age collapse",
+      "replacement": "Bronze Age collapse"
+    },
+    {
+      "id": "but-hell-did-that",
+      "literal": "but hell did that",
+      "replacement": "but Hannibal did that"
+    },
+    {
+      "id": "called-ts-ts-okay",
+      "literal": "called TS TS okay",
+      "replacement": "called telos okay"
+    },
+    {
+      "id": "clan-mestra-right",
+      "literal": "clan mestra right",
+      "replacement": "Clytemnestra right"
+    },
+    {
+      "id": "confusion-thought",
+      "literal": "confusion thought",
+      "replacement": "Confucian thought"
+    },
+    {
+      "id": "cron-sees-his-son",
+      "literal": "cron sees his son",
+      "replacement": "Creon sees his son"
+    },
+    {
+      "id": "dianis-the-legend",
+      "literal": "dianis The Legend",
+      "replacement": "Dionysus The Legend"
+    },
+    {
+      "id": "dianis-has-always",
+      "literal": "dianis has always",
+      "replacement": "Dionysus has always"
+    },
+    {
+      "id": "diis-is-worshiped",
+      "literal": "diis is worshiped",
+      "replacement": "Dionysus is worshiped"
+    },
+    {
+      "id": "douas-from-canada",
+      "literal": "douas from Canada",
+      "replacement": "Doug from Canada"
+    },
+    {
+      "id": "edus-now-the-king",
+      "literal": "edus now the king",
+      "replacement": "Oedipus now the king"
+    },
+    {
+      "id": "friend-petas-died",
+      "literal": "friend petas died",
+      "replacement": "friend Patroclus died"
+    },
+    {
+      "id": "gorgeous-dam-also",
+      "literal": "gorgeous Dam also",
+      "replacement": "Gorges Dam also"
+    },
+    {
+      "id": "guls-to-the-north",
+      "literal": "guls to the north",
+      "replacement": "Gauls to the north"
+    },
+    {
+      "id": "hear-and-it-seems",
+      "literal": "hear and it seems",
+      "replacement": "heir and it seems"
+    },
+    {
+      "id": "his-friend-petrus",
+      "literal": "his friend Petrus",
+      "replacement": "his friend Patroclus"
+    },
+    {
+      "id": "his-name-is-f-f-f",
+      "literal": "his name is f f f",
+      "replacement": "his name is Themistocles"
+    },
+    {
+      "id": "his-son-agus-okay",
+      "literal": "his son agus okay",
+      "replacement": "his son Orestes okay"
+    },
+    {
+      "id": "humer-was-writing",
+      "literal": "humer was writing",
+      "replacement": "Homer was writing"
+    },
+    {
+      "id": "in-goal-basically",
+      "literal": "in goal basically",
+      "replacement": "in Gaul basically"
+    },
+    {
+      "id": "interpret-the-bai",
+      "literal": "interpret the Bai",
+      "replacement": "interpret the Bacchae"
+    },
+    {
+      "id": "legitimate-hearer",
+      "literal": "legitimate hearer",
+      "replacement": "legitimate heir"
+    },
+    {
+      "id": "lot-of-hots-fight",
+      "literal": "lot of Hots fight",
+      "replacement": "lot of helots fight"
+    },
+    {
+      "id": "parents-have-been",
+      "literal": "parents have been",
+      "replacement": "pyramids have been"
+    },
+    {
+      "id": "play-called-oresa",
+      "literal": "play called oresa",
+      "replacement": "play called Oresteia"
+    },
+    {
+      "id": "point-of-the-ilad",
+      "literal": "point of the ilad",
+      "replacement": "point of the Iliad"
+    },
+    {
+      "id": "second-triumphant",
+      "literal": "second triumphant",
+      "replacement": "second triumvirate"
+    },
+    {
+      "id": "she-finds-aus-and",
+      "literal": "she finds Aus and",
+      "replacement": "she finds Aegisthus and"
+    },
+    {
+      "id": "so-many-hots-okay",
+      "literal": "so many Hots okay",
+      "replacement": "so many helots okay"
+    },
+    {
+      "id": "so-now-orisses-is",
+      "literal": "so now orisses is",
+      "replacement": "so now Orestes is"
+    },
+    {
+      "id": "so-what-the-spars",
+      "literal": "so what the spars",
+      "replacement": "so what the Spartans"
+    },
+    {
+      "id": "the-fy-say-to-her",
+      "literal": "the FY say to her",
+      "replacement": "the Furies say to her"
+    },
+    {
+      "id": "the-fies-say-okay",
+      "literal": "the fies say okay",
+      "replacement": "the Furies say okay"
+    },
+    {
+      "id": "the-hots-remember",
+      "literal": "the hots remember",
+      "replacement": "the helots remember"
+    },
+    {
+      "id": "the-naian-culture",
+      "literal": "the naian culture",
+      "replacement": "the Natufian culture"
+    },
+    {
+      "id": "the-spin-will-eat",
+      "literal": "the spin will eat",
+      "replacement": "the Sphinx will eat"
+    },
+    {
+      "id": "then-tey-responds",
+      "literal": "then Tey responds",
+      "replacement": "then Antigone responds"
+    },
+    {
+      "id": "then-hmon-says-no",
+      "literal": "then hmon says no",
+      "replacement": "then Haemon says no"
+    },
+    {
+      "id": "theory-of-the-per",
+      "literal": "theory of the per",
+      "replacement": "theory of the perfect"
+    },
+    {
+      "id": "virtue-is-running",
+      "literal": "virtue is running",
+      "replacement": "Virgil is writing"
+    },
+    {
+      "id": "wan-to-be-tyrants",
+      "literal": "wan to be tyrants",
+      "replacement": "would-be tyrants"
+    },
+    {
+      "id": "when-forties-when",
+      "literal": "when forties when",
+      "replacement": "when Thucydides when"
+    },
+    {
+      "id": "who-is-cron-s-son",
+      "literal": "who is Cron's son",
+      "replacement": "who is Creon's son"
+    },
+    {
+      "id": "win-the-po-office",
+      "literal": "win the PO office",
+      "replacement": "win political office"
+    },
+    {
+      "id": "wins-and-he-wants",
+      "literal": "wins and he wants",
+      "replacement": "consulship and he wants"
+    },
+    {
+      "id": "worship-of-dianis",
+      "literal": "worship of dianis",
+      "replacement": "worship of Dionysus"
+    },
+    {
+      "id": "2500-until-14400",
+      "literal": "2500 until 14400",
+      "replacement": "2500 until 1889"
+    },
+    {
+      "id": "battle-of-canine",
+      "literal": "Battle of canine",
+      "replacement": "Battle of Cannae"
+    },
+    {
+      "id": "bron-ag-collapse",
+      "literal": "Bron AG collapse",
+      "replacement": "Bronze Age collapse"
+    },
+    {
+      "id": "decimus-buddhist",
+      "literal": "Decimus Buddhist",
+      "replacement": "Decimus Brutus"
+    },
+    {
+      "id": "h-oou-the-houdin",
+      "literal": "H oou the houdin",
+      "replacement": "Houdin"
+    },
+    {
+      "id": "luci-is-buddhist",
+      "literal": "Luci is Buddhist",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "mark-eny-decides",
+      "literal": "Mark eny decides",
+      "replacement": "Mark Antony decides"
+    },
+    {
+      "id": "philip-and-ariso",
+      "literal": "Philip and ariso",
+      "replacement": "Philip and Aristotle"
+    },
+    {
+      "id": "pompei-the-great",
+      "literal": "Pompei the Great",
+      "replacement": "Pompey the Great"
+    },
+    {
+      "id": "pyrrhus-um-comes",
+      "literal": "Pyrrhus um comes",
+      "replacement": "Pyrrhus comes"
+    },
+    {
+      "id": "ses-to-apologize",
+      "literal": "SES to apologize",
+      "replacement": "Socrates to apologize"
+    },
+    {
+      "id": "spartan-aens-are",
+      "literal": "Spartan aens are",
+      "replacement": "Spartan Athenians are"
+    },
+    {
+      "id": "a-treaties-being",
+      "literal": "a treaties being",
+      "replacement": "Atreus being"
+    },
+    {
+      "id": "achilles-is-dead",
+      "literal": "achilles is dead",
+      "replacement": "Achilles is dead"
+    },
+    {
+      "id": "cesure-be-counil",
+      "literal": "cesure be counil",
+      "replacement": "Caesar be consul"
+    },
+    {
+      "id": "chence-newspaper",
+      "literal": "chence newspaper",
+      "replacement": "Chinese newspaper"
+    },
+    {
+      "id": "children-war-and",
+      "literal": "children War and",
+      "replacement": "Trojan War and"
+    },
+    {
+      "id": "cleopatra-forces",
+      "literal": "cleopatra forces",
+      "replacement": "Cleopatra forces"
+    },
+    {
+      "id": "conon-dissonance",
+      "literal": "conon dissonance",
+      "replacement": "cognitive dissonance"
+    },
+    {
+      "id": "control-the-hots",
+      "literal": "control the hots",
+      "replacement": "control the helots"
+    },
+    {
+      "id": "defeat-the-bamus",
+      "literal": "defeat the bamus",
+      "replacement": "defeat the barbarians"
+    },
+    {
+      "id": "die-of-salvation",
+      "literal": "die of Salvation",
+      "replacement": "die of starvation"
+    },
+    {
+      "id": "engage-in-reding",
+      "literal": "engage in reding",
+      "replacement": "engage in rent-seeking"
+    },
+    {
+      "id": "general-uh-sucas",
+      "literal": "general uh sucas",
+      "replacement": "general Seleucus"
+    },
+    {
+      "id": "gu-caesar-became",
+      "literal": "gu Caesar became",
+      "replacement": "Augustus Caesar became"
+    },
+    {
+      "id": "hecubus-daughter",
+      "literal": "hecubus daughter",
+      "replacement": "Hecuba's daughter"
+    },
+    {
+      "id": "hot-if-you-fight",
+      "literal": "hot if you fight",
+      "replacement": "helot if you fight"
+    },
+    {
+      "id": "imperal-republic",
+      "literal": "imperal Republic",
+      "replacement": "imperial Republic"
+    },
+    {
+      "id": "inas-and-chernes",
+      "literal": "inas and chernes",
+      "replacement": "Aeneas and Turnus"
+    },
+    {
+      "id": "issist-he-wanted",
+      "literal": "issist he wanted",
+      "replacement": "Aeschylus he wanted"
+    },
+    {
+      "id": "lepidus-octavian",
+      "literal": "lepidus Octavian",
+      "replacement": "Lepidus Octavian"
+    },
+    {
+      "id": "let-the-hots-run",
+      "literal": "let the hots run",
+      "replacement": "let the helots run"
+    },
+    {
+      "id": "now-aristes-upon",
+      "literal": "now aristes upon",
+      "replacement": "now Orestes upon"
+    },
+    {
+      "id": "or-theal-reality",
+      "literal": "or theal reality",
+      "replacement": "or material reality"
+    },
+    {
+      "id": "or-uh-divor-okay",
+      "literal": "or uh divor okay",
+      "replacement": "or uh diviner okay"
+    },
+    {
+      "id": "other-greek-pois",
+      "literal": "other Greek pois",
+      "replacement": "other poleis"
+    },
+    {
+      "id": "penel-and-anyone",
+      "literal": "penel and anyone",
+      "replacement": "Penelope and anyone"
+    },
+    {
+      "id": "pentas-says-okay",
+      "literal": "pentas says okay",
+      "replacement": "Pentheus says okay"
+    },
+    {
+      "id": "playright-create",
+      "literal": "playright create",
+      "replacement": "playwrights create"
+    },
+    {
+      "id": "pupy-will-mirror",
+      "literal": "pupy will mirror",
+      "replacement": "Penelope will marry"
+    },
+    {
+      "id": "so-r-s-goes-back",
+      "literal": "so R's goes back",
+      "replacement": "so Orestes goes back"
+    },
+    {
+      "id": "social-stattalus",
+      "literal": "social stAttalus",
+      "replacement": "social status"
+    },
+    {
+      "id": "stole-aer-s-body",
+      "literal": "stole aer's body",
+      "replacement": "stole Alexander's body"
+    },
+    {
+      "id": "thata-of-liberty",
+      "literal": "thata of Liberty",
+      "replacement": "idea of Liberty"
+    },
+    {
+      "id": "the-hs-would-run",
+      "literal": "the HS would run",
+      "replacement": "the helots would run"
+    },
+    {
+      "id": "the-benedic-king",
+      "literal": "the benedic King",
+      "replacement": "the benevolent King"
+    },
+    {
+      "id": "the-children-war",
+      "literal": "the children War",
+      "replacement": "the Trojan War"
+    },
+    {
+      "id": "the-council-ship",
+      "literal": "the council ship",
+      "replacement": "the consulship"
+    },
+    {
+      "id": "the-emperis-okay",
+      "literal": "the emperis okay",
+      "replacement": "the empiricists okay"
+    },
+    {
+      "id": "the-hots-so-they",
+      "literal": "the hots so they",
+      "replacement": "the helots so they"
+    },
+    {
+      "id": "the-ran-republic",
+      "literal": "the ran Republic",
+      "replacement": "the Roman Republic"
+    },
+    {
+      "id": "the-spers-really",
+      "literal": "the spers really",
+      "replacement": "the Spartans really"
+    },
+    {
+      "id": "the-spin-will-go",
+      "literal": "the spin will go",
+      "replacement": "the Sphinx will go"
+    },
+    {
+      "id": "the-spins-um-ask",
+      "literal": "the spins um ask",
+      "replacement": "the Sphinx um ask"
+    },
+    {
+      "id": "the-tun-of-china",
+      "literal": "the tun of China",
+      "replacement": "the Spring and Autumn period of China"
+    },
+    {
+      "id": "the-um-inad-okay",
+      "literal": "the um inad okay",
+      "replacement": "the Aeneid okay"
+    },
+    {
+      "id": "the-yanah-people",
+      "literal": "the yanah people",
+      "replacement": "the Yamnaya people"
+    },
+    {
+      "id": "the-yayah-people",
+      "literal": "the yayah people",
+      "replacement": "the Yamnaya people"
+    },
+    {
+      "id": "who-the-yah-were",
+      "literal": "who the yah were",
+      "replacement": "who the Yamnaya were"
+    },
+    {
+      "id": "you-have-er-like",
+      "literal": "you have ER like",
+      "replacement": "you have arete like"
+    },
+    {
+      "id": "10-hots-spartan",
+      "literal": "10 Hots Spartan",
+      "replacement": "10 helots Spartan"
+    },
+    {
+      "id": "ar-ao-was-plato",
+      "literal": "AR AO was Plato",
+      "replacement": "Aristotle was Plato"
+    },
+    {
+      "id": "army-ans-invade",
+      "literal": "Army ANS invade",
+      "replacement": "army ants invade"
+    },
+    {
+      "id": "greek-poets-had",
+      "literal": "Greek poets had",
+      "replacement": "Greek poleis had"
+    },
+    {
+      "id": "journey-of-inas",
+      "literal": "Journey of inas",
+      "replacement": "Journey of Aeneas"
+    },
+    {
+      "id": "lucius-buddhist",
+      "literal": "Lucius Buddhist",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "marcus-buddhist",
+      "literal": "Marcus Buddhist",
+      "replacement": "Marcus Brutus"
+    },
+    {
+      "id": "marist-buddhist",
+      "literal": "Marist Buddhist",
+      "replacement": "Marcus Brutus"
+    },
+    {
+      "id": "marky-basically",
+      "literal": "Marky basically",
+      "replacement": "Mark Antony basically"
+    },
+    {
+      "id": "ming-and-greece",
+      "literal": "Ming and Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "ops-are-pushing",
+      "literal": "Ops are pushing",
+      "replacement": "optimates are pushing"
+    },
+    {
+      "id": "phil-the-second",
+      "literal": "Phil the second",
+      "replacement": "Philip II"
+    },
+    {
+      "id": "phil-s-conquest",
+      "literal": "Phil's conquest",
+      "replacement": "Philip's conquest"
+    },
+    {
+      "id": "romus-and-remis",
+      "literal": "Romus and Remis",
+      "replacement": "Romulus and Remus"
+    },
+    {
+      "id": "the-egan-people",
+      "literal": "The Egan people",
+      "replacement": "The Egyptian people"
+    },
+    {
+      "id": "a-st-and-philip",
+      "literal": "a St and Philip",
+      "replacement": "Aristotle and Philip"
+    },
+    {
+      "id": "after-aoto-died",
+      "literal": "after aoto died",
+      "replacement": "after Aristotle died"
+    },
+    {
+      "id": "army-of-880-000",
+      "literal": "army of 880,000",
+      "replacement": "army of 80,000"
+    },
+    {
+      "id": "ason-conquerors",
+      "literal": "ason conquerors",
+      "replacement": "Macedonian conquerors"
+    },
+    {
+      "id": "bran-h-collapse",
+      "literal": "bran H collapse",
+      "replacement": "Bronze Age collapse"
+    },
+    {
+      "id": "called-aros-and",
+      "literal": "called Aros and",
+      "replacement": "called Argos and"
+    },
+    {
+      "id": "carians-produce",
+      "literal": "carians produce",
+      "replacement": "Carthaginians produce"
+    },
+    {
+      "id": "chus-and-that-s",
+      "literal": "chus and that's",
+      "replacement": "Turnus and that's"
+    },
+    {
+      "id": "chus-has-killed",
+      "literal": "chus has killed",
+      "replacement": "Turnus has killed"
+    },
+    {
+      "id": "collaps-ming-in",
+      "literal": "collaps Ming in",
+      "replacement": "collapse meant in"
+    },
+    {
+      "id": "cross-the-ruban",
+      "literal": "cross the Ruban",
+      "replacement": "cross the Rubicon"
+    },
+    {
+      "id": "edus-volunteers",
+      "literal": "edus volunteers",
+      "replacement": "Oedipus volunteers"
+    },
+    {
+      "id": "eg-manon-was-an",
+      "literal": "eg Manon was an",
+      "replacement": "Agamemnon was an"
+    },
+    {
+      "id": "festival-dianes",
+      "literal": "festival Dianes",
+      "replacement": "festival Dionysus"
+    },
+    {
+      "id": "first-pinic-war",
+      "literal": "first pinic war",
+      "replacement": "first Punic War"
+    },
+    {
+      "id": "goddess-is-apod",
+      "literal": "goddess is apod",
+      "replacement": "goddess is Aphrodite"
+    },
+    {
+      "id": "good-parent-was",
+      "literal": "good parent was",
+      "replacement": "Great Pyramid was"
+    },
+    {
+      "id": "if-you-re-a-foh",
+      "literal": "if you're a FOH",
+      "replacement": "if you're a Pharaoh"
+    },
+    {
+      "id": "invading-partha",
+      "literal": "invading partha",
+      "replacement": "invading Parthia"
+    },
+    {
+      "id": "irritate-second",
+      "literal": "irritate second",
+      "replacement": "arete second"
+    },
+    {
+      "id": "it-s-men-s-wife",
+      "literal": "it's men's wife",
+      "replacement": "it's Menelaus's wife"
+    },
+    {
+      "id": "legitimate-hear",
+      "literal": "legitimate hear",
+      "replacement": "legitimate heir"
+    },
+    {
+      "id": "pantheus-climbs",
+      "literal": "pantheus climbs",
+      "replacement": "Pentheus climbs"
+    },
+    {
+      "id": "peny-still-love",
+      "literal": "peny still love",
+      "replacement": "Penelope still love"
+    },
+    {
+      "id": "plot-of-the-bai",
+      "literal": "plot of the Bai",
+      "replacement": "plot of the Bacchae"
+    },
+    {
+      "id": "plot-of-the-ora",
+      "literal": "plot of the Ora",
+      "replacement": "plot of the Oresteia"
+    },
+    {
+      "id": "poesis-has-done",
+      "literal": "poesis has done",
+      "replacement": "Polynices has done"
+    },
+    {
+      "id": "pompe-the-great",
+      "literal": "pompe The Great",
+      "replacement": "Pompey the Great"
+    },
+    {
+      "id": "pompe-the-great-452",
+      "literal": "pompe the great",
+      "replacement": "Pompey the Great"
+    },
+    {
+      "id": "pram-for-having",
+      "literal": "pram for having",
+      "replacement": "Priam for having"
+    },
+    {
+      "id": "prince-of-mason",
+      "literal": "prince of Mason",
+      "replacement": "prince of Macedon"
+    },
+    {
+      "id": "pro-counil-from",
+      "literal": "pro counil from",
+      "replacement": "proconsul from"
+    },
+    {
+      "id": "rcking-behavior",
+      "literal": "rcking behavior",
+      "replacement": "rent-seeking behavior"
+    },
+    {
+      "id": "reding-behavior",
+      "literal": "reding Behavior",
+      "replacement": "rent-seeking behavior"
+    },
+    {
+      "id": "returns-to-itha",
+      "literal": "returns to itha",
+      "replacement": "returns to Ithaca"
+    },
+    {
+      "id": "satus-in-athens",
+      "literal": "satus in Athens",
+      "replacement": "satirist in Athens"
+    },
+    {
+      "id": "so-canine-today",
+      "literal": "so canine today",
+      "replacement": "so Canaan today"
+    },
+    {
+      "id": "the-rs-are-able",
+      "literal": "the RS are able",
+      "replacement": "the Romans are able"
+    },
+    {
+      "id": "the-spinx-loses",
+      "literal": "the Spinx loses",
+      "replacement": "the Sphinx loses"
+    },
+    {
+      "id": "the-hots-if-you",
+      "literal": "the hots if you",
+      "replacement": "the helots if you"
+    },
+    {
+      "id": "the-ilot-starts",
+      "literal": "the ilot starts",
+      "replacement": "the Iliad starts"
+    },
+    {
+      "id": "the-musion-okay",
+      "literal": "the musion okay",
+      "replacement": "the Museion okay"
+    },
+    {
+      "id": "the-spaans-were",
+      "literal": "the spaans were",
+      "replacement": "the Spartans were"
+    },
+    {
+      "id": "these-poes-were",
+      "literal": "these Poes were",
+      "replacement": "these poleis were"
+    },
+    {
+      "id": "third-pinic-war",
+      "literal": "third pinic war",
+      "replacement": "third Punic War"
+    },
+    {
+      "id": "this-is-goe-and",
+      "literal": "this is goe and",
+      "replacement": "this is Gobekli Tepe and"
+    },
+    {
+      "id": "to-anan-conquer",
+      "literal": "to Anan conquer",
+      "replacement": "to Anatolia conquer"
+    },
+    {
+      "id": "using-poli-they",
+      "literal": "using Poli they",
+      "replacement": "using pulleys they"
+    },
+    {
+      "id": "were-a-tristian",
+      "literal": "were a Tristian",
+      "replacement": "were Etruscan"
+    },
+    {
+      "id": "win-plal-office",
+      "literal": "win plal office",
+      "replacement": "win political office"
+    },
+    {
+      "id": "the-bakai-are",
+      "literal": " the bakai are",
+      "replacement": " the Bacchae are"
+    },
+    {
+      "id": "cas-are-killed",
+      "literal": "Cas are killed",
+      "replacement": "Cassius are killed"
+    },
+    {
+      "id": "cyprus-and-cit",
+      "literal": "Cyprus and Cit",
+      "replacement": "Cyprus and Crete"
+    },
+    {
+      "id": "egan-mythology",
+      "literal": "Egan mythology",
+      "replacement": "Egyptian mythology"
+    },
+    {
+      "id": "hannibal-barka",
+      "literal": "Hannibal Barka",
+      "replacement": "Hannibal Barca"
+    },
+    {
+      "id": "lucius-buddhas",
+      "literal": "Lucius Buddhas",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "ost-ostracized",
+      "literal": "OST ostracized",
+      "replacement": "ostracism"
+    },
+    {
+      "id": "odus-okay-then",
+      "literal": "Odus okay then",
+      "replacement": "Odysseus okay then"
+    },
+    {
+      "id": "shamanichaeism",
+      "literal": "ShaManichaeism",
+      "replacement": "shamanism"
+    },
+    {
+      "id": "theus-believed",
+      "literal": "Theus believed",
+      "replacement": "Egyptians believed"
+    },
+    {
+      "id": "tower-of-jerle",
+      "literal": "Tower of jerle",
+      "replacement": "Tower of Jericho"
+    },
+    {
+      "id": "a-treaties-won",
+      "literal": "a treaties won",
+      "replacement": "Atreus won"
+    },
+    {
+      "id": "aanon-the-king",
+      "literal": "aanon the King",
+      "replacement": "Agamemnon the King"
+    },
+    {
+      "id": "between-pl-and",
+      "literal": "between PL and",
+      "replacement": "between Plato and"
+    },
+    {
+      "id": "caragan-people",
+      "literal": "caragan people",
+      "replacement": "Carthaginian people"
+    },
+    {
+      "id": "children-woman",
+      "literal": "children woman",
+      "replacement": "Trojan Women"
+    },
+    {
+      "id": "concept-of-aus",
+      "literal": "concept of aus",
+      "replacement": "concept of the polis"
+    },
+    {
+      "id": "condemning-ses",
+      "literal": "condemning SES",
+      "replacement": "condemning Socrates"
+    },
+    {
+      "id": "coronated-okay",
+      "literal": "coronated okay",
+      "replacement": "coordinated okay"
+    },
+    {
+      "id": "death-of-pacas",
+      "literal": "death of pacas",
+      "replacement": "death of Patroclus"
+    },
+    {
+      "id": "death-of-petus",
+      "literal": "death of petus",
+      "replacement": "death of Patroclus"
+    },
+    {
+      "id": "desus-buddhist",
+      "literal": "desus Buddhist",
+      "replacement": "Decimus Brutus"
+    },
+    {
+      "id": "elected-a-pror",
+      "literal": "elected a pror",
+      "replacement": "elected praetor"
+    },
+    {
+      "id": "fesal-of-dines",
+      "literal": "fesal of dines",
+      "replacement": "festival of Dionysus"
+    },
+    {
+      "id": "from-mexic-did",
+      "literal": "from mexic did",
+      "replacement": "Themistocles did"
+    },
+    {
+      "id": "god-named-diis",
+      "literal": "god named diis",
+      "replacement": "god named Dionysus"
+    },
+    {
+      "id": "graty-brothers",
+      "literal": "graty brothers",
+      "replacement": "Gracchi brothers"
+    },
+    {
+      "id": "he-got-atarian",
+      "literal": "he got atarian",
+      "replacement": "egalitarian"
+    },
+    {
+      "id": "helenic-empire",
+      "literal": "helenic Empire",
+      "replacement": "Hellenistic Empire"
+    },
+    {
+      "id": "ingate-dynasty",
+      "literal": "ingate dynasty",
+      "replacement": "Antigonid dynasty"
+    },
+    {
+      "id": "itha-the-first",
+      "literal": "itha the first",
+      "replacement": "Ithaca the first"
+    },
+    {
+      "id": "janus-s-family",
+      "literal": "janus's family",
+      "replacement": "Germanicus's family"
+    },
+    {
+      "id": "killing-petrus",
+      "literal": "killing Petrus",
+      "replacement": "killing Patroclus"
+    },
+    {
+      "id": "love-with-inas",
+      "literal": "love with inas",
+      "replacement": "love with Aeneas"
+    },
+    {
+      "id": "luc-s-buddhist",
+      "literal": "luc's Buddhist",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "lucus-buddhist",
+      "literal": "lucus Buddhist",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "major-hamon-in",
+      "literal": "major hamon in",
+      "replacement": "major hegemon in"
+    },
+    {
+      "id": "man-named-enas",
+      "literal": "man named enas",
+      "replacement": "man named Aeneas"
+    },
+    {
+      "id": "man-project-as",
+      "literal": "man project as",
+      "replacement": "Manhattan project as"
+    },
+    {
+      "id": "manhan-project",
+      "literal": "manhan project",
+      "replacement": "Manhattan project"
+    },
+    {
+      "id": "must-in-greece",
+      "literal": "must in Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "named-him-edus",
+      "literal": "named him edus",
+      "replacement": "named him Oedipus"
+    },
+    {
+      "id": "names-him-edus",
+      "literal": "names him edus",
+      "replacement": "names him Oedipus"
+    },
+    {
+      "id": "octav-octavian",
+      "literal": "octav Octavian",
+      "replacement": "Octavian"
+    },
+    {
+      "id": "okay-hecuba-is",
+      "literal": "okay hecuba is",
+      "replacement": "okay Hecuba is"
+    },
+    {
+      "id": "parent-economy",
+      "literal": "parent economy",
+      "replacement": "pyramid economy"
+    },
+    {
+      "id": "partha-conquer",
+      "literal": "partha conquer",
+      "replacement": "Parthia conquer"
+    },
+    {
+      "id": "pentus-panthus",
+      "literal": "pentus panthus",
+      "replacement": "Pentheus"
+    },
+    {
+      "id": "petorian-guard",
+      "literal": "petorian guard",
+      "replacement": "Praetorian Guard"
+    },
+    {
+      "id": "pomp-the-great",
+      "literal": "pomp the great",
+      "replacement": "Pompey the Great"
+    },
+    {
+      "id": "raminus-visits",
+      "literal": "raminus visits",
+      "replacement": "Romulus visits"
+    },
+    {
+      "id": "rusian-culture",
+      "literal": "rusian culture",
+      "replacement": "Etruscan culture"
+    },
+    {
+      "id": "saulty-student",
+      "literal": "saulty student",
+      "replacement": "Socrates' student"
+    },
+    {
+      "id": "secondary-hers",
+      "literal": "secondary hers",
+      "replacement": "secondary heirs"
+    },
+    {
+      "id": "so-arle-starts",
+      "literal": "so arle starts",
+      "replacement": "so Aristotle starts"
+    },
+    {
+      "id": "so-hecuba-must",
+      "literal": "so hecuba must",
+      "replacement": "so Hecuba must"
+    },
+    {
+      "id": "solar-solution",
+      "literal": "solar solution",
+      "replacement": "Sulla's solution"
+    },
+    {
+      "id": "study-in-plato",
+      "literal": "study in Plato",
+      "replacement": "study under Plato"
+    },
+    {
+      "id": "synchonization",
+      "literal": "synchonization",
+      "replacement": "synchronization"
+    },
+    {
+      "id": "the-aeneidn-is",
+      "literal": "the Aeneidn is",
+      "replacement": "the Aeneid is"
+    },
+    {
+      "id": "the-inc-should",
+      "literal": "the Inc should",
+      "replacement": "the Aeneid should"
+    },
+    {
+      "id": "the-aan-people",
+      "literal": "the aan people",
+      "replacement": "the Aegean people"
+    },
+    {
+      "id": "the-goals-okay",
+      "literal": "the goals okay",
+      "replacement": "the Gauls okay"
+    },
+    {
+      "id": "the-spars-were",
+      "literal": "the spars were",
+      "replacement": "the Spartans were"
+    },
+    {
+      "id": "the-yanah-okay",
+      "literal": "the yanah okay",
+      "replacement": "the Yamnaya okay"
+    },
+    {
+      "id": "think-of-ditto",
+      "literal": "think of ditto",
+      "replacement": "think of Dido"
+    },
+    {
+      "id": "until-20200-bc",
+      "literal": "until 20200 BC",
+      "replacement": "until 2200 BC"
+    },
+    {
+      "id": "w-civilization",
+      "literal": "w civilization",
+      "replacement": "Western civilization"
+    },
+    {
+      "id": "what-edus-does",
+      "literal": "what edus does",
+      "replacement": "what Oedipus does"
+    },
+    {
+      "id": "what-sakes-did",
+      "literal": "what sakes did",
+      "replacement": "what Socrates did"
+    },
+    {
+      "id": "woman-republic",
+      "literal": "woman Republic",
+      "replacement": "Roman Republic"
+    },
+    {
+      "id": "worship-dianis",
+      "literal": "worship dianis",
+      "replacement": "worship Dionysus"
+    },
+    {
+      "id": "ap-parthebans",
+      "literal": "AP parThebans",
+      "replacement": "against Parthians"
+    },
+    {
+      "id": "aum-in-greece",
+      "literal": "AUM in Greece",
+      "replacement": "Actium in Greece"
+    },
+    {
+      "id": "battle-of-fis",
+      "literal": "Battle of FIS",
+      "replacement": "Battle of Thapsus"
+    },
+    {
+      "id": "emmanuel-kant",
+      "literal": "Emmanuel Kant",
+      "replacement": "Immanuel Kant"
+    },
+    {
+      "id": "gobekli-tepes",
+      "literal": "Gobekli Tepes",
+      "replacement": "goes"
+    },
+    {
+      "id": "gras-brothers",
+      "literal": "Gras brothers",
+      "replacement": "Gracchi brothers"
+    },
+    {
+      "id": "hannibal-bara",
+      "literal": "Hannibal Bara",
+      "replacement": "Hannibal Barca"
+    },
+    {
+      "id": "hera-apina-or",
+      "literal": "Hera apina or",
+      "replacement": "Hera, Athena, or"
+    },
+    {
+      "id": "illillillyria",
+      "literal": "IllIllIllyria",
+      "replacement": "Illyria"
+    },
+    {
+      "id": "ina-ises-told",
+      "literal": "Ina ises told",
+      "replacement": "Aeschylus told"
+    },
+    {
+      "id": "marcus-brutes",
+      "literal": "Marcus brutes",
+      "replacement": "Marcus Brutus"
+    },
+    {
+      "id": "marcus-buddas",
+      "literal": "Marcus buddas",
+      "replacement": "Marcus Brutus"
+    },
+    {
+      "id": "panic-project",
+      "literal": "Panic project",
+      "replacement": "pan-Hellenic project"
+    },
+    {
+      "id": "peter-turchin",
+      "literal": "Peter turchin",
+      "replacement": "Peter Turchin"
+    },
+    {
+      "id": "peter-turon-s",
+      "literal": "Peter turon's",
+      "replacement": "Peter Turchin's"
+    },
+    {
+      "id": "prime-instead",
+      "literal": "Prime instead",
+      "replacement": "Priam instead"
+    },
+    {
+      "id": "solo-in-order",
+      "literal": "Solo in order",
+      "replacement": "Sulla in order"
+    },
+    {
+      "id": "troan-advance",
+      "literal": "Troan advance",
+      "replacement": "Trojan advance"
+    },
+    {
+      "id": "virgil-s-inad",
+      "literal": "Virgil's inad",
+      "replacement": "Virgil's Aeneid"
+    },
+    {
+      "id": "achieve-yonia",
+      "literal": "achieve yonia",
+      "replacement": "achieve eudaimonia"
+    },
+    {
+      "id": "ad-disis-came",
+      "literal": "ad disis came",
+      "replacement": "Odysseus came"
+    },
+    {
+      "id": "aerosus-works",
+      "literal": "aerosus works",
+      "replacement": "Aristotle's works"
+    },
+    {
+      "id": "aros-s-father",
+      "literal": "aros's father",
+      "replacement": "Aristotle's father"
+    },
+    {
+      "id": "as-councel-he",
+      "literal": "as councel he",
+      "replacement": "as consul"
+    },
+    {
+      "id": "asaurus-gives",
+      "literal": "asaurus gives",
+      "replacement": "Osiris gives"
+    },
+    {
+      "id": "at-atlas-okay",
+      "literal": "at Atlas okay",
+      "replacement": "Attalus okay"
+    },
+    {
+      "id": "aysus-we-know",
+      "literal": "aysus we know",
+      "replacement": "Odysseus we know"
+    },
+    {
+      "id": "bar-bars-onto",
+      "literal": "bar bars onto",
+      "replacement": "star bars onto"
+    },
+    {
+      "id": "bride-we-just",
+      "literal": "bride we just",
+      "replacement": "bribe we just"
+    },
+    {
+      "id": "carthaginians",
+      "literal": "carthaginians",
+      "replacement": "Carthaginians"
+    },
+    {
+      "id": "cassus-fought",
+      "literal": "cassus fought",
+      "replacement": "Cassius fought"
+    },
+    {
+      "id": "chernes-gives",
+      "literal": "chernes gives",
+      "replacement": "Turnus gives"
+    },
+    {
+      "id": "children-army",
+      "literal": "children Army",
+      "replacement": "Trojan army"
+    },
+    {
+      "id": "comp-patriots",
+      "literal": "comp Patriots",
+      "replacement": "compatriots"
+    },
+    {
+      "id": "desus-buddist",
+      "literal": "desus buddist",
+      "replacement": "Decimus Brutus"
+    },
+    {
+      "id": "diis-is-bakas",
+      "literal": "diis is bakas",
+      "replacement": "Dionysus is Bacchus"
+    },
+    {
+      "id": "europees-okay",
+      "literal": "europees okay",
+      "replacement": "Euripides okay"
+    },
+    {
+      "id": "for-humor-the",
+      "literal": "for humor the",
+      "replacement": "for Homer the"
+    },
+    {
+      "id": "grai-brothers",
+      "literal": "grai brothers",
+      "replacement": "Gracchi brothers"
+    },
+    {
+      "id": "hair-his-name",
+      "literal": "hair his name",
+      "replacement": "heir his name"
+    },
+    {
+      "id": "harus-travels",
+      "literal": "harus travels",
+      "replacement": "Herodotus travels"
+    },
+    {
+      "id": "helenic-world",
+      "literal": "helenic world",
+      "replacement": "Hellenic world"
+    },
+    {
+      "id": "highte-empire",
+      "literal": "highte Empire",
+      "replacement": "Hittite Empire"
+    },
+    {
+      "id": "hobik-phallic",
+      "literal": "hobik phallic",
+      "replacement": "hoplite phalanx"
+    },
+    {
+      "id": "homoa-sapiens",
+      "literal": "homoa sapiens",
+      "replacement": "Homo sapiens"
+    },
+    {
+      "id": "ingate-empire",
+      "literal": "ingate Empire",
+      "replacement": "Antigonid Empire"
+    },
+    {
+      "id": "integ-says-to",
+      "literal": "integ says to",
+      "replacement": "Antigone says to"
+    },
+    {
+      "id": "kind-of-holak",
+      "literal": "kind of holak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "leader-of-gul",
+      "literal": "leader of Gul",
+      "replacement": "leader of Gaul"
+    },
+    {
+      "id": "leop-his-army",
+      "literal": "leop his army",
+      "replacement": "Lepidus his army"
+    },
+    {
+      "id": "lipides-agree",
+      "literal": "lipides agree",
+      "replacement": "Lepidus agree"
+    },
+    {
+      "id": "lucif-buddist",
+      "literal": "lucif buddist",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "lucus-buddhas",
+      "literal": "lucus Buddhas",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "lucus-buddhis",
+      "literal": "lucus buddhis",
+      "replacement": "Lucius Brutus"
+    },
+    {
+      "id": "masine-period",
+      "literal": "masine period",
+      "replacement": "Mycenaean period"
+    },
+    {
+      "id": "naian-culture",
+      "literal": "naian culture",
+      "replacement": "Natufian culture"
+    },
+    {
+      "id": "named-o-disas",
+      "literal": "named o disas",
+      "replacement": "named Odysseus"
+    },
+    {
+      "id": "peni-and-they",
+      "literal": "peni and they",
+      "replacement": "Penelope and they"
+    },
+    {
+      "id": "peric-victory",
+      "literal": "peric Victory",
+      "replacement": "Pyrrhic Victory"
+    },
+    {
+      "id": "philos-second",
+      "literal": "philos second",
+      "replacement": "Philip II"
+    },
+    {
+      "id": "play-intey-um",
+      "literal": "play intey um",
+      "replacement": "play Antigone um"
+    },
+    {
+      "id": "saluan-empire",
+      "literal": "saluan Empire",
+      "replacement": "Seleucid Empire"
+    },
+    {
+      "id": "second-serent",
+      "literal": "second serent",
+      "replacement": "second triumvirate"
+    },
+    {
+      "id": "seizure-anded",
+      "literal": "seizure anded",
+      "replacement": "Caesar ended"
+    },
+    {
+      "id": "sell-off-west",
+      "literal": "sell off West",
+      "replacement": "sail off West"
+    },
+    {
+      "id": "stattalus-quo",
+      "literal": "stAttalus quo",
+      "replacement": "status quo"
+    },
+    {
+      "id": "tafan-culture",
+      "literal": "tafan culture",
+      "replacement": "Natufian culture"
+    },
+    {
+      "id": "the-po-office",
+      "literal": "the PO office",
+      "replacement": "political office"
+    },
+    {
+      "id": "the-high-ties",
+      "literal": "the high ties",
+      "replacement": "the Hittites"
+    },
+    {
+      "id": "the-hots-hate",
+      "literal": "the hots hate",
+      "replacement": "the helots hate"
+    },
+    {
+      "id": "the-ilad-ends",
+      "literal": "the ilad ends",
+      "replacement": "the Iliad ends"
+    },
+    {
+      "id": "the-ilad-okay",
+      "literal": "the ilad okay",
+      "replacement": "the Iliad okay"
+    },
+    {
+      "id": "the-ilen-arts",
+      "literal": "the ilen Arts",
+      "replacement": "the Iliad arts"
+    },
+    {
+      "id": "the-pipan-war",
+      "literal": "the pipan war",
+      "replacement": "the Peloponnesian War"
+    },
+    {
+      "id": "the-pois-okay",
+      "literal": "the pois okay",
+      "replacement": "the poleis okay"
+    },
+    {
+      "id": "the-suits-are",
+      "literal": "the suits are",
+      "replacement": "the suitors are"
+    },
+    {
+      "id": "tiberious-was",
+      "literal": "tiberious was",
+      "replacement": "Tiberius was"
+    },
+    {
+      "id": "until-war-one",
+      "literal": "until War one",
+      "replacement": "until World War I"
+    },
+    {
+      "id": "white-kingdom",
+      "literal": "white Kingdom",
+      "replacement": "wide kingdom"
+    },
+    {
+      "id": "will-eat-edus",
+      "literal": "will eat edus",
+      "replacement": "will eat Oedipus"
+    },
+    {
+      "id": "with-the-ilad",
+      "literal": "with the ilad",
+      "replacement": "with the Iliad"
+    },
+    {
+      "id": "delan-league",
+      "literal": "Delan league",
+      "replacement": "Delian League"
+    },
+    {
+      "id": "e-s-property",
+      "literal": "E's property",
+      "replacement": "Caesar's property"
+    },
+    {
+      "id": "hol-did-this",
+      "literal": "Hol did this",
+      "replacement": "Hannibal did this"
+    },
+    {
+      "id": "jesus-s-love",
+      "literal": "Jesus's love",
+      "replacement": "Caesar's love"
+    },
+    {
+      "id": "judas-caesar",
+      "literal": "Judas Caesar",
+      "replacement": "Julius Caesar"
+    },
+    {
+      "id": "julia-caesar",
+      "literal": "Julia Caesar",
+      "replacement": "Julius Caesar"
+    },
+    {
+      "id": "justin-trudo",
+      "literal": "Justin trudo",
+      "replacement": "Justin Trudeau"
+    },
+    {
+      "id": "marcus-budus",
+      "literal": "Marcus budus",
+      "replacement": "Marcus Brutus"
+    },
+    {
+      "id": "maria-gambas",
+      "literal": "Maria gambas",
+      "replacement": "Marija Gimbutas"
+    },
+    {
+      "id": "mark-anthony",
+      "literal": "Mark Anthony",
+      "replacement": "Mark Antony"
+    },
+    {
+      "id": "nicola-tesla",
+      "literal": "Nicola Tesla",
+      "replacement": "Nikola Tesla"
+    },
+    {
+      "id": "p-pelian-war",
+      "literal": "P pelian War",
+      "replacement": "Peloponnesian War"
+    },
+    {
+      "id": "peter-churon",
+      "literal": "Peter churon",
+      "replacement": "Peter Turchin"
+    },
+    {
+      "id": "pier-too-who",
+      "literal": "Pier too who",
+      "replacement": "Pierre Trudeau who"
+    },
+    {
+      "id": "prim-doesn-t",
+      "literal": "Prim doesn't",
+      "replacement": "Priam doesn't"
+    },
+    {
+      "id": "prime-curses",
+      "literal": "Prime curses",
+      "replacement": "Priam curses"
+    },
+    {
+      "id": "prime-sneaks",
+      "literal": "Prime sneaks",
+      "replacement": "Priam sneaks"
+    },
+    {
+      "id": "ses-insisted",
+      "literal": "SES insisted",
+      "replacement": "Socrates insisted"
+    },
+    {
+      "id": "sak-students",
+      "literal": "Sak students",
+      "replacement": "Socrates' students"
+    },
+    {
+      "id": "a-cesure-who",
+      "literal": "a cesure who",
+      "replacement": "Augustus Caesar who"
+    },
+    {
+      "id": "admires-pr-s",
+      "literal": "admires PR's",
+      "replacement": "admires Priam's"
+    },
+    {
+      "id": "aens-has-two",
+      "literal": "aens has two",
+      "replacement": "Athens has two"
+    },
+    {
+      "id": "against-hanb",
+      "literal": "against hanb",
+      "replacement": "against Hannibal"
+    },
+    {
+      "id": "annibal-wars",
+      "literal": "annibal wars",
+      "replacement": "Hannibal wars"
+    },
+    {
+      "id": "arot-came-up",
+      "literal": "arot came up",
+      "replacement": "Aristotle came up"
+    },
+    {
+      "id": "as-a-pror-he",
+      "literal": "as a pror he",
+      "replacement": "as praetor he"
+    },
+    {
+      "id": "austa-caesar",
+      "literal": "austa Caesar",
+      "replacement": "Augustus Caesar"
+    },
+    {
+      "id": "body-to-prum",
+      "literal": "body to prum",
+      "replacement": "body to Priam"
+    },
+    {
+      "id": "bride-people",
+      "literal": "bride people",
+      "replacement": "bribe people"
+    },
+    {
+      "id": "but-aens-has",
+      "literal": "but aens has",
+      "replacement": "but Athens has"
+    },
+    {
+      "id": "call-up-noil",
+      "literal": "call up noil",
+      "replacement": "called nobility"
+    },
+    {
+      "id": "children-men",
+      "literal": "children men",
+      "replacement": "Trojan men"
+    },
+    {
+      "id": "children-war",
+      "literal": "children war",
+      "replacement": "Trojan War"
+    },
+    {
+      "id": "churon-calls",
+      "literal": "churon calls",
+      "replacement": "Turchin calls"
+    },
+    {
+      "id": "colomy-egypt",
+      "literal": "colomy Egypt",
+      "replacement": "Ptolemy Egypt"
+    },
+    {
+      "id": "council-ship",
+      "literal": "council ship",
+      "replacement": "consulship"
+    },
+    {
+      "id": "counsel-ship",
+      "literal": "counsel ship",
+      "replacement": "consulship"
+    },
+    {
+      "id": "death-of-fas",
+      "literal": "death of fas",
+      "replacement": "death of Patroclus"
+    },
+    {
+      "id": "delan-league-665",
+      "literal": "delan league",
+      "replacement": "Delian League"
+    },
+    {
+      "id": "dianus-panus",
+      "literal": "dianus panus",
+      "replacement": "Dionysus Pentheus"
+    },
+    {
+      "id": "diis-another",
+      "literal": "diis another",
+      "replacement": "Dionysus another"
+    },
+    {
+      "id": "edus-trilogy",
+      "literal": "edus Trilogy",
+      "replacement": "Oedipus Trilogy"
+    },
+    {
+      "id": "edus-gets-it",
+      "literal": "edus gets it",
+      "replacement": "Oedipus gets it"
+    },
+    {
+      "id": "edus-trilogy-670",
+      "literal": "edus trilogy",
+      "replacement": "Oedipus trilogy"
+    },
+    {
+      "id": "egyp-eternal",
+      "literal": "egyp Eternal",
+      "replacement": "Egypt eternal"
+    },
+    {
+      "id": "fre-the-hots",
+      "literal": "fre the hots",
+      "replacement": "free the helots"
+    },
+    {
+      "id": "gay-octavius",
+      "literal": "gay Octavius",
+      "replacement": "Gaius Octavius"
+    },
+    {
+      "id": "gayes-julius",
+      "literal": "gayes Julius",
+      "replacement": "Gaius Julius"
+    },
+    {
+      "id": "ghost-of-pus",
+      "literal": "ghost of pus",
+      "replacement": "ghost of Patroclus"
+    },
+    {
+      "id": "great-pyr-we",
+      "literal": "great pyr we",
+      "replacement": "Great Pyramid we"
+    },
+    {
+      "id": "greatek-navy",
+      "literal": "greatek Navy",
+      "replacement": "Greek Navy"
+    },
+    {
+      "id": "gry-brothers",
+      "literal": "gry brothers",
+      "replacement": "Gracchi brothers"
+    },
+    {
+      "id": "have-fiddies",
+      "literal": "have fiddies",
+      "replacement": "have Phidias"
+    },
+    {
+      "id": "in-valy-okay",
+      "literal": "in valy okay",
+      "replacement": "Indus Valley okay"
+    },
+    {
+      "id": "inas-ends-up",
+      "literal": "inas ends up",
+      "replacement": "Aeneas ends up"
+    },
+    {
+      "id": "inas-is-from",
+      "literal": "inas is from",
+      "replacement": "Aeneas is from"
+    },
+    {
+      "id": "indis-valley",
+      "literal": "indis valley",
+      "replacement": "Indus Valley"
+    },
+    {
+      "id": "inside-sagus",
+      "literal": "inside sagus",
+      "replacement": "inside sarcophagus"
+    },
+    {
+      "id": "issist-sopes",
+      "literal": "issist sopes",
+      "replacement": "Aeschylus, Sophocles"
+    },
+    {
+      "id": "julus-julius",
+      "literal": "julus Julius",
+      "replacement": "Julius"
+    },
+    {
+      "id": "kills-petras",
+      "literal": "kills Petras",
+      "replacement": "kills Patroclus"
+    },
+    {
+      "id": "kind-of-hoak",
+      "literal": "kind of Hoak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "kind-of-hoya",
+      "literal": "kind of Hoya",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "like-goe-and",
+      "literal": "like goe and",
+      "replacement": "like Gobekli Tepe and"
+    },
+    {
+      "id": "m-and-greece",
+      "literal": "m and Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "marinan-goes",
+      "literal": "marinan goes",
+      "replacement": "Mark Antony goes"
+    },
+    {
+      "id": "masan-greece",
+      "literal": "masan Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "named-adicus",
+      "literal": "named adicus",
+      "replacement": "named Odysseus"
+    },
+    {
+      "id": "now-kon-is-a",
+      "literal": "now Kon is a",
+      "replacement": "now Creon is a"
+    },
+    {
+      "id": "ody-deus-how",
+      "literal": "ody Deus how",
+      "replacement": "Odysseus how"
+    },
+    {
+      "id": "our-caar-all",
+      "literal": "our caar all",
+      "replacement": "Augustus Caesar all"
+    },
+    {
+      "id": "panh-helenic",
+      "literal": "panh helenic",
+      "replacement": "pan-Hellenic"
+    },
+    {
+      "id": "pent-economy",
+      "literal": "pent economy",
+      "replacement": "pyramid economy"
+    },
+    {
+      "id": "porion-while",
+      "literal": "porion while",
+      "replacement": "for coercion, while"
+    },
+    {
+      "id": "proper-trute",
+      "literal": "proper trute",
+      "replacement": "proper tribute"
+    },
+    {
+      "id": "protus-to-go",
+      "literal": "protus to go",
+      "replacement": "Patroclus to go"
+    },
+    {
+      "id": "ran-republic",
+      "literal": "ran Republic",
+      "replacement": "Roman Republic"
+    },
+    {
+      "id": "set-by-fames",
+      "literal": "set by fames",
+      "replacement": "sent by Themistocles"
+    },
+    {
+      "id": "sheas-deatha",
+      "literal": "sheas deatha",
+      "replacement": "Caesar's death"
+    },
+    {
+      "id": "shes-was-not",
+      "literal": "shes was not",
+      "replacement": "Socrates was not"
+    },
+    {
+      "id": "so-therea-um",
+      "literal": "so therea um",
+      "replacement": "so the Oresteia um"
+    },
+    {
+      "id": "soes-did-not",
+      "literal": "soes did not",
+      "replacement": "Socrates did not"
+    },
+    {
+      "id": "tamus-and-to",
+      "literal": "tamus and to",
+      "replacement": "Telemachus and to"
+    },
+    {
+      "id": "that-s-thead",
+      "literal": "that's thead",
+      "replacement": "that's the Iliad"
+    },
+    {
+      "id": "the-adan-and",
+      "literal": "the Adan and",
+      "replacement": "the Adriatic and"
+    },
+    {
+      "id": "the-ot-start",
+      "literal": "the OT start",
+      "replacement": "the Iliad starts"
+    },
+    {
+      "id": "the-pes-were",
+      "literal": "the PES were",
+      "replacement": "the Persians were"
+    },
+    {
+      "id": "the-aan-okay",
+      "literal": "the aan okay",
+      "replacement": "the Aegean okay"
+    },
+    {
+      "id": "the-bakai-is",
+      "literal": "the bakai is",
+      "replacement": "the Bacchae is"
+    },
+    {
+      "id": "the-baky-are",
+      "literal": "the baky are",
+      "replacement": "the Bacchae are"
+    },
+    {
+      "id": "the-baky-how",
+      "literal": "the baky how",
+      "replacement": "the Bacchae how"
+    },
+    {
+      "id": "the-ilad-and",
+      "literal": "the ilad and",
+      "replacement": "the Iliad and"
+    },
+    {
+      "id": "win-the-wins",
+      "literal": "win the wins",
+      "replacement": "win the consulship"
+    },
+    {
+      "id": "yanah-people",
+      "literal": "yanah people",
+      "replacement": "Yamnaya people"
+    },
+    {
+      "id": "yayah-people",
+      "literal": "yayah people",
+      "replacement": "Yamnaya people"
+    },
+    {
+      "id": "uh-chenes",
+      "literal": " uh chenes ",
+      "replacement": " chimpanzees "
+    },
+    {
+      "id": "14400-uh-ce",
+      "literal": "14400 uh CE",
+      "replacement": "1889 CE"
+    },
+    {
+      "id": "aeneidn-end",
+      "literal": "Aeneidn end",
+      "replacement": "Aeneid end"
+    },
+    {
+      "id": "er-arle-has",
+      "literal": "ER arle has",
+      "replacement": "Aristotle has"
+    },
+    {
+      "id": "egan-people",
+      "literal": "Egan people",
+      "replacement": "Egyptian people"
+    },
+    {
+      "id": "greek-puses",
+      "literal": "Greek puses",
+      "replacement": "Greek poleis"
+    },
+    {
+      "id": "ians-versus",
+      "literal": "Ians versus",
+      "replacement": "Athenians versus"
+    },
+    {
+      "id": "julie-cesar",
+      "literal": "Julie Cesar",
+      "replacement": "Julius Caesar"
+    },
+    {
+      "id": "kan-on-says",
+      "literal": "Kan on says",
+      "replacement": "Creon says"
+    },
+    {
+      "id": "maia-greece",
+      "literal": "Maia Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "maria-gutas",
+      "literal": "Maria gutas",
+      "replacement": "Marija Gimbutas"
+    },
+    {
+      "id": "pages-means",
+      "literal": "Pages means",
+      "replacement": "pietas means"
+    },
+    {
+      "id": "peter-turin",
+      "literal": "Peter Turin",
+      "replacement": "Peter Turchin"
+    },
+    {
+      "id": "ses-refused",
+      "literal": "SES refused",
+      "replacement": "Socrates refused"
+    },
+    {
+      "id": "ses-was-put",
+      "literal": "SES was put",
+      "replacement": "Socrates was put"
+    },
+    {
+      "id": "tran-people",
+      "literal": "Tran people",
+      "replacement": "Trojan people"
+    },
+    {
+      "id": "virgin-navy",
+      "literal": "Virgin Navy",
+      "replacement": "Persian Navy"
+    },
+    {
+      "id": "war-one-the",
+      "literal": "War one the",
+      "replacement": "World War I the"
+    },
+    {
+      "id": "a-hellot-be",
+      "literal": "a hellot be",
+      "replacement": "a helot be"
+    },
+    {
+      "id": "above-manda",
+      "literal": "above Manda",
+      "replacement": "at Munda"
+    },
+    {
+      "id": "aristot-was",
+      "literal": "aristot was",
+      "replacement": "Aristotle was"
+    },
+    {
+      "id": "as-the-ilad",
+      "literal": "as the ilad",
+      "replacement": "as the Iliad"
+    },
+    {
+      "id": "aysus-kills",
+      "literal": "aysus kills",
+      "replacement": "Odysseus kills"
+    },
+    {
+      "id": "brilant-man",
+      "literal": "brilant man",
+      "replacement": "brilliant man"
+    },
+    {
+      "id": "cases-could",
+      "literal": "cases could",
+      "replacement": "Cassius could"
+    },
+    {
+      "id": "choan-horse",
+      "literal": "choan horse",
+      "replacement": "Trojan horse"
+    },
+    {
+      "id": "cron-who-is",
+      "literal": "cron who is",
+      "replacement": "Creon who is"
+    },
+    {
+      "id": "cusd-empire",
+      "literal": "cusd Empire",
+      "replacement": "Seleucid Empire"
+    },
+    {
+      "id": "daan-league",
+      "literal": "daan League",
+      "replacement": "Delian League"
+    },
+    {
+      "id": "de-devotion",
+      "literal": "de devotion",
+      "replacement": "devotion"
+    },
+    {
+      "id": "dianis-says",
+      "literal": "dianis says",
+      "replacement": "Dionysus says"
+    },
+    {
+      "id": "ditto-falls",
+      "literal": "ditto falls",
+      "replacement": "Dido falls"
+    },
+    {
+      "id": "dlan-league",
+      "literal": "dlan league",
+      "replacement": "Delian League"
+    },
+    {
+      "id": "edus-freaks",
+      "literal": "edus freaks",
+      "replacement": "Oedipus freaks"
+    },
+    {
+      "id": "enas-has-no",
+      "literal": "enas has no",
+      "replacement": "Aeneas has no"
+    },
+    {
+      "id": "have-iselis",
+      "literal": "have iselis",
+      "replacement": "have Aeschylus"
+    },
+    {
+      "id": "hiat-empire",
+      "literal": "hiat Empire",
+      "replacement": "Hittite Empire"
+    },
+    {
+      "id": "hopl-lights",
+      "literal": "hopl lights",
+      "replacement": "hoplites"
+    },
+    {
+      "id": "if-edus-can",
+      "literal": "if edus can",
+      "replacement": "if Oedipus can"
+    },
+    {
+      "id": "in-4115-bce",
+      "literal": "in 4115 BCE",
+      "replacement": "in 415 BCE"
+    },
+    {
+      "id": "in-the-ilad",
+      "literal": "in the ilad",
+      "replacement": "in the Iliad"
+    },
+    {
+      "id": "inas-wanted",
+      "literal": "inas wanted",
+      "replacement": "Aeneas wanted"
+    },
+    {
+      "id": "mean-greece",
+      "literal": "mean Greece",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "million-gos",
+      "literal": "million Gos",
+      "replacement": "million Gauls"
+    },
+    {
+      "id": "n-on-be-all",
+      "literal": "n on be all",
+      "replacement": "be-all end-all"
+    },
+    {
+      "id": "oak-kingdom",
+      "literal": "oak Kingdom",
+      "replacement": "Old Kingdom"
+    },
+    {
+      "id": "philos-from",
+      "literal": "philos from",
+      "replacement": "Philip from"
+    },
+    {
+      "id": "plal-office",
+      "literal": "plal office",
+      "replacement": "political office"
+    },
+    {
+      "id": "play-rights",
+      "literal": "play rights",
+      "replacement": "playwrights"
+    },
+    {
+      "id": "pois-polyes",
+      "literal": "pois polyes",
+      "replacement": "Polynices"
+    },
+    {
+      "id": "pram-kneels",
+      "literal": "pram kneels",
+      "replacement": "Priam kneels"
+    },
+    {
+      "id": "sell-around",
+      "literal": "sell around",
+      "replacement": "sail around"
+    },
+    {
+      "id": "sheas-death",
+      "literal": "sheas death",
+      "replacement": "Caesar's death"
+    },
+    {
+      "id": "so-hmon-the",
+      "literal": "so hmon the",
+      "replacement": "so Haemon the"
+    },
+    {
+      "id": "solola-into",
+      "literal": "solola into",
+      "replacement": "Sulla into"
+    },
+    {
+      "id": "sopes-andes",
+      "literal": "sopes Andes",
+      "replacement": "Sophocles and Euripides"
+    },
+    {
+      "id": "suitter-can",
+      "literal": "suitter can",
+      "replacement": "suitor can"
+    },
+    {
+      "id": "surval-wars",
+      "literal": "surval wars",
+      "replacement": "Servile wars"
+    },
+    {
+      "id": "t-okay-tomy",
+      "literal": "t okay Tomy",
+      "replacement": "Ptolemy"
+    },
+    {
+      "id": "tamacas-who",
+      "literal": "tamacas who",
+      "replacement": "Telemachus who"
+    },
+    {
+      "id": "that-s-alad",
+      "literal": "that's alad",
+      "replacement": "that's Iliad"
+    },
+    {
+      "id": "that-s-cion",
+      "literal": "that's cion",
+      "replacement": "that's coercion"
+    },
+    {
+      "id": "the-au-have",
+      "literal": "the Au have",
+      "replacement": "the optimates have"
+    },
+    {
+      "id": "the-mion-um",
+      "literal": "the Mion um",
+      "replacement": "the Museion um"
+    },
+    {
+      "id": "the-agan-se",
+      "literal": "the agan SE",
+      "replacement": "the Aegean Sea"
+    },
+    {
+      "id": "the-elad-is",
+      "literal": "the elad is",
+      "replacement": "the Iliad is"
+    },
+    {
+      "id": "the-hear-to",
+      "literal": "the hear to",
+      "replacement": "the heir to"
+    },
+    {
+      "id": "the-ilad-is",
+      "literal": "the ilad is",
+      "replacement": "the Iliad is"
+    },
+    {
+      "id": "the-pan-war",
+      "literal": "the pan war",
+      "replacement": "the Peloponnesian War"
+    },
+    {
+      "id": "the-promium",
+      "literal": "the promium",
+      "replacement": "the pomerium"
+    },
+    {
+      "id": "the-timates",
+      "literal": "the timates",
+      "replacement": "the optimates"
+    },
+    {
+      "id": "thermop-pil",
+      "literal": "thermop pil",
+      "replacement": "Thermopylae"
+    },
+    {
+      "id": "timates-and",
+      "literal": "timates and",
+      "replacement": "optimates and"
+    },
+    {
+      "id": "to-etha-and",
+      "literal": "to Etha and",
+      "replacement": "to Ithaca and"
+    },
+    {
+      "id": "tomb-rating",
+      "literal": "tomb rating",
+      "replacement": "tomb raiding"
+    },
+    {
+      "id": "yamaya-came",
+      "literal": "yamaya came",
+      "replacement": "Yamnaya came"
+    },
+    {
+      "id": "yuel-harari",
+      "literal": "yuel Harari",
+      "replacement": "Yuval Harari"
+    },
+    {
+      "id": "po-system",
+      "literal": " PO system",
+      "replacement": " polis system"
+    },
+    {
+      "id": "edus-asks",
+      "literal": " edus asks",
+      "replacement": " Oedipus asks"
+    },
+    {
+      "id": "alo-decade",
+      "literal": "Alo decade",
+      "replacement": "allegory of the cave"
+    },
+    {
+      "id": "ega-has-no",
+      "literal": "EGA has no",
+      "replacement": "Agamemnon has no"
+    },
+    {
+      "id": "egon-could",
+      "literal": "Egon could",
+      "replacement": "Agamemnon could"
+    },
+    {
+      "id": "force-fire",
+      "literal": "Force fire",
+      "replacement": "forest fire"
+    },
+    {
+      "id": "greek-poes",
+      "literal": "Greek Poes",
+      "replacement": "Greek poleis"
+    },
+    {
+      "id": "greek-pois",
+      "literal": "Greek pois",
+      "replacement": "Greek poleis"
+    },
+    {
+      "id": "kanon-says",
+      "literal": "Kanon says",
+      "replacement": "Creon says"
+    },
+    {
+      "id": "king-prome",
+      "literal": "King prome",
+      "replacement": "King Priam"
+    },
+    {
+      "id": "king-xeres",
+      "literal": "King xeres",
+      "replacement": "King Xerxes"
+    },
+    {
+      "id": "mar-g-said",
+      "literal": "Mar G said",
+      "replacement": "Marija Gimbutas said"
+    },
+    {
+      "id": "marcus-aga",
+      "literal": "Marcus AGA",
+      "replacement": "Marcus Agrippa"
+    },
+    {
+      "id": "maria-gbas",
+      "literal": "Maria gbas",
+      "replacement": "Marija Gimbutas"
+    },
+    {
+      "id": "p-petite-b",
+      "literal": "P petite B",
+      "replacement": "petite bourgeoisie"
+    },
+    {
+      "id": "pl-is-what",
+      "literal": "PL is what",
+      "replacement": "Plato is what"
+    },
+    {
+      "id": "petrus-see",
+      "literal": "Petrus see",
+      "replacement": "Patroclus see"
+    },
+    {
+      "id": "pompei-and",
+      "literal": "Pompei and",
+      "replacement": "Pompey and"
+    },
+    {
+      "id": "prime-dies",
+      "literal": "Prime dies",
+      "replacement": "Priam dies"
+    },
+    {
+      "id": "tony-spent",
+      "literal": "Tony spent",
+      "replacement": "Ptolemy spent"
+    },
+    {
+      "id": "vin-v-vich",
+      "literal": "Vin V vich",
+      "replacement": "veni vidi vici"
+    },
+    {
+      "id": "wars-in-go",
+      "literal": "Wars in go",
+      "replacement": "wars in Gaul"
+    },
+    {
+      "id": "alar-spain",
+      "literal": "alar Spain",
+      "replacement": "Altamira, Spain"
+    },
+    {
+      "id": "ask-edus-a",
+      "literal": "ask edus a",
+      "replacement": "ask Oedipus a"
+    },
+    {
+      "id": "askap-he-s",
+      "literal": "askap he's",
+      "replacement": "ass kicked he's"
+    },
+    {
+      "id": "avian-were",
+      "literal": "avian were",
+      "replacement": "Octavian were"
+    },
+    {
+      "id": "brilant-as",
+      "literal": "brilant as",
+      "replacement": "brilliant as"
+    },
+    {
+      "id": "bronch-age",
+      "literal": "bronch age",
+      "replacement": "Bronze Age"
+    },
+    {
+      "id": "chartic-as",
+      "literal": "chartic as",
+      "replacement": "charismatic as"
+    },
+    {
+      "id": "confusious",
+      "literal": "confusious",
+      "replacement": "Confucius"
+    },
+    {
+      "id": "cron-finds",
+      "literal": "cron finds",
+      "replacement": "Creon finds"
+    },
+    {
+      "id": "decart-and",
+      "literal": "decart and",
+      "replacement": "Descartes and"
+    },
+    {
+      "id": "democratus",
+      "literal": "democratus",
+      "replacement": "Democritus"
+    },
+    {
+      "id": "did-s-love",
+      "literal": "did's love",
+      "replacement": "Dido's love"
+    },
+    {
+      "id": "dramaticus",
+      "literal": "dramaticus",
+      "replacement": "Germanicus"
+    },
+    {
+      "id": "edus-grows",
+      "literal": "edus grows",
+      "replacement": "Oedipus grows"
+    },
+    {
+      "id": "egam-manon",
+      "literal": "egam Manon",
+      "replacement": "Agamemnon"
+    },
+    {
+      "id": "egam-menon",
+      "literal": "egam Menon",
+      "replacement": "Agamemnon"
+    },
+    {
+      "id": "egan-manon",
+      "literal": "egan Manon",
+      "replacement": "Agamemnon"
+    },
+    {
+      "id": "faciiities",
+      "literal": "faciiities",
+      "replacement": "Thucydides"
+    },
+    {
+      "id": "father-pus",
+      "literal": "father pus",
+      "replacement": "father Peleus"
+    },
+    {
+      "id": "force-fire-840",
+      "literal": "force fire",
+      "replacement": "forest fire"
+    },
+    {
+      "id": "gos-in-war",
+      "literal": "gos in War",
+      "replacement": "Gauls in War"
+    },
+    {
+      "id": "group-bual",
+      "literal": "group bual",
+      "replacement": "group burial"
+    },
+    {
+      "id": "is-councel",
+      "literal": "is councel",
+      "replacement": "is consul"
+    },
+    {
+      "id": "is-goe-and",
+      "literal": "is goe and",
+      "replacement": "is Gobekli Tepe and"
+    },
+    {
+      "id": "jsh-caesar",
+      "literal": "jsh Caesar",
+      "replacement": "Julius Caesar"
+    },
+    {
+      "id": "katah-hoak",
+      "literal": "katah Hoak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "king-xeres-847",
+      "literal": "king xeres",
+      "replacement": "King Xerxes"
+    },
+    {
+      "id": "macona-has",
+      "literal": "macona has",
+      "replacement": "Macedon has"
+    },
+    {
+      "id": "more-hidis",
+      "literal": "more hidis",
+      "replacement": "more hedonistic"
+    },
+    {
+      "id": "nadon-will",
+      "literal": "nadon will",
+      "replacement": "Macedon will"
+    },
+    {
+      "id": "named-enas",
+      "literal": "named enas",
+      "replacement": "named Aeneas"
+    },
+    {
+      "id": "otologists",
+      "literal": "otologists",
+      "replacement": "Egyptologists"
+    },
+    {
+      "id": "palpan-war",
+      "literal": "palpan war",
+      "replacement": "Peloponnesian War"
+    },
+    {
+      "id": "panthus-is",
+      "literal": "panthus is",
+      "replacement": "Pentheus is"
+    },
+    {
+      "id": "parthebans",
+      "literal": "parThebans",
+      "replacement": "Parthians"
+    },
+    {
+      "id": "pelian-war",
+      "literal": "pelian War",
+      "replacement": "Peloponnesian War"
+    },
+    {
+      "id": "penal-okay",
+      "literal": "penal okay",
+      "replacement": "Penelope okay"
+    },
+    {
+      "id": "ping-guard",
+      "literal": "ping guard",
+      "replacement": "Praetorian Guard"
+    },
+    {
+      "id": "play-backa",
+      "literal": "play backa",
+      "replacement": "play Bacchae"
+    },
+    {
+      "id": "play-backy",
+      "literal": "play backy",
+      "replacement": "play Bacchae"
+    },
+    {
+      "id": "poesis-she",
+      "literal": "poesis she",
+      "replacement": "Polynices she"
+    },
+    {
+      "id": "polyus-who",
+      "literal": "polyus who",
+      "replacement": "Polynices who"
+    },
+    {
+      "id": "ptan-guard",
+      "literal": "ptan Guard",
+      "replacement": "Praetorian Guard"
+    },
+    {
+      "id": "ran-people",
+      "literal": "ran people",
+      "replacement": "Roman people"
+    },
+    {
+      "id": "sensorship",
+      "literal": "sensorship",
+      "replacement": "censorship"
+    },
+    {
+      "id": "socres-did",
+      "literal": "socres did",
+      "replacement": "Socrates did"
+    },
+    {
+      "id": "solah-died",
+      "literal": "solah died",
+      "replacement": "Sulla died"
+    },
+    {
+      "id": "sucas-okay",
+      "literal": "sucas okay",
+      "replacement": "Seleucus okay"
+    },
+    {
+      "id": "the-gs-and",
+      "literal": "the GS and",
+      "replacement": "the Gauls and"
+    },
+    {
+      "id": "the-m-gree",
+      "literal": "the M gree",
+      "replacement": "the Mycenaean"
+    },
+    {
+      "id": "the-backai",
+      "literal": "the backai",
+      "replacement": "the Bacchae"
+    },
+    {
+      "id": "uh-ub-is",
+      "literal": " uh UB is",
+      "replacement": " Euripides is"
+    },
+    {
+      "id": "5-of-tee",
+      "literal": "5% of tee",
+      "replacement": "5% of Gobekli Tepe"
+    },
+    {
+      "id": "g-as-khan",
+      "literal": "G as Khan",
+      "replacement": "Genghis Khan"
+    },
+    {
+      "id": "gris-will",
+      "literal": "Gris will",
+      "replacement": "Crassus will"
+    },
+    {
+      "id": "jero-went",
+      "literal": "Jero went",
+      "replacement": "Jericho went"
+    },
+    {
+      "id": "jud-cesar",
+      "literal": "Jud Cesar",
+      "replacement": "Julius Caesar"
+    },
+    {
+      "id": "kark-says",
+      "literal": "KARK says",
+      "replacement": "Karl Marx says"
+    },
+    {
+      "id": "ket-which",
+      "literal": "KET which",
+      "replacement": "Kemet which"
+    },
+    {
+      "id": "kato-cpio",
+      "literal": "Kato cpio",
+      "replacement": "Cato"
+    },
+    {
+      "id": "kaya-hoak",
+      "literal": "Kaya Hoak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "king-pram",
+      "literal": "King pram",
+      "replacement": "King Priam"
+    },
+    {
+      "id": "macedonas",
+      "literal": "Macedonas",
+      "replacement": "Mardonius"
+    },
+    {
+      "id": "mason-was",
+      "literal": "Mason was",
+      "replacement": "Macedon was"
+    },
+    {
+      "id": "myan-gree",
+      "literal": "Myan gree",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "pl-argues",
+      "literal": "PL argues",
+      "replacement": "Plato argues"
+    },
+    {
+      "id": "petrus-is",
+      "literal": "Petrus is",
+      "replacement": "Patroclus is"
+    },
+    {
+      "id": "rom-hears",
+      "literal": "ROM hears",
+      "replacement": "Romulus hears"
+    },
+    {
+      "id": "romas-has",
+      "literal": "Romas has",
+      "replacement": "Romulus has"
+    },
+    {
+      "id": "si-sicily",
+      "literal": "SI Sicily",
+      "replacement": "Sicily"
+    },
+    {
+      "id": "tommy-and",
+      "literal": "Tommy and",
+      "replacement": "Ptolemy and"
+    },
+    {
+      "id": "tomy-went",
+      "literal": "Tomy went",
+      "replacement": "Ptolemy went"
+    },
+    {
+      "id": "animal-bs",
+      "literal": "animal BS",
+      "replacement": "animal bones"
+    },
+    {
+      "id": "at-farcus",
+      "literal": "at farcus",
+      "replacement": "at Pharsalus"
+    },
+    {
+      "id": "bend-band",
+      "literal": "bend band",
+      "replacement": "benben"
+    },
+    {
+      "id": "champanes",
+      "literal": "champanes",
+      "replacement": "chimpanzees"
+    },
+    {
+      "id": "cleopetra",
+      "literal": "cleopetra",
+      "replacement": "Cleopatra"
+    },
+    {
+      "id": "clipo-hey",
+      "literal": "clipo hey",
+      "replacement": "Calypso hey"
+    },
+    {
+      "id": "cron-says",
+      "literal": "cron says",
+      "replacement": "Creon says"
+    },
+    {
+      "id": "cross-ron",
+      "literal": "cross Ron",
+      "replacement": "cross Rubicon"
+    },
+    {
+      "id": "cypo-okay",
+      "literal": "cypo okay",
+      "replacement": "Calypso okay"
+    },
+    {
+      "id": "focas-and",
+      "literal": "focas and",
+      "replacement": "Patroclus and"
+    },
+    {
+      "id": "gang-khan",
+      "literal": "gang Khan",
+      "replacement": "Genghis Khan"
+    },
+    {
+      "id": "half-nots",
+      "literal": "half Nots",
+      "replacement": "have-nots"
+    },
+    {
+      "id": "inas-goes",
+      "literal": "inas goes",
+      "replacement": "Aeneas goes"
+    },
+    {
+      "id": "integnity",
+      "literal": "integnity",
+      "replacement": "Antigone"
+    },
+    {
+      "id": "kah-holak",
+      "literal": "kah holak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "kpo-who-s",
+      "literal": "kpo who's",
+      "replacement": "Calypso who's"
+    },
+    {
+      "id": "m-in-gree",
+      "literal": "m in gree",
+      "replacement": "Mycenaean Greece"
+    },
+    {
+      "id": "otologist",
+      "literal": "otologist",
+      "replacement": "Egyptologist"
+    },
+    {
+      "id": "palan-war",
+      "literal": "palan War",
+      "replacement": "Peloponnesian War"
+    },
+    {
+      "id": "pelan-war",
+      "literal": "pelan war",
+      "replacement": "Peloponnesian War"
+    },
+    {
+      "id": "petus-and",
+      "literal": "petus and",
+      "replacement": "Patroclus and"
+    },
+    {
+      "id": "pinic-war",
+      "literal": "pinic war",
+      "replacement": "Punic War"
+    },
+    {
+      "id": "playright",
+      "literal": "playright",
+      "replacement": "playwright"
+    },
+    {
+      "id": "pr-miriam",
+      "literal": "pr Miriam",
+      "replacement": "pomerium"
+    },
+    {
+      "id": "pus-tells",
+      "literal": "pus tells",
+      "replacement": "Patroclus tells"
+    },
+    {
+      "id": "raah-okay",
+      "literal": "raah okay",
+      "replacement": "Ra okay"
+    },
+    {
+      "id": "sakes-was",
+      "literal": "sakes was",
+      "replacement": "Socrates was"
+    },
+    {
+      "id": "solah-and",
+      "literal": "solah and",
+      "replacement": "Sulla and"
+    },
+    {
+      "id": "sop-sopes",
+      "literal": "sop sopes",
+      "replacement": "Sophocles"
+    },
+    {
+      "id": "sop-wrote",
+      "literal": "sop wrote",
+      "replacement": "Sophocles wrote"
+    },
+    {
+      "id": "suas-okay",
+      "literal": "suas okay",
+      "replacement": "suitors okay"
+    },
+    {
+      "id": "tacus-who",
+      "literal": "tacus who",
+      "replacement": "Telemachus who"
+    },
+    {
+      "id": "the-ot-is",
+      "literal": "the OT is",
+      "replacement": "the Iliad is"
+    },
+    {
+      "id": "the-pyion",
+      "literal": "the Pyion",
+      "replacement": "the pyramidion"
+    },
+    {
+      "id": "the-backy",
+      "literal": "the backy",
+      "replacement": "the Bacchae"
+    },
+    {
+      "id": "the-hitit",
+      "literal": "the hitit",
+      "replacement": "the Hittite"
+    },
+    {
+      "id": "the-sagus",
+      "literal": "the sagus",
+      "replacement": "the sarcophagus"
+    },
+    {
+      "id": "the-yayah",
+      "literal": "the yayah",
+      "replacement": "the Yamnaya"
+    },
+    {
+      "id": "thermop-p",
+      "literal": "thermop P",
+      "replacement": "Thermopylae"
+    },
+    {
+      "id": "too-henis",
+      "literal": "too henis",
+      "replacement": "too hedonistic"
+    },
+    {
+      "id": "use-calry",
+      "literal": "use calry",
+      "replacement": "use cavalry"
+    },
+    {
+      "id": "way-davis",
+      "literal": "way Davis",
+      "replacement": "Wade Davis"
+    },
+    {
+      "id": "yides-was",
+      "literal": "yides was",
+      "replacement": "Euripides was"
+    },
+    {
+      "id": "ch-sakes",
+      "literal": "CH sakes",
+      "replacement": "Socrates"
+    },
+    {
+      "id": "canan-is",
+      "literal": "Canan is",
+      "replacement": "Canaan is"
+    },
+    {
+      "id": "cris-and",
+      "literal": "Cris and",
+      "replacement": "Crassus and"
+    },
+    {
+      "id": "eg-manar",
+      "literal": "EG Manar",
+      "replacement": "Agamemnon"
+    },
+    {
+      "id": "eg-manon",
+      "literal": "EG Manon",
+      "replacement": "Agamemnon"
+    },
+    {
+      "id": "ides-are",
+      "literal": "Ides are",
+      "replacement": "Euripides are"
+    },
+    {
+      "id": "ides-was",
+      "literal": "Ides was",
+      "replacement": "Euripides was"
+    },
+    {
+      "id": "kl-marks",
+      "literal": "KL marks",
+      "replacement": "Karl Marx"
+    },
+    {
+      "id": "p-poesis",
+      "literal": "P poesis",
+      "replacement": "Polynices"
+    },
+    {
+      "id": "rua-this",
+      "literal": "Rua this",
+      "replacement": "res publica this"
+    },
+    {
+      "id": "sak-said",
+      "literal": "Sak said",
+      "replacement": "Socrates said"
+    },
+    {
+      "id": "tommy-he",
+      "literal": "Tommy he",
+      "replacement": "Ptolemy he"
+    },
+    {
+      "id": "alab-8es",
+      "literal": "alab 8es",
+      "replacement": "Alcibiades"
+    },
+    {
+      "id": "alats-ko",
+      "literal": "alats KO",
+      "replacement": "optimates Cato"
+    },
+    {
+      "id": "antagony",
+      "literal": "antagony",
+      "replacement": "Antigone"
+    },
+    {
+      "id": "cion-and",
+      "literal": "cion and",
+      "replacement": "coercion and"
+    },
+    {
+      "id": "cpio-and",
+      "literal": "cpio and",
+      "replacement": "Cato and"
+    },
+    {
+      "id": "cus-will",
+      "literal": "cus will",
+      "replacement": "Caesar's will"
+    },
+    {
+      "id": "edus-rex",
+      "literal": "edus Rex",
+      "replacement": "Oedipus Rex"
+    },
+    {
+      "id": "exandria",
+      "literal": "exandria",
+      "replacement": "Alexandria"
+    },
+    {
+      "id": "handable",
+      "literal": "handable",
+      "replacement": "Hannibal"
+    },
+    {
+      "id": "hedgemon",
+      "literal": "hedgemon",
+      "replacement": "hegemon"
+    },
+    {
+      "id": "janica-s",
+      "literal": "janica's",
+      "replacement": "Germanicus's"
+    },
+    {
+      "id": "kaga-was",
+      "literal": "kaga was",
+      "replacement": "Caligula was"
+    },
+    {
+      "id": "kah-hoak",
+      "literal": "kah Hoak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "mardones",
+      "literal": "mardones",
+      "replacement": "Mardonius"
+    },
+    {
+      "id": "massalon",
+      "literal": "massalon",
+      "replacement": "Macedon"
+    },
+    {
+      "id": "panus-is",
+      "literal": "panus is",
+      "replacement": "Pentheus is"
+    },
+    {
+      "id": "paricles",
+      "literal": "paricles",
+      "replacement": "Pericles"
+    },
+    {
+      "id": "phow-you",
+      "literal": "phow you",
+      "replacement": "Philip you"
+    },
+    {
+      "id": "the-pion",
+      "literal": "the Pion",
+      "replacement": "the pyramidion"
+    },
+    {
+      "id": "the-agan",
+      "literal": "the agan",
+      "replacement": "the Aegean"
+    },
+    {
+      "id": "the-idus",
+      "literal": "the idus",
+      "replacement": "the Oedipus"
+    },
+    {
+      "id": "trishkin",
+      "literal": "trishkin",
+      "replacement": "Etruscan"
+    },
+    {
+      "id": "tristans",
+      "literal": "tristans",
+      "replacement": "Etruscans"
+    },
+    {
+      "id": "tyberius",
+      "literal": "tyberius",
+      "replacement": "Tiberius"
+    },
+    {
+      "id": "sapen",
+      "literal": " sapen ",
+      "replacement": " Sapiens "
+    },
+    {
+      "id": "2116-um",
+      "literal": "2116 um",
+      "replacement": "216 BC um"
+    },
+    {
+      "id": "880-000",
+      "literal": "880,000",
+      "replacement": "80,000"
+    },
+    {
+      "id": "ben-ben",
+      "literal": "Ben Ben",
+      "replacement": "benben"
+    },
+    {
+      "id": "ben-bed",
+      "literal": "Ben bed",
+      "replacement": "benben"
+    },
+    {
+      "id": "bob-who",
+      "literal": "Bob who",
+      "replacement": "bonobos who"
+    },
+    {
+      "id": "cpo-who",
+      "literal": "CPO who",
+      "replacement": "Calypso who"
+    },
+    {
+      "id": "ex-life",
+      "literal": "EX life",
+      "replacement": "Alexander's life"
+    },
+    {
+      "id": "gris-is",
+      "literal": "Gris is",
+      "replacement": "Crassus is"
+    },
+    {
+      "id": "ides-he",
+      "literal": "Ides he",
+      "replacement": "Euripides he"
+    },
+    {
+      "id": "ides-is",
+      "literal": "Ides is",
+      "replacement": "Euripides is"
+    },
+    {
+      "id": "kl-marx",
+      "literal": "KL Marx",
+      "replacement": "Karl Marx"
+    },
+    {
+      "id": "ko-cpio",
+      "literal": "KO cpio",
+      "replacement": "Cato"
+    },
+    {
+      "id": "kula-um",
+      "literal": "Kula um",
+      "replacement": "Caligula um"
+    },
+    {
+      "id": "ne-neis",
+      "literal": "NE neis",
+      "replacement": "Neoptolemus"
+    },
+    {
+      "id": "neo-tus",
+      "literal": "Neo tus",
+      "replacement": "Neoptolemus"
+    },
+    {
+      "id": "px-roma",
+      "literal": "PX Roma",
+      "replacement": "Pax Romana"
+    },
+    {
+      "id": "playdoh",
+      "literal": "PlayDoh",
+      "replacement": "Plato"
+    },
+    {
+      "id": "ses-did",
+      "literal": "SES did",
+      "replacement": "Socrates did"
+    },
+    {
+      "id": "yus-got",
+      "literal": "Yus got",
+      "replacement": "Euripides got"
+    },
+    {
+      "id": "a-leber",
+      "literal": "a Leber",
+      "replacement": "a libertine"
+    },
+    {
+      "id": "annibal",
+      "literal": "annibal",
+      "replacement": "Hannibal"
+    },
+    {
+      "id": "atrians",
+      "literal": "atrians",
+      "replacement": "Etruscans"
+    },
+    {
+      "id": "ben-bed-995",
+      "literal": "ben bed",
+      "replacement": "benben"
+    },
+    {
+      "id": "buddist",
+      "literal": "buddist",
+      "replacement": "Brutus"
+    },
+    {
+      "id": "budhist",
+      "literal": "budhist",
+      "replacement": "Brutus"
+    },
+    {
+      "id": "caragan",
+      "literal": "caragan",
+      "replacement": "Carthaginians"
+    },
+    {
+      "id": "carford",
+      "literal": "carford",
+      "replacement": "Carthage"
+    },
+    {
+      "id": "cro-and",
+      "literal": "cro and",
+      "replacement": "Cicero and"
+    },
+    {
+      "id": "cro-who",
+      "literal": "cro who",
+      "replacement": "Cicero who"
+    },
+    {
+      "id": "exander",
+      "literal": "exander",
+      "replacement": "Alexander"
+    },
+    {
+      "id": "faracus",
+      "literal": "faracus",
+      "replacement": "Pharsalus"
+    },
+    {
+      "id": "fiddies",
+      "literal": "fiddies",
+      "replacement": "Thucydides"
+    },
+    {
+      "id": "go-gole",
+      "literal": "go gole",
+      "replacement": "Gobekli Tepe"
+    },
+    {
+      "id": "go-tape",
+      "literal": "go tape",
+      "replacement": "Gobekli Tepe"
+    },
+    {
+      "id": "gos-and",
+      "literal": "gos and",
+      "replacement": "Gauls and"
+    },
+    {
+      "id": "hiberus",
+      "literal": "hiberus",
+      "replacement": "Tiberius"
+    },
+    {
+      "id": "integon",
+      "literal": "integon",
+      "replacement": "Antigone"
+    },
+    {
+      "id": "mertile",
+      "literal": "mertile",
+      "replacement": "mercantile"
+    },
+    {
+      "id": "perally",
+      "literal": "perally",
+      "replacement": "Pericles"
+    },
+    {
+      "id": "photian",
+      "literal": "photian",
+      "replacement": "Phoenician"
+    },
+    {
+      "id": "polares",
+      "literal": "polares",
+      "replacement": "poleis"
+    },
+    {
+      "id": "polisis",
+      "literal": "polisis",
+      "replacement": "polis is"
+    },
+    {
+      "id": "poll-is",
+      "literal": "poll is",
+      "replacement": "polis is"
+    },
+    {
+      "id": "pomp-is",
+      "literal": "pomp is",
+      "replacement": "Pompey is"
+    },
+    {
+      "id": "pram-um",
+      "literal": "pram um",
+      "replacement": "Priam um"
+    },
+    {
+      "id": "prum-is",
+      "literal": "prum is",
+      "replacement": "Priam is"
+    },
+    {
+      "id": "ramulus",
+      "literal": "ramulus",
+      "replacement": "Romulus"
+    },
+    {
+      "id": "romules",
+      "literal": "romules",
+      "replacement": "Romulus"
+    },
+    {
+      "id": "sinship",
+      "literal": "sinship",
+      "replacement": "citizenship"
+    },
+    {
+      "id": "the-aan",
+      "literal": "the aan",
+      "replacement": "the Aegean"
+    },
+    {
+      "id": "ubid-he",
+      "literal": "ubid he",
+      "replacement": "Euripides he"
+    },
+    {
+      "id": "31-aum",
+      "literal": "31 AUM",
+      "replacement": "31 Actium"
+    },
+    {
+      "id": "bol-bs",
+      "literal": "Bol BS",
+      "replacement": "bonobos"
+    },
+    {
+      "id": "cip-uh",
+      "literal": "CIP uh",
+      "replacement": "citizenship uh"
+    },
+    {
+      "id": "k-hoak",
+      "literal": "K Hoak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "p-roma",
+      "literal": "P Roma",
+      "replacement": "Pax Romana"
+    },
+    {
+      "id": "pol-is",
+      "literal": "Pol is",
+      "replacement": "polis is"
+    },
+    {
+      "id": "pompei",
+      "literal": "Pompei",
+      "replacement": "Pompey"
+    },
+    {
+      "id": "r-papa",
+      "literal": "R Papa",
+      "replacement": "res publica"
+    },
+    {
+      "id": "adicus",
+      "literal": "adicus",
+      "replacement": "Odysseus"
+    },
+    {
+      "id": "arlock",
+      "literal": "arlock",
+      "replacement": "oligarchy"
+    },
+    {
+      "id": "atrans",
+      "literal": "atrans",
+      "replacement": "Etruscans"
+    },
+    {
+      "id": "buddas",
+      "literal": "buddas",
+      "replacement": "Brutus"
+    },
+    {
+      "id": "buddus",
+      "literal": "buddus",
+      "replacement": "Brutus"
+    },
+    {
+      "id": "cagans",
+      "literal": "cagans",
+      "replacement": "Carthaginians"
+    },
+    {
+      "id": "canine",
+      "literal": "canine",
+      "replacement": "Cannae"
+    },
+    {
+      "id": "carage",
+      "literal": "carage",
+      "replacement": "Carthage"
+    },
+    {
+      "id": "cesure",
+      "literal": "cesure",
+      "replacement": "Caesar"
+    },
+    {
+      "id": "cotion",
+      "literal": "cotion",
+      "replacement": "coercion"
+    },
+    {
+      "id": "deanes",
+      "literal": "deanes",
+      "replacement": "Demosthenes"
+    },
+    {
+      "id": "farcus",
+      "literal": "farcus",
+      "replacement": "Pharsalus"
+    },
+    {
+      "id": "go-bye",
+      "literal": "go bye",
+      "replacement": "Gobekli Tepe"
+    },
+    {
+      "id": "go-goe",
+      "literal": "go goe",
+      "replacement": "Gobekli Tepe"
+    },
+    {
+      "id": "hoplin",
+      "literal": "hoplin",
+      "replacement": "hoplon"
+    },
+    {
+      "id": "integy",
+      "literal": "integy",
+      "replacement": "Antigone"
+    },
+    {
+      "id": "iselis",
+      "literal": "iselis",
+      "replacement": "Aeschylus"
+    },
+    {
+      "id": "issist",
+      "literal": "issist",
+      "replacement": "Aeschylus"
+    },
+    {
+      "id": "lavant",
+      "literal": "lavant",
+      "replacement": "Levant"
+    },
+    {
+      "id": "macona",
+      "literal": "macona",
+      "replacement": "Macedon"
+    },
+    {
+      "id": "parnon",
+      "literal": "parnon",
+      "replacement": "Parthenon"
+    },
+    {
+      "id": "sabins",
+      "literal": "sabins",
+      "replacement": "Sabines"
+    },
+    {
+      "id": "saines",
+      "literal": "saines",
+      "replacement": "Sabines"
+    },
+    {
+      "id": "socres",
+      "literal": "socres",
+      "replacement": "Socrates"
+    },
+    {
+      "id": "soloed",
+      "literal": "soloed",
+      "replacement": "Seleucid"
+    },
+    {
+      "id": "peres",
+      "literal": "Peres",
+      "replacement": "Pericles"
+    },
+    {
+      "id": "perle",
+      "literal": "Perle",
+      "replacement": "Pericles"
+    },
+    {
+      "id": "ruban",
+      "literal": "Ruban",
+      "replacement": "Rubicon"
+    },
+    {
+      "id": "tyber",
+      "literal": "Tyber",
+      "replacement": "Tiber"
+    },
+    {
+      "id": "anany",
+      "literal": "anany",
+      "replacement": "Antigone"
+    },
+    {
+      "id": "cians",
+      "literal": "cians",
+      "replacement": "Carthaginians"
+    },
+    {
+      "id": "hanal",
+      "literal": "hanal",
+      "replacement": "Hannibal"
+    },
+    {
+      "id": "henbo",
+      "literal": "henbo",
+      "replacement": "Hannibal"
+    },
+    {
+      "id": "himon",
+      "literal": "himon",
+      "replacement": "Haemon"
+    },
+    {
+      "id": "hubis",
+      "literal": "hubis",
+      "replacement": "hubris"
+    },
+    {
+      "id": "hymon",
+      "literal": "hymon",
+      "replacement": "Haemon"
+    },
+    {
+      "id": "kolak",
+      "literal": "kolak",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "oaris",
+      "literal": "oaris",
+      "replacement": "Osiris"
+    },
+    {
+      "id": "paron",
+      "literal": "paron",
+      "replacement": "Parthenon"
+    },
+    {
+      "id": "pelan",
+      "literal": "pelan",
+      "replacement": "Peloponnese"
+    },
+    {
+      "id": "polus",
+      "literal": "polus",
+      "replacement": "polis"
+    },
+    {
+      "id": "pumpy",
+      "literal": "pumpy",
+      "replacement": "Pompey"
+    },
+    {
+      "id": "sakes",
+      "literal": "sakes",
+      "replacement": "Socrates"
+    },
+    {
+      "id": "kaho",
+      "literal": "Kaho",
+      "replacement": "Catalhoyuk"
+    },
+    {
+      "id": "hego",
+      "literal": "hego",
+      "replacement": "Hegel"
+    },
+    {
+      "id": "huus",
+      "literal": "huus",
+      "replacement": "hubris"
+    }
+  ]
+}

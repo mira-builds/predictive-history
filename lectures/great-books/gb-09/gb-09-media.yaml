@@ -1,0 +1,87 @@
+﻿source_id: gb-09
+title: "Great Books #9: Dante (Re-Upload with Audio Fixed)"
+part: civilization
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Dante holding the Comedy"
+    item_type: artwork
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Dante_Domenico_di_Michelino_Duomo_Florence.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "This image frames Dante as poet, exile, and maker of a world students can learn to read spatially."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "It is later civic commemoration, not a direct source for Dante's intention."
+    related_paths:
+      orientation_card_path: data/cards/gb-09.md
+      transcript_path: lectures/great-books/gb-09/gb-09-transcript.md
+      commentary_path: lectures/great-books/gb-09/gb-09-commentary.md
+  - id: 02
+    label: "Gustave Dore Inferno illustration"
+    item_type: artwork
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Illustrations_to_Dante%27s_Divine_Comedy_by_Gustave_Dor%C3%A9"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Doré shows how later readers visualized terror, judgment, and moral atmosphere in Dante."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Nineteenth-century illustration can overpower the poem if treated as primary meaning."
+    related_paths:
+      orientation_card_path: data/cards/gb-09.md
+      transcript_path: lectures/great-books/gb-09/gb-09-transcript.md
+      commentary_path: lectures/great-books/gb-09/gb-09-commentary.md
+  - id: 03
+    label: "Botticelli Paradiso drawing"
+    item_type: artwork
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Drawings_of_Divine_Comedy_by_Sandro_Botticelli"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Botticelli's drawings help students see line, ascent, and order as interpretive problems."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The drawings are a Renaissance reading of Dante, not neutral illustration."
+    related_paths:
+      orientation_card_path: data/cards/gb-09.md
+      transcript_path: lectures/great-books/gb-09/gb-09-transcript.md
+      commentary_path: lectures/great-books/gb-09/gb-09-commentary.md
+  - id: 04
+    label: "Medieval cosmology diagram"
+    item_type: diagram
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Medieval_cosmology"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Cosmological diagrams make the poem's ordered universe easier to enter."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Generic cosmology diagrams may not match Dante's exact poetic architecture."
+    related_paths:
+      orientation_card_path: data/cards/gb-09.md
+      transcript_path: lectures/great-books/gb-09/gb-09-transcript.md
+      commentary_path: lectures/great-books/gb-09/gb-09-commentary.md
+  - id: 05
+    label: "Beatrice and Dante imagery"
+    item_type: artwork
+    role: comparison_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Dante_and_Beatrice"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Beatrice imagery foregrounds love as guidance, judgment, distance, and transformation."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Later romantic imagery can soften Dante's theological and philosophical stakes."
+    related_paths:
+      orientation_card_path: data/cards/gb-09.md
+      transcript_path: lectures/great-books/gb-09/gb-09-transcript.md
+      commentary_path: lectures/great-books/gb-09/gb-09-commentary.md

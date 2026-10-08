@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ph-civ Pattern",
+  "type": "object",
+  "required": [
+    "pattern_id",
+    "title",
+    "summary",
+    "strategy_use",
+    "source_ids",
+    "tags",
+    "limits",
+    "public_status"
+  ],
+  "properties": {
+    "pattern_id": {
+      "type": "string",
+      "pattern": "^civ-[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "strategy_use": {
+      "type": "string"
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^(civ|gb|geo|gt|sh)-[0-9]{2}$"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "limits": {
+      "type": "string"
+    },
+    "public_status": {
+      "type": "string",
+      "enum": ["seed", "in_review", "stable"]
+    }
+  },
+  "additionalProperties": false
+}

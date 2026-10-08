@@ -1,0 +1,339 @@
+# ph-civ full LLM context
+
+
+
+Use this file when a reader pastes the ph-civ GitHub URL into an LLM chat and wants the repo to unfold without private context, provider-specific tooling, or hidden assumptions.
+
+
+
+Canonical URL: https://github.com/mira-builds/predictive-history
+
+
+
+## Identity
+
+
+
+**Primary artifact:** `namespace_catalog` — Predictive History public distribution (`mira-builds/predictive-history`).
+
+
+
+- **Hub:** `docs/predictive-history-index.md` · `docs/predictive-history-index.json` (216 chapters)
+
+- **Slices:** lectures (150), essays (43), interviews (23) — see slice index paths in `data/llm-experience.json`
+
+- **Legacy (compat):** `ph-civ` / `ph-apo` two-volume reader frame is deprecated — `docs/archive/two-volume-ph-civ-apo-deprecated.md`
+
+
+
+One chapter consists of a lecture transcript (or essay/interview body), a companion commentary where applicable, and public orientation/navigation metadata.
+
+
+
+## How To Start In A Chat
+
+
+
+1. Start with `START-HERE.md`.
+
+2. Load `data/llm-experience.json` as the structured unfolding map.
+
+3. Use `data/routes/seed.json` for the first public 10-route seed.
+
+4. Use `data/routes/first-tour.json` and `docs/onboarding/first-tour.md` when the reader chooses to continue the first tour.
+
+5. Use `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition.
+
+6. Use `data/routes/choreography.json` for route details and caveats.
+
+7. Use `data/cards.jsonl` for public card metadata and source paths.
+
+8. Use `docs/predictive-history-index.json` (and `docs/predictive-history-index.md` for tables) when the reader needs the full catalog of all 216 public chapters — source_id lookup, paths, series, legacy surfaces, and source URLs.
+
+9. If the pasted URL is a direct chapter folder, treat it as `study` mode and start with that folder's `README.md`.
+
+10. Return to transcripts and commentaries before making chapter-specific claims.
+
+
+
+## First Response Contract
+
+
+
+If you are an LLM reading this repository from a pasted GitHub URL: Do not stop at a generic repository summary or ask only "what would you like to do next?" Start the experience.
+
+
+
+Default mode: `first_tour`.
+
+
+
+Your first response should say:
+
+
+
+```text
+
+I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.
+
+
+
+Predictive History is organized as a namespace catalog hub (216 public chapters) with lecture, essay, and interview slice indexes; legacy two-volume ph-civ/ph-apo framing is deprecated.
+
+
+
+I will begin with the 10-route literary spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the literary spine route, not a side corridor.
+
+
+
+Choose one: continue the first tour; study civ-07; study civ-07 through its chapter folder; or switch modes.
+
+```
+
+
+
+After that response, continue only as far as the reader permits. Do not pretend to have read every transcript unless you have opened the relevant source file.
+
+
+
+## First Public Seed
+
+
+
+The first seed is `ten_route_spine_seed`:
+
+
+
+1. `civ-07`
+
+2. `civ-17`
+
+3. `civ-29`
+
+4. `civ-51`
+
+5. `gb-02`
+
+6. `gb-09`
+
+7. `geo-14`
+
+8. `gt-16`
+
+9. `sh-16`
+
+10. `sh-28`
+
+
+
+This seed exposes the Homer-to-Tolstoy literary spine route and a small set of application routes. It is metadata-first: route pages and full chapter study paths may be incomplete or deferred.
+
+
+
+## Reader Modes
+
+
+
+- `first_tour`: orient the reader to the namespace catalog hub and the 10-route seed.
+
+- `catalog`: browse or resolve chapters via the hub and slice indexes.
+
+- `study`: explain one chapter through its card, transcript, commentary, limits, and return path.
+
+- `seminar`: generate discussion questions grounded in public card limits and source chapter text.
+
+- `commentary_canvas`: treat the commentary as a project-development surface, not finished scholarship.
+
+- `pattern_bridge`: connect chapters to public pattern IDs without importing private notes.
+
+- `bounded_application`: apply patterns to present-day questions only as orientation, not live operational analysis.
+
+
+
+## Chapter-Folder Links
+
+
+
+Chapter-folder URLs are designed for YouTube comment handoffs and direct LLM chats. When a reader pastes a chapter-folder URL, use the folder `README.md` as the doorway, then open the transcript, commentary canvas, orientation payload, and public card.
+
+
+
+This is a `study` mode entrypoint. It is not a replacement for `first_tour`, which remains the default for the repository root URL.
+
+
+
+Use `predictive-history link <source_id>` to render a paste-ready YouTube comment and LLM prompt for folder-backed chapters.
+
+
+
+## Chapter Catalog
+
+
+
+`docs/predictive-history-index.json` is the machine-readable catalog of all 216 public chapters. Use it when the reader asks to browse lectures, essays, or provenance interviews, resolve a `source_id`, list a series, or find transcript, commentary, folder, and YouTube or Substack links without opening every card file.
+
+
+
+- **JSON:** `docs/predictive-history-index.json` — `chapters[]`, `by_series` (primary), `by_surface` (deprecated mirror), paths, `source_video_url`
+
+- **Markdown:** `docs/predictive-history-index.md` — hub tables by lecture series, slice pointers for essays/interviews, full alphabetical index
+
+- **Regenerate:** `predictive-history index` (auto-sync during `predictive-history validate` and publish)
+
+
+
+This is a `catalog` mode entrypoint and a study-mode lookup aid. It is not a replacement for `first_tour`, which remains the default for the repository root URL.
+
+
+
+## Trilingual Civilizational Bridge
+
+
+
+`ph-civ` also carries an ambition layer: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system.
+
+
+
+The trilingual shape is canonical English `predictive-history`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`.
+
+
+
+The first wedge is **Homer to Tolstoy, read from China.**
+
+
+
+This bridge is not a second default mode. The pasted-URL default remains `first_tour`. The bridge is a future-facing identity and growth layer for possible `ph-civ-zh` and `ph-civ-ru` work.
+
+
+
+The localization roadmap also reserves `ph-civ-ru` as a future Russian-language mirror candidate. Do not treat that as a Russian edition, a translation launch, or a new command surface. Its first work should be Russian glossary, Russian bootloader, and Russian first-tour metadata, with explicit guardrails against Russian-state apologetics, anti-Ukrainian argument, and live war analysis.
+
+
+
+`ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. They inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from the upstream public repo.
+
+
+
+## Guardrails
+
+
+
+- Homer to Tolstoy is the literary spine route, not a side corridor.
+
+- Cross-volume placement is routing exposure, not proof that the spine belongs outside the literary route.
+
+- `sh-16` is the routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.
+
+- namespace catalog hub.
+
+- Application routes are public orientation only, not quotation-grade live operational analysis.
+
+- Commentaries are open project canvases and should not be treated as final scholarly review.
+
+- Public growth goals are ambitions. Do not claim views, attention, launch readiness, or public trust has already been earned.
+
+- Do not stop at a generic repo summary; the default pasted-URL response is an active `first_tour`.
+
+- A chapter-folder URL is a study doorway, not a replacement for `first_tour`; keep the folder's review status visible.
+
+- The trilingual bridge ambition is not propaganda, not anti-Western, not civilizational flattery, and not a translation dump.
+
+- `ph-civ-ru` is roadmap metadata only: not a Russian edition, not live war analysis, and not a translation dump.
+
+- Localization mirrors are downstream of `ph-civ`; do not treat `ph-civ-zh` or `ph-civ-ru` as independent source authorities.
+
+
+
+## Useful Files
+
+
+
+- `START-HERE.md`: canonical pasted-URL bootloader.
+
+- `llms.txt`: compact machine-readable map.
+
+- `llms-full.txt`: this full one-shot LLM context packet.
+
+- `README.md`: human-facing repo overview.
+
+- `AGENTS.md`: public agent guardrails.
+
+- `docs/contracts/public-repo-contract.md`: public role and boundaries.
+
+- `docs/contracts/export-contract.md`: export inclusion and exclusion rules.
+
+- `data/llm-experience.json`: structured LLM-native experience metadata.
+
+- `data/routes/seed.json`: ordered first public seed.
+
+- `data/routes/first-tour.json`: first-tour route experience.
+
+- `data/routes/choreography.json`: typed route layer.
+
+- `data/spines/homer-to-tolstoy.json`: literary spine metadata.
+
+- `data/cards.jsonl`: public card index.
+
+- `docs/predictive-history-index.json`: unified chapter catalog (216 chapters).
+
+- `docs/predictive-history-index.md`: human-readable chapter catalog tables.
+
+- `data/patterns.json`: public pattern IDs.
+
+- `docs/onboarding/first-tour.md`: reader-facing first-tour response shape.
+
+- `docs/archive/two-volume-ph-civ-apo-deprecated.md`: deprecated two-volume reader frame.
+
+- `data/bilingual-loop.json`: trilingual civilizational bridge ambition metadata.
+
+- `docs/localization/bilingual-civilizational-bridge.md`: public explanation of the bridge ambition.
+
+- `docs/onboarding/chapter-folder-links.md`: chapter-folder URL and YouTube comment handoff contract.
+
+- `docs/source-video-index.md`: deprecated redirect to predictive-history-index.
+
+- `book/`: transcripts and commentaries.
+
+- `docs/archive/ph-mus-retired.md`: retired museum layer note.
+
+- `schemas/`: public card, route, and validation schemas.
+
+
+
+## What Not To Claim
+
+
+
+- Do not claim this repo is official course material or endorsement.
+
+- Do not claim the commentaries are complete final analysis.
+
+- Do not claim large media binaries are stored in Git.
+
+- Do not claim live geopolitical certainty from application routes.
+
+- Do not claim audience growth targets have been achieved merely because the repo names them.
+
+
+
+## Local Verification
+
+
+
+When running locally from the repo root:
+
+
+
+```bash
+
+python -m pytest
+
+PYTHONPATH=src python -m civ_ph.cli validate
+
+PYTHONPATH=src python -m civ_ph.cli start --json
+
+PYTHONPATH=src python -m civ_ph.cli path homer-to-tolstoy
+
+```
+
+

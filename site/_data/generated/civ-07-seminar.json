@@ -1,0 +1,23 @@
+{
+  "homer-poet-for-people": {
+    "prompts": [
+      "How does placing Homer above kings and generals change who 'founds' a civilization in the lecture's story?",
+      "What would falsify the lecture's claim that Homer was anti-propaganda rather than court myth?"
+    ],
+    "pressure": "Where does the lecture treat oral memory as evidence rather than as a hypothesis about Greek society?"
+  },
+  "iliad-empathy": {
+    "prompts": [
+      "Which Iliad scenes does the lecture use to argue empathy is Greek civilization's moral engine?",
+      "Could the same passages support a darker reading the lecture does not develop?"
+    ],
+    "pressure": "Where might the empathy reading depend on modern vocabulary the lecture projects onto Homer?"
+  },
+  "greece-china-contrast": {
+    "prompts": [
+      "Is the alphabet contrast about technology, trade contact, or elite incentives—and which does the lecture weight most?",
+      "How would Chinese history look different if poets—not scholar-officials—sat at the top of the hierarchy?"
+    ],
+    "pressure": "Where does the lecture compress two thousand years of Chinese history into a single 'monopoly' story?"
+  }
+}

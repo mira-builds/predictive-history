@@ -1,0 +1,16 @@
+source_id: gt-04
+placement_weight: medium
+part: civilization
+part_role: civilization
+where_this_sits: |
+  This chapter belongs to the Civilization-facing Game Theory lane because it studies immigration, assimilation, and social status as long-run structural pressures inside empire rather than as a late-apocalypse battle map.
+reading_posture: |
+  Read it as a law-discovery chapter about internal cohesion, social mobility, and the costs of integrating newcomers into an already stratified order.
+historical_pressure_points:
+  - immigration and assimilation as pressures on social cohesion
+  - status competition between insiders and newcomers
+  - empire-level integration problems inside modern societies
+limits_of_the_frame: |
+  This entry is provisional and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Social theory claims, historical generalizations, demographic arguments, and political implications still require later comparative review before quotation-grade or publication-grade use.
+return_path: |
+  Return through lectures/game-theory/gt-04/, the commentary canvas, and the lecture transcript. The full transcript is preserved in-repo under lectures/.

@@ -1,0 +1,87 @@
+﻿source_id: sh-28
+title: "Secret History #28: Pax Judaica"
+part: world-war
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Bretton Woods conference photograph"
+    item_type: document
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Bretton_Woods_Conference"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Bretton Woods imagery anchors the lecture's finance and empire claims in a real institutional moment."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "A conference photograph does not prove later claims about financial control."
+    related_paths:
+      orientation_card_path: data/cards/sh-28.md
+      transcript_path: lectures/secret-history/sh-28/sh-28-transcript.md
+      commentary_path: lectures/secret-history/sh-28/sh-28-commentary.md
+  - id: 02
+    label: "US dollar reserve currency context"
+    item_type: chart
+    role: pressure_structure
+    source_url: "https://en.wikipedia.org/wiki/Reserve_currency"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Reserve-currency context helps students separate monetary structure from more speculative claims."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Overview pages simplify contested monetary history."
+    related_paths:
+      orientation_card_path: data/cards/sh-28.md
+      transcript_path: lectures/secret-history/sh-28/sh-28-transcript.md
+      commentary_path: lectures/secret-history/sh-28/sh-28-commentary.md
+  - id: 03
+    label: "Manhattan Project Trinity test"
+    item_type: document
+    role: comparison_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Trinity_test"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The nuclear image shows how modern power can appear as reality-warping technological force."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Nuclear imagery is rhetorically intense and must not be treated as proof of theological claims."
+    related_paths:
+      orientation_card_path: data/cards/sh-28.md
+      transcript_path: lectures/secret-history/sh-28/sh-28-transcript.md
+      commentary_path: lectures/secret-history/sh-28/sh-28-commentary.md
+  - id: 04
+    label: "ARPANET logical map"
+    item_type: diagram
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:ARPANET"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Early network diagrams help students see military, technology, and communication inheritance."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Internet origins are complex and cannot be reduced to one strategic purpose."
+    related_paths:
+      orientation_card_path: data/cards/sh-28.md
+      transcript_path: lectures/secret-history/sh-28/sh-28-transcript.md
+      commentary_path: lectures/secret-history/sh-28/sh-28-commentary.md
+  - id: 05
+    label: "Jerusalem skyline"
+    item_type: place
+    role: limit_caution
+    source_url: "https://commons.wikimedia.org/wiki/Category:Jerusalem"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Jerusalem imagery marks the sacred-political density behind eschatological and geopolitical claims."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Images of sacred places can invite overreading; they orient attention rather than proving claims."
+    related_paths:
+      orientation_card_path: data/cards/sh-28.md
+      transcript_path: lectures/secret-history/sh-28/sh-28-transcript.md
+      commentary_path: lectures/secret-history/sh-28/sh-28-commentary.md

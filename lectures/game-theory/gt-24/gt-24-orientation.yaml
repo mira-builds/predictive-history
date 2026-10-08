@@ -1,0 +1,16 @@
+source_id: gt-24
+placement_weight: strong
+part: world-war
+part_role: world-war
+where_this_sits: |
+  This Game Theory chapter opens the AI-apocalypse arc by moving from machine-learning limits into empire, surveillance, religious metaphor, and end-times strategic psychology.
+reading_posture: |
+  Read it source-first: the packet helps readers follow a speculative lecture while keeping technical claims, quotes, and occult framing visibly bounded.
+historical_pressure_points:
+  - AI as empire-building infrastructure rather than only a software product
+  - machine-learning limits, edge cases, data centers, and surveillance incentives
+  - religious and occult language as a frame for technological ambition and elite belief
+limits_of_the_frame: |
+  This packet is provisional. Transcript fidelity, AI technical descriptions, named-source quotations, and claims about companies or governments require independent review before quotation-grade use.
+return_path: |
+  Return through the direct `ph-apo` chapter path, commentary canvas, public card, and canonical source capture. Do not promote this chapter into public routes until review is complete.

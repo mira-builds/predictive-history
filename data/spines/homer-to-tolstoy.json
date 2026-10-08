@@ -1,0 +1,58 @@
+{
+  "spine_id": "homer-to-tolstoy",
+  "title": "Homer to Tolstoy",
+  "status": "in_review",
+  "structural_role": "volume_i_literary_spine",
+  "routing_role": "cross_volume_exposure",
+  "description": "Volume I literary spine for the two-volume public ph-civ artifact, exposed through cross-volume routing.",
+  "guardrail": "This is a guided literary orientation path, not a claim that literature alone drives history.",
+  "launch_readiness": "defined_not_launch_ready",
+  "first_reader_gap": "The route is structurally correct, but a first public reader still needs a launch packet that explains why this spine matters before audience growth is pursued.",
+  "sequence": [
+    {
+      "author": "Homer",
+      "source_ids": [
+        "civ-07",
+        "gb-02",
+        "gb-05",
+        "gb-07"
+      ]
+    },
+    {
+      "author": "Virgil",
+      "source_ids": [
+        "civ-17",
+        "gb-08"
+      ]
+    },
+    {
+      "author": "Dante",
+      "source_ids": [
+        "civ-29",
+        "civ-30",
+        "civ-41",
+        "gb-09",
+        "gb-10"
+      ]
+    },
+    {
+      "author": "Shakespeare",
+      "source_ids": [
+        "civ-51"
+      ]
+    },
+    {
+      "author": "Dostoevsky",
+      "source_ids": [
+        "civ-53"
+      ]
+    },
+    {
+      "author": "Tolstoy",
+      "source_ids": [
+        "sh-16"
+      ],
+      "note": "Routed endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture."
+    }
+  ]
+}

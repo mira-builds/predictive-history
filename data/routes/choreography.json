@@ -1,0 +1,115 @@
+{
+  "source": "registries/ph-choreography.yaml",
+  "source_snapshot": {
+    "repo": "public-source-capture",
+    "commit": ""
+  },
+  "routes": [
+    {
+      "source_id": "civ-07",
+      "surface": "ph-civ",
+      "route_type": "spine",
+      "card_path": "data/cards/civ-07.md",
+      "transcript_path": "lectures/civilization/civ-07/civ-07-transcript.md",
+      "commentary_path": "lectures/civilization/civ-07/civ-07-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Homer becomes a civilizational memory system: heroic action is no longer just story, but a grammar of honor, violence, and inherited imagination."
+    },
+    {
+      "source_id": "civ-17",
+      "surface": "ph-civ",
+      "route_type": "spine",
+      "card_path": "data/cards/civ-17.md",
+      "transcript_path": "lectures/civilization/civ-17/civ-17-transcript.md",
+      "commentary_path": "lectures/civilization/civ-17/civ-17-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Virgil and Rome become the hinge between Homeric heroic memory and imperial destiny: inherited epic turns into a public grammar of duty, rule, and civilizational transmission."
+    },
+    {
+      "source_id": "civ-29",
+      "surface": "ph-civ",
+      "route_type": "spine",
+      "card_path": "data/cards/civ-29.md",
+      "transcript_path": "lectures/civilization/civ-29/civ-29-transcript.md",
+      "commentary_path": "lectures/civilization/civ-29/civ-29-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Dante turns inherited sacred order into navigable imaginative architecture, making the inner life of civilization visible as a structured journey."
+    },
+    {
+      "source_id": "civ-51",
+      "surface": "ph-civ",
+      "route_type": "spine",
+      "card_path": "data/cards/civ-51.md",
+      "transcript_path": "lectures/civilization/civ-51/civ-51-transcript.md",
+      "commentary_path": "lectures/civilization/civ-51/civ-51-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Shakespeare becomes an imperial language machine: stage, speech, legitimacy, and expansion begin to share one imaginative field."
+    },
+    {
+      "source_id": "gb-02",
+      "surface": "ph-civ",
+      "route_type": "paired_close_reading",
+      "card_path": "data/cards/gb-02.md",
+      "transcript_path": "lectures/great-books/gb-02/gb-02-transcript.md",
+      "commentary_path": "lectures/great-books/gb-02/gb-02-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Homer becomes not only a historical source but a tool for inventing the human as a literary, moral, and political subject."
+    },
+    {
+      "source_id": "gb-09",
+      "surface": "ph-civ",
+      "route_type": "paired_close_reading",
+      "card_path": "data/cards/gb-09.md",
+      "transcript_path": "lectures/great-books/gb-09/gb-09-transcript.md",
+      "commentary_path": "lectures/great-books/gb-09/gb-09-commentary.md",
+      "caveat": "Literary spine orientation does not claim that literature alone drives history.",
+      "what_changes_here": "Dante shifts from civilizational landmark to close-reading engine: the poem becomes a machine for sorting desire, guilt, punishment, and ascent."
+    },
+    {
+      "source_id": "geo-14",
+      "surface": "ph-apo",
+      "route_type": "application",
+      "card_path": "data/cards/geo-14.md",
+      "transcript_path": "lectures/geo-strategy/geo-14/geo-14-transcript.md",
+      "commentary_path": "lectures/geo-strategy/geo-14/geo-14-commentary.md",
+      "caveat": "Application routes provide public orientation only, not quotation-grade live operational analysis.",
+      "what_changes_here": "Geography becomes operational pressure: chokepoints, nuclear infrastructure, proxies, and platforms make strategic escalation legible."
+    },
+    {
+      "source_id": "gt-16",
+      "surface": "ph-apo",
+      "route_type": "application",
+      "card_path": "data/cards/gt-16.md",
+      "transcript_path": "lectures/game-theory/gt-16/gt-16-transcript.md",
+      "commentary_path": "lectures/game-theory/gt-16/gt-16-commentary.md",
+      "caveat": "Application routes provide public orientation only, not quotation-grade live operational analysis.",
+      "what_changes_here": "Game theory turns the same historical grammar into an incentive field: shipping, energy, deterrence, and narrative become pressure variables.",
+      "civilization_roots": [
+        "civ-31"
+      ]
+    },
+    {
+      "source_id": "sh-16",
+      "surface": "ph-apo",
+      "route_type": "coda",
+      "card_path": "data/cards/sh-16.md",
+      "transcript_path": "lectures/secret-history/sh-16/sh-16-transcript.md",
+      "commentary_path": "lectures/secret-history/sh-16/sh-16-commentary.md",
+      "caveat": "Routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.",
+      "what_changes_here": "The Homer-to-Tolstoy literary spine receives its routed endpoint: Tolstoy enters as a modern coda through Anna Karenina while the chapter remains a Secret History application node."
+    },
+    {
+      "source_id": "sh-28",
+      "surface": "ph-apo",
+      "route_type": "application",
+      "card_path": "data/cards/sh-28.md",
+      "transcript_path": "lectures/secret-history/sh-28/sh-28-transcript.md",
+      "commentary_path": "lectures/secret-history/sh-28/sh-28-commentary.md",
+      "caveat": "Application routes provide public orientation only, not quotation-grade live operational analysis.",
+      "what_changes_here": "Secret History turns infrastructure into symbolic pressure: finance, networks, nuclear power, and sacred geography become a contested system of meaning.",
+      "civilization_roots": [
+        "civ-58"
+      ]
+    }
+  ]
+}

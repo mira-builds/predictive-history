@@ -1,0 +1,116 @@
+{
+  "tour_id": "first_tour_ten_route_spine",
+  "mode": "first_tour",
+  "seed_id": "ten_route_spine_seed",
+  "opening_path": "homer-to-tolstoy",
+  "opening_route": "civ-07",
+  "purpose": "Turn a pasted GitHub URL into a guided first encounter with the two-volume ph-civ artifact.",
+  "reader_promise": "In ten stops, the reader sees Volume I discover historical laws through civilizational memory and Volume II expose those laws under modern pressure.",
+  "continue_prompt": "Continue the first_tour by opening civ-07 as the Homeric memory system: explain why it matters, how to read it, what not to overclaim, and where the reader can go next.",
+  "phases": [
+    {
+      "phase_id": "volume_i_literary_spine",
+      "title": "Volume I Literary Spine",
+      "route_ids": [
+        "civ-07",
+        "civ-17",
+        "civ-29",
+        "civ-51"
+      ],
+      "function": "Show how literary memory becomes civilizational grammar without claiming literature alone drives history."
+    },
+    {
+      "phase_id": "paired_close_readings",
+      "title": "Close-Reading Reinforcement",
+      "route_ids": [
+        "gb-02",
+        "gb-09"
+      ],
+      "function": "Return to Homer and Dante as reading engines so the spine is not only a survey path."
+    },
+    {
+      "phase_id": "volume_ii_application",
+      "title": "Volume II Application Exposure",
+      "route_ids": [
+        "geo-14",
+        "gt-16",
+        "sh-16",
+        "sh-28"
+      ],
+      "function": "Show the laws under geopolitical, incentive, Tolstoy-coda, and infrastructure pressure while keeping application routes bounded."
+    }
+  ],
+  "stops": [
+    {
+      "source_id": "civ-07",
+      "tour_role": "opening_memory_system",
+      "reader_question": "How does Homer turn heroic action into a civilizational memory system?",
+      "next_action": "Study civ-07 through its card, transcript, commentary, and commentary canvas."
+    },
+    {
+      "source_id": "civ-17",
+      "tour_role": "imperial_hinge",
+      "reader_question": "What changes when Homeric memory becomes Roman public duty and imperial destiny?",
+      "next_action": "Follow the hinge from inherited epic to civilizational transmission."
+    },
+    {
+      "source_id": "civ-29",
+      "tour_role": "sacred_architecture",
+      "reader_question": "How does Dante make civilization's inner order navigable?",
+      "next_action": "Trace sacred order as imaginative architecture."
+    },
+    {
+      "source_id": "civ-51",
+      "tour_role": "language_machine",
+      "reader_question": "How does Shakespeare join speech, legitimacy, theater, and imperial expansion?",
+      "next_action": "Read language as a power-bearing civilizational medium."
+    },
+    {
+      "source_id": "gb-02",
+      "tour_role": "homer_close_reading",
+      "reader_question": "What does a closer Homer reading add that the civilizational survey cannot?",
+      "next_action": "Return from spine to close reading before moving further."
+    },
+    {
+      "source_id": "gb-09",
+      "tour_role": "dante_close_reading",
+      "reader_question": "How does Dante become a machine for sorting desire, guilt, punishment, and ascent?",
+      "next_action": "Use close reading to strengthen the Dante node."
+    },
+    {
+      "source_id": "geo-14",
+      "tour_role": "geographic_pressure",
+      "reader_question": "What happens when civilizational patterns meet chokepoints, proxies, platforms, and escalation?",
+      "next_action": "Enter Volume II application without treating the route as live operational analysis."
+    },
+    {
+      "source_id": "gt-16",
+      "tour_role": "incentive_pressure",
+      "reader_question": "How do shipping, energy, deterrence, and narrative become pressure variables?",
+      "next_action": "Translate historical grammar into a bounded incentive field."
+    },
+    {
+      "source_id": "sh-16",
+      "tour_role": "tolstoy_coda",
+      "reader_question": "Why does Tolstoy enter as an Anna Karenina coda rather than a dedicated Tolstoy lecture?",
+      "next_action": "Preserve the Tolstoy caveat while completing the literary spine exposure."
+    },
+    {
+      "source_id": "sh-28",
+      "tour_role": "infrastructure_symbolic_pressure",
+      "reader_question": "How do finance, networks, nuclear power, and sacred geography become a contested system of meaning?",
+      "next_action": "Close the seed by seeing application pressure without overclaiming certainty."
+    }
+  ],
+  "closing_choices": [
+    "continue to the next route",
+    "study the current route",
+    "switch modes"
+  ],
+  "guardrails": [
+    "Homer to Tolstoy is the Volume I literary spine, not a side corridor.",
+    "sh-16 is a Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.",
+    "Application routes are public orientation only, not live operational analysis.",
+    "Every stop should return to the relevant card, transcript, and commentary before making chapter-specific claims."
+  ]
+}

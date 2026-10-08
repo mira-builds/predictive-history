@@ -1,0 +1,449 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f4ef;
+  --panel: #fffdf9;
+  --ink: #1f1a14;
+  --muted: #5c5348;
+  --accent: #6b4423;
+  --accent-soft: #efe4d6;
+  --warn: #8a5a00;
+  --border: #ddd2c4;
+  --highlight: #fff3bf;
+  --font-ui: "Segoe UI", system-ui, sans-serif;
+  --font-text: Georgia, "Times New Roman", serif;
+  --greek: #2c5282;
+  --china: #8b2942;
+  --seminar: #3d5c45;
+  --card-shadow: 0 2px 12px rgba(31, 26, 20, 0.08);
+  --font-display: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-ui);
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.5;
+}
+
+.top-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--panel);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.82rem;
+}
+
+.chip.warn {
+  background: #fff1d6;
+  color: var(--warn);
+}
+
+.status-link {
+  color: var(--accent);
+  font-size: 0.9rem;
+}
+
+.study-grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(320px, 2fr) minmax(260px, 1.1fr);
+  gap: 0;
+  min-height: calc(100vh - 3.5rem);
+}
+
+.panel {
+  padding: 1rem 1.1rem 2rem;
+  border-right: 1px solid var(--border);
+  overflow: auto;
+}
+
+.panel:last-child {
+  border-right: none;
+}
+
+.panel h2,
+.panel h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+}
+
+.panel-sub {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0 0 1rem;
+}
+
+.outline-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.outline-btn {
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  padding: 0.45rem 0.35rem;
+  border-radius: 0.35rem;
+  cursor: pointer;
+  font: inherit;
+  color: inherit;
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.outline-btn:hover,
+.outline-btn.active {
+  background: var(--accent-soft);
+}
+
+.claim-badge {
+  font-size: 0.75rem;
+  color: var(--accent);
+}
+
+.status-ribbon {
+  font-size: 0.82rem;
+  color: var(--muted);
+  padding: 0.55rem 0.65rem;
+  margin-bottom: 1rem;
+  border: 1px dashed var(--border);
+  border-radius: 0.4rem;
+  background: #fff;
+}
+
+.floor-panel {
+  font-family: var(--font-text);
+  font-size: 1.02rem;
+}
+
+.transcript-section {
+  margin-bottom: 1.35rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.transcript-section.highlight {
+  background: var(--highlight);
+  border-radius: 0.4rem;
+  padding: 0.35rem 0.45rem;
+}
+
+.section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.section-head h3 {
+  margin: 0;
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+.claim-marker {
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--accent);
+  border-radius: 0.25rem;
+  padding: 0.1rem 0.35rem;
+  margin-left: 0.2rem;
+  cursor: pointer;
+  font-size: 0.75rem;
+}
+
+.claim-marker:hover {
+  background: var(--accent-soft);
+}
+
+.transcript-section p {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.summary-block {
+  margin-bottom: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+  padding: 0.55rem 0.65rem;
+  background: #fff;
+}
+
+.summary-block summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.claims-list,
+.concepts-list {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.claim-card {
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+  padding: 0.55rem 0.65rem;
+  background: #fff;
+  scroll-margin-top: 4.5rem;
+}
+
+.claim-card.active {
+  outline: 2px solid var(--accent);
+}
+
+.claim-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.35rem;
+}
+
+.claim-n {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.claim-jump {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.82rem;
+}
+
+.claim-text {
+  margin: 0 0 0.35rem;
+  font-size: 0.92rem;
+}
+
+.claim-meta {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.concept-card {
+  font-size: 0.9rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.notes-footer {
+  margin-top: 1.25rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.part-index {
+  max-width: 52rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem 3rem;
+}
+
+.part-chapter-list {
+  line-height: 1.8;
+}
+
+.part-chapter-list a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.meta-count {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+@media (max-width: 1100px) {
+  .study-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .panel {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .floor-panel {
+    order: -1;
+  }
+
+  .seminar-strip {
+    margin-top: 0.75rem;
+  }
+}
+
+.hidden {
+  display: none !important;
+}
+
+.claim-morph-view {
+  margin-bottom: 1rem;
+}
+
+.claim-morph-back {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+  padding: 0;
+}
+
+.claim-morph-card {
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 0.75rem 0.85rem;
+  background: #fff;
+  box-shadow: var(--card-shadow);
+}
+
+.claim-morph-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  color: var(--accent);
+  margin: 0 0 0.35rem;
+}
+
+.claim-morph-thesis {
+  font-family: var(--font-display);
+  margin: 0 0 0.55rem;
+  font-size: 1rem;
+}
+
+.claim-morph-notices {
+  margin: 0 0 0.65rem 1.1rem;
+  padding: 0;
+  font-size: 0.9rem;
+}
+
+.claim-morph-meta {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0 0 0.65rem;
+}
+
+.contrast-split {
+  margin-top: 0.35rem;
+}
+
+.contrast-divider {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 0.65rem;
+}
+
+.contrast-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.85rem;
+}
+
+.contrast-col h4 {
+  margin: 0 0 0.45rem;
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.contrast-greece {
+  border-left: 3px solid var(--greek);
+  padding-left: 0.65rem;
+}
+
+.contrast-china {
+  border-left: 3px solid var(--china);
+  padding-left: 0.65rem;
+}
+
+.contrast-col p {
+  margin: 0 0 0.65rem;
+  font-size: 0.95rem;
+}
+
+.seminar-strip {
+  margin-top: 1rem;
+  border: 1px solid var(--seminar);
+  border-radius: 0.4rem;
+  padding: 0.45rem 0.65rem;
+  background: #f6faf7;
+}
+
+.seminar-strip summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--seminar);
+}
+
+.seminar-prompts {
+  margin: 0.55rem 0 0.45rem 1.1rem;
+  padding: 0;
+}
+
+.seminar-pressure {
+  margin: 0.35rem 0 0;
+  font-size: 0.9rem;
+}
+
+.gen-ai-footer {
+  margin: 0.45rem 0 0;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .outline-btn,
+  .claim-marker,
+  .claim-card,
+  .contrast-columns {
+    transition: none !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .contrast-columns {
+    grid-template-columns: 1fr;
+  }
+}

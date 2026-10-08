@@ -1,0 +1,87 @@
+﻿source_id: gb-02
+title: "Great Books #2: Homer and the Invention of the Human"
+part: civilization
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Bust known as Homer"
+    item_type: portrait
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Homer_British_Museum.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The blind-bard image asks students to treat Homer as a cultural memory figure as much as an individual author."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Ancient portrait types are conventional and not reliable likenesses."
+    related_paths:
+      orientation_card_path: data/cards/gb-02.md
+      transcript_path: lectures/great-books/gb-02/gb-02-transcript.md
+      commentary_path: lectures/great-books/gb-02/gb-02-commentary.md
+  - id: 02
+    label: "Iliad manuscript page"
+    item_type: manuscript
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Iliad_manuscripts"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "A manuscript page reminds the reader that oral epic later became textual inheritance."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Manuscript evidence belongs to later transmission, not the original performance setting."
+    related_paths:
+      orientation_card_path: data/cards/gb-02.md
+      transcript_path: lectures/great-books/gb-02/gb-02-transcript.md
+      commentary_path: lectures/great-books/gb-02/gb-02-commentary.md
+  - id: 03
+    label: "Achilles tending Patroclus"
+    item_type: artwork
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The scene centers vulnerability and friendship inside heroic violence, a key close-reading pressure."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The vase interprets the story visually and should not replace the poem's language."
+    related_paths:
+      orientation_card_path: data/cards/gb-02.md
+      transcript_path: lectures/great-books/gb-02/gb-02-transcript.md
+      commentary_path: lectures/great-books/gb-02/gb-02-commentary.md
+  - id: 04
+    label: "Troy archaeological site"
+    item_type: place
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Troy"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Troy grounds the epic in contested layers of archaeology, memory, and legend."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The site's layers do not straightforwardly prove the Iliad's narrative."
+    related_paths:
+      orientation_card_path: data/cards/gb-02.md
+      transcript_path: lectures/great-books/gb-02/gb-02-transcript.md
+      commentary_path: lectures/great-books/gb-02/gb-02-commentary.md
+  - id: 05
+    label: "Catalogue of Ships map"
+    item_type: map
+    role: comparison_object
+    source_url: "https://en.wikipedia.org/wiki/Catalogue_of_Ships"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The catalogue shows epic as a geography of peoples, alliances, and remembered names."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The map is a modern reconstruction of poetic material."
+    related_paths:
+      orientation_card_path: data/cards/gb-02.md
+      transcript_path: lectures/great-books/gb-02/gb-02-transcript.md
+      commentary_path: lectures/great-books/gb-02/gb-02-commentary.md

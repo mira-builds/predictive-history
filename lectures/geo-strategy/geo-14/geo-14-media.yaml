@@ -1,0 +1,87 @@
+﻿source_id: geo-14
+title: "Geo-Strategy #14: WWIII Begins, Let's Game Theory"
+part: world-war
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Strait of Hormuz map"
+    item_type: map
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Maps_of_the_Strait_of_Hormuz"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The chokepoint shows how geography can turn regional conflict into global economic pressure."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Maps show vulnerability, not inevitability or a complete war model."
+    related_paths:
+      orientation_card_path: data/cards/geo-14.md
+      transcript_path: lectures/geo-strategy/geo-14/geo-14-transcript.md
+      commentary_path: lectures/geo-strategy/geo-14/geo-14-commentary.md
+  - id: 02
+    label: "Iran regional map"
+    item_type: map
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Maps_of_Iran"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "A regional map helps students locate Iran among Gulf, Levant, Central Asian, and maritime pressures."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Static maps cannot capture changing alliances or military readiness."
+    related_paths:
+      orientation_card_path: data/cards/geo-14.md
+      transcript_path: lectures/geo-strategy/geo-14/geo-14-transcript.md
+      commentary_path: lectures/geo-strategy/geo-14/geo-14-commentary.md
+  - id: 03
+    label: "B-2 Spirit aircraft"
+    item_type: artifact
+    role: pressure_structure
+    source_url: "https://commons.wikimedia.org/wiki/Category:Northrop_Grumman_B-2_Spirit"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Strategic aircraft imagery makes visible the lecture's concern with reach, signaling, and escalation."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Weapons-platform images do not prove operational claims about a specific strike."
+    related_paths:
+      orientation_card_path: data/cards/geo-14.md
+      transcript_path: lectures/geo-strategy/geo-14/geo-14-transcript.md
+      commentary_path: lectures/geo-strategy/geo-14/geo-14-commentary.md
+  - id: 04
+    label: "Fordow nuclear facility map/context"
+    item_type: place
+    role: primary_object
+    source_url: "https://en.wikipedia.org/wiki/Fordow_Fuel_Enrichment_Plant"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The facility anchors nuclear-infrastructure discussion in a concrete contested site."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Wikipedia context is a starting point, not a source sufficient for final claims."
+    related_paths:
+      orientation_card_path: data/cards/geo-14.md
+      transcript_path: lectures/geo-strategy/geo-14/geo-14-transcript.md
+      commentary_path: lectures/geo-strategy/geo-14/geo-14-commentary.md
+  - id: 05
+    label: "Israel-Iran proxy conflict overview"
+    item_type: diagram
+    role: comparison_object
+    source_url: "https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_proxy_conflict"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "A conflict overview helps students see layers of proxy pressure before treating events as isolated."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Overview pages compress disputes and require source-level checking."
+    related_paths:
+      orientation_card_path: data/cards/geo-14.md
+      transcript_path: lectures/geo-strategy/geo-14/geo-14-transcript.md
+      commentary_path: lectures/geo-strategy/geo-14/geo-14-commentary.md

@@ -1,0 +1,80 @@
+# Predictive History
+
+> Public Predictive History context-pack and study-orientation repository.
+
+## Workspace Identity
+
+This workspace is `mira-builds/predictive-history`, the public distribution layer for Predictive History.
+
+**Publisher:** **Statecraft Intelligence Desk**
+
+**Primary artifact:** `namespace_catalog` — hub at `docs/predictive-history-index.md` (216 chapters) plus lecture, essay, and interview slice indexes.
+
+It exists to provide public lecture transcripts, companion commentaries, orientation cards, civilizational pattern IDs, routes, prompts, and validation tooling. It helps students, researchers, and downstream AI systems navigate Predictive History without importing private notes or raw media archives.
+
+The supported CLI is `predictive-history`. Legacy `ph-civ` / `ph-apo` card surfaces remain only as historical routing metadata; two-volume reader onboarding is deprecated — see `docs/archive/two-volume-ph-civ-apo-deprecated.md`.
+
+## Public Surfaces (deprecated reader frame)
+
+- `ph-civ`: legacy Volume I identity surface (compat)
+- `ph-apo`: legacy Volume II identity surface (compat)
+
+Use the **namespace catalog hub** and slice indexes for new reader onboarding.
+
+## Boundary
+
+Repository-origin identifiers are omitted; original chapter-source attribution remains available. This repository is the public consumption layer and contains the chapter transcripts and commentaries. Physical source series remain provenance metadata; the official public reader model is the **namespace catalog hub** (legacy two-volume rollup deprecated).
+
+Included:
+
+- public card frontmatter and public card sections
+- public lecture transcript bodies
+- public companion commentary bodies
+- source IDs, titles, parts, series, placement weights, and review status
+- provider-neutral prompts and spark templates
+- public pattern IDs and bridge responses
+- the Homer-to-Tolstoy literary spine route with cross-volume routing exposure
+
+Excluded:
+
+- private notes
+- private workspace paths
+- raw media binaries
+- final scholarly-review claims
+
+## Load Contract
+
+- If this repository URL was pasted into an LLM chat, start with `START-HERE.md`.
+- Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, and bounded-application modes.
+- Use `llms-full.txt` when the LLM needs a complete one-shot context packet after the compact map.
+- Do not stop at a generic repository summary or "what would you like to do next?" response. Begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode.
+- If the pasted URL is a direct chapter-folder URL under `book/`, treat it as `study` mode: open the folder `README.md`, transcript, commentary canvas, orientation payload, and public card. This is not a replacement for `first_tour`.
+- Then read `AGENTS.md` and `README.md`.
+- If the operator says `coffee`, open the `predictive-history` repo state; do not give a generic coffee greeting.
+- Use `docs/contracts/public-repo-contract.md` for repository role and boundaries.
+- Use `docs/contracts/export-contract.md` for export inclusion/exclusion rules.
+- Use the public bridge and pattern calibration docs for public pattern IDs and downstream bridge usage.
+- Use `data/growth-goals.json` for public-growth ambitions. Do not treat reach metrics as directly executable agent completions; translate them into repo, publishing, analytics, asset, and distribution work.
+- Use `data/routes/seed.json`, `data/cards.jsonl`, `data/patterns.json`, and `data/routes/choreography.json` as public data sources.
+- Use `data/routes/first-tour.json` and `docs/onboarding/first-tour.md` when the reader chooses `continue the first tour`.
+- Use `docs/onboarding/chapter-folder-links.md` and `predictive-history link <source_id>` for YouTube comment handoffs built around exact chapter-folder URLs.
+- Use [`docs/predictive-history-index.md`](docs/predictive-history-index.md) when a reader needs public Predictive History source URLs in one place (Video column; JSON: `source_video_url`).
+- Use `docs/predictive-history-index.md` when a reader needs the full catalog of all 216 public chapters (lectures, essays, and provenance interviews) with links to transcript, commentary, folder README, and source video or Substack URL.
+- Use `docs/predictive-history-index.json` when a tool needs the same catalog as structured JSON (`chapters`, `by_series`, legacy `by_surface`, paths, and video URLs).
+- Use `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
+- Do not answer as if this repo owns live workshop editorial state.
+
+## Useful Commands
+
+```powershell
+python -m pytest
+PYTHONPATH=src python -m civ_ph.cli validate
+PYTHONPATH=src python -m civ_ph.cli index
+PYTHONPATH=src python -m civ_ph.cli index --check
+PYTHONPATH=src python -m civ_ph.cli start --json
+PYTHONPATH=src python -m civ_ph.cli tour --json
+PYTHONPATH=src python -m civ_ph.cli link gt-24 --json
+PYTHONPATH=src python -m civ_ph.cli bilingual --json
+PYTHONPATH=src python -m civ_ph.cli growth
+PYTHONPATH=src python -m civ_ph.cli bridge civ-07 --format markdown
+```

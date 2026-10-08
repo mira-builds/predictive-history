@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "description": "Pinned public interview IDs for workshop vi-* promotion",
+  "entries": [
+    {
+      "workshop_source_id": "vi-01",
+      "source_id": "interview-2025-10-30-cyrus-janssen",
+      "publication_date": "2025-10-30",
+      "video_id": "XRk5VSEzJ4Y",
+      "interviews_episode": 1
+    },
+    {
+      "workshop_source_id": "vi-02",
+      "source_id": "interview-2025-11-24-glenn-diesen",
+      "publication_date": "2025-11-24",
+      "video_id": "GSSIm9xNRAE",
+      "interviews_episode": 2
+    },
+    {
+      "workshop_source_id": "vi-03",
+      "source_id": "interview-2026-01-05-glenn-diesen",
+      "publication_date": "2026-01-05",
+      "video_id": "ORyCS0r2Tpg",
+      "interviews_episode": 3
+    },
+    {
+      "workshop_source_id": "vi-04",
+      "source_id": "interview-2026-01-18-danny-haiphong",
+      "publication_date": "2026-01-18",
+      "video_id": "H5lCJ0D4DpY",
+      "interviews_episode": 4
+    },
+    {
+      "workshop_source_id": "vi-05",
+      "source_id": "interview-2026-01-22-dimitri-lascaris",
+      "publication_date": "2026-01-22",
+      "video_id": "uHIdRgFypNo",
+      "interviews_episode": 5
+    },
+    {
+      "workshop_source_id": "vi-06",
+      "source_id": "interview-2026-01-26-glenn-diesen",
+      "publication_date": "2026-01-26",
+      "video_id": "80jUKe0blAQ",
+      "interviews_episode": 6
+    },
+    {
+      "workshop_source_id": "vi-07",
+      "source_id": "interview-2026-03-02-breaking-points",
+      "publication_date": "2026-03-02",
+      "video_id": "4Ql24Z8SIeE",
+      "interviews_episode": 7
+    },
+    {
+      "workshop_source_id": "vi-08",
+      "source_id": "interview-2026-03-07-dialogue-works",
+      "publication_date": "2026-03-07",
+      "video_id": "0rIgZD-tk3s",
+      "interviews_episode": 8
+    },
+    {
+      "workshop_source_id": "vi-09",
+      "source_id": "interview-2026-03-09-sneako",
+      "publication_date": "2026-03-09",
+      "video_id": "o1DElACHNRo",
+      "interviews_episode": 9
+    },
+    {
+      "workshop_source_id": "vi-10",
+      "source_id": "interview-2026-03-16-endgame",
+      "publication_date": "2026-03-16",
+      "video_id": "rsi7cDRUrmE",
+      "interviews_episode": 10
+    },
+    {
+      "workshop_source_id": "vi-11",
+      "source_id": "interview-2026-03-20-tucker-carlson",
+      "publication_date": "2026-03-20",
+      "video_id": "2K2nQsTTjQE",
+      "interviews_episode": 11
+    },
+    {
+      "workshop_source_id": "vi-12",
+      "source_id": "interview-2026-04-01-jay-shapiro",
+      "publication_date": "2026-04-01",
+      "video_id": "oErKnj_uyPA",
+      "interviews_episode": 12
+    },
+    {
+      "workshop_source_id": "vi-13",
+      "source_id": "interview-2026-04-07-patrick-bet-david",
+      "publication_date": "2026-04-07",
+      "video_id": "Wio--7_GIOs",
+      "interviews_episode": 13
+    },
+    {
+      "workshop_source_id": "vi-14",
+      "source_id": "interview-2026-04-13-glenn-diesen",
+      "publication_date": "2026-04-13",
+      "video_id": "P_DHMUdOVdo",
+      "interviews_episode": 14
+    },
+    {
+      "workshop_source_id": "vi-15",
+      "source_id": "interview-2026-04-13-sneako-dugin",
+      "publication_date": "2026-04-13",
+      "video_id": "n44OF1Y7zgo",
+      "alternate_video_ids": [
+        "D37uD6rFzYs"
+      ],
+      "interviews_episode": 15
+    },
+    {
+      "workshop_source_id": "ext-doac-01",
+      "source_id": "interview-2026-05-07-diary-of-a-ceo",
+      "publication_date": "2026-05-07",
+      "video_id": "BTJGr78-zyw",
+      "interviews_episode": 16,
+      "title": "Interviews #16: Diary of a CEO (Steven Bartlett) — World War 3 Is About To Begin",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-02",
+      "source_id": "interview-2026-03-09-glenn-diesen-iran-war",
+      "publication_date": "2026-03-09",
+      "video_id": "6rTlI_Qwd1I",
+      "interviews_episode": 17,
+      "title": "Interviews #17: Glenn Diesen — New World Order, Iran War, and the End of U.S. Empire",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-03",
+      "source_id": "interview-2026-03-19-tom-bilyeu",
+      "publication_date": "2026-03-19",
+      "video_id": "uP9Fnq23lsA",
+      "interviews_episode": 18,
+      "title": "Interviews #18: Tom Bilyeu — Trump Is Stuck in the Iran War",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-04",
+      "source_id": "interview-2026-04-22-redacted",
+      "publication_date": "2026-04-22",
+      "video_id": "NidlGa9C0H8",
+      "interviews_episode": 19,
+      "title": "Interviews #19: Redacted — Iran Has Trump Trapped",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-05",
+      "source_id": "interview-2026-06-01-glenn-diesen",
+      "publication_date": "2026-06-01",
+      "video_id": "Pk15Ov0v98U",
+      "interviews_episode": 20,
+      "title": "Interviews #20: Glenn Diesen — U.S. Trapped in Iran, Europe, Russia, and China",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-06",
+      "source_id": "interview-2026-07-01-glenn-diesen",
+      "publication_date": "2026-07-01",
+      "video_id": "Kygtd00Xbto",
+      "interviews_episode": 21,
+      "title": "Interviews #21: Glenn Diesen — Trump's World Order and Normalising Insanity",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-07",
+      "source_id": "interview-2026-07-11-cyrus-janssen",
+      "publication_date": "2026-07-11",
+      "video_id": "NuumRbqItBg",
+      "interviews_episode": 22,
+      "title": "Interviews #22: Cyrus Janssen — America Will Invade Iran Next",
+      "intake_mode": "operator_paste"
+    },
+    {
+      "workshop_source_id": "ext-interview-08",
+      "source_id": "interview-2026-08-11-glenn-diesen",
+      "publication_date": "2026-08-11",
+      "video_id": "QEysVg7ftWk",
+      "interviews_episode": 23,
+      "title": "Interviews #23: Glenn Diesen — Breaking Point: Why the West Is Falling Apart",
+      "intake_mode": "operator_paste"
+    }
+  ]
+}

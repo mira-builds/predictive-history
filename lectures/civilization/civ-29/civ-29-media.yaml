@@ -1,0 +1,87 @@
+﻿source_id: civ-29
+title: "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination"
+part: civilization
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Dante portrait by Botticelli"
+    item_type: portrait
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Portrait_of_Dante_Alighieri.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The portrait places Dante as a historical author whose imaginative authority becomes a civilizational force."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "A Renaissance portrait is an afterimage, not a contemporary record of Dante."
+    related_paths:
+      orientation_card_path: data/cards/civ-29.md
+      transcript_path: lectures/civilization/civ-29/civ-29-transcript.md
+      commentary_path: lectures/civilization/civ-29/civ-29-commentary.md
+  - id: 02
+    label: "Dante and the three realms"
+    item_type: diagram
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/File:Dante_Domenico_di_Michelino_Duomo_Florence.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The image helps students see the Comedy as a mapped cosmos linking city, exile, theology, and poetic journey."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The painting visualizes later reception and should not replace the poem."
+    related_paths:
+      orientation_card_path: data/cards/civ-29.md
+      transcript_path: lectures/civilization/civ-29/civ-29-transcript.md
+      commentary_path: lectures/civilization/civ-29/civ-29-commentary.md
+  - id: 03
+    label: "Botticelli map of hell"
+    item_type: diagram
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Botticelli_Chart_of_Hell.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The chart turns moral order into spatial order, making Dante's imagination visible as architecture."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "It is a later interpretive diagram, not Dante's own drawing."
+    related_paths:
+      orientation_card_path: data/cards/civ-29.md
+      transcript_path: lectures/civilization/civ-29/civ-29-transcript.md
+      commentary_path: lectures/civilization/civ-29/civ-29-commentary.md
+  - id: 04
+    label: "Florence city view"
+    item_type: place
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Florence_in_the_Middle_Ages"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Florence gives the poem its civic and factional pressure: paradise and hell are written from political exile."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Category-level media need item-level review before use as evidence."
+    related_paths:
+      orientation_card_path: data/cards/civ-29.md
+      transcript_path: lectures/civilization/civ-29/civ-29-transcript.md
+      commentary_path: lectures/civilization/civ-29/civ-29-commentary.md
+  - id: 05
+    label: "Manuscripts of the Divine Comedy"
+    item_type: manuscript
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Manuscripts_of_Divina_Commedia"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Manuscript witnesses show the Comedy becoming a shared European memory object."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Individual manuscripts differ by date, region, illustration, and textual tradition."
+    related_paths:
+      orientation_card_path: data/cards/civ-29.md
+      transcript_path: lectures/civilization/civ-29/civ-29-transcript.md
+      commentary_path: lectures/civilization/civ-29/civ-29-commentary.md

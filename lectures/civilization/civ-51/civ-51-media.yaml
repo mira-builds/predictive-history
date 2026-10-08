@@ -1,0 +1,87 @@
+﻿source_id: civ-51
+title: "Civilization #51: Shakespeare's Language of Empire"
+part: civilization
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "First Folio title page"
+    item_type: manuscript
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Shakespeare_First_Folio_Title_Page.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The First Folio makes Shakespeare visible as a canon-forming artifact, not just a playwright."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The Folio is a posthumous publication and reflects editorial mediation."
+    related_paths:
+      orientation_card_path: data/cards/civ-51.md
+      transcript_path: lectures/civilization/civ-51/civ-51-transcript.md
+      commentary_path: lectures/civilization/civ-51/civ-51-commentary.md
+  - id: 02
+    label: "Globe Theatre reconstruction"
+    item_type: place
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Shakespeare%27s_Globe"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The theater locates Shakespeare in a commercial, urban, public language machine."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Modern reconstructions are teaching aids, not direct Elizabethan evidence."
+    related_paths:
+      orientation_card_path: data/cards/civ-51.md
+      transcript_path: lectures/civilization/civ-51/civ-51-transcript.md
+      commentary_path: lectures/civilization/civ-51/civ-51-commentary.md
+  - id: 03
+    label: "Elizabeth I Armada portrait"
+    item_type: portrait
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_I_%28%27The_Armada_Portrait%27%29_-_Google_Art_Project.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The portrait places Shakespeare near imperial self-fashioning, maritime power, and national myth."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Court portraiture is propaganda-rich and should be read as constructed image."
+    related_paths:
+      orientation_card_path: data/cards/civ-51.md
+      transcript_path: lectures/civilization/civ-51/civ-51-transcript.md
+      commentary_path: lectures/civilization/civ-51/civ-51-commentary.md
+  - id: 04
+    label: "Map of early modern London"
+    item_type: map
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Maps_of_London_in_the_16th_century"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "London's density helps explain the theatrical public that could turn language into empire-scale identity."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Map categories contain varied dates and purposes; item-level dating matters."
+    related_paths:
+      orientation_card_path: data/cards/civ-51.md
+      transcript_path: lectures/civilization/civ-51/civ-51-transcript.md
+      commentary_path: lectures/civilization/civ-51/civ-51-commentary.md
+  - id: 05
+    label: "Othello title page"
+    item_type: text
+    role: comparison_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Othello"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "A single play object opens questions of race, empire, military service, intimacy, and English self-definition."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "A play title page does not settle interpretation of race or empire by itself."
+    related_paths:
+      orientation_card_path: data/cards/civ-51.md
+      transcript_path: lectures/civilization/civ-51/civ-51-transcript.md
+      commentary_path: lectures/civilization/civ-51/civ-51-commentary.md

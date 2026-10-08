@@ -1,0 +1,84 @@
+{
+  "patterns": [
+    {
+      "pattern_id": "civ-elite-overproduction",
+      "title": "Elite Overproduction",
+      "summary": "A social order becomes brittle when status, offices, and elite pathways cannot absorb the number of people trained or positioned to expect them.",
+      "strategy_use": "Use when downstream strategy analysis needs a public frame for status blockage, factional rivalry, or institutional crowding without treating any current case as a direct Bronze Age replay.",
+      "source_ids": ["civ-06"],
+      "tags": ["collapse", "elite-competition", "status", "institutional-stress"],
+      "limits": "This pattern is a public orientation frame, not a universal collapse law. Current cases need their own demographic, institutional, and evidentiary checks.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-heroic-memory",
+      "title": "Heroic Memory",
+      "summary": "A culture uses heroic narrative to preserve ideals, wounds, hierarchy, courage, grief, and moral imagination across generations.",
+      "strategy_use": "Use when a live political or strategic actor relies on inherited memory, martyrdom, honor, humiliation, or epic self-description to organize action.",
+      "source_ids": ["civ-07", "gb-02"],
+      "tags": ["memory", "literature", "honor", "violence", "identity"],
+      "limits": "Do not reduce every memory system to Homer. Use the pattern only as a prompt to ask how narrative inheritance shapes conduct.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-sacred-order",
+      "title": "Sacred Order As Architecture",
+      "summary": "A civilization can turn moral, theological, and imaginative order into a navigable public architecture that tells people where they stand.",
+      "strategy_use": "Use when analyzing legitimacy systems that organize guilt, authority, hierarchy, punishment, aspiration, or civilizational purpose.",
+      "source_ids": ["civ-29", "gb-09"],
+      "tags": ["legitimacy", "theology", "imagination", "hierarchy", "order"],
+      "limits": "This is not a claim that all legitimacy is religious. It marks cases where sacred or moral architecture visibly structures public order.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-imperial-church",
+      "title": "Imperial Church",
+      "summary": "Spiritual authority and imperial administration can fuse into a durable governing system, producing both cohesion and later rupture pressure.",
+      "strategy_use": "Use when state authority, religious legitimacy, obedience, and institutional scale reinforce one another or become contested together.",
+      "source_ids": ["civ-27", "civ-40"],
+      "tags": ["religion", "empire", "obedience", "institution", "rupture"],
+      "limits": "Keep the pattern tied to visible institutions and claims of authority. Do not use it as a generic church-state label.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-imperial-hubris",
+      "title": "Imperial Hubris",
+      "summary": "An empire can mistake its inherited reach for permanent capacity, overreading compliance and underreading local resistance or system cost.",
+      "strategy_use": "Use when downstream strategy analysis needs a public frame for overextension, failed coercion, reputation loss, or mismatch between imperial narrative and material capacity.",
+      "source_ids": ["geo-03", "geo-06"],
+      "tags": ["empire", "overextension", "coercion", "reputation", "capacity"],
+      "limits": "The pattern does not decide whether an actor is declining. It asks what evidence supports or weakens the overreach claim.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-chokepoint-pressure",
+      "title": "Chokepoint Pressure",
+      "summary": "Geography, infrastructure, energy, shipping, and deterrence can turn a local conflict into a system-wide pressure field.",
+      "strategy_use": "Use for Hormuz, maritime corridors, energy routes, nuclear infrastructure, proxy platforms, or other strategic bottlenecks where incentives and physical routes interact.",
+      "source_ids": ["geo-14", "gt-16"],
+      "tags": ["geography", "shipping", "energy", "deterrence", "infrastructure"],
+      "limits": "Do not infer closure, blockade, or escalation from geography alone. Use current primary evidence for live operational claims.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-eschatology-convergence",
+      "title": "Eschatology Convergence",
+      "summary": "Different actors can bring incompatible end-time, destiny, or sacred-history frameworks into the same strategic arena.",
+      "strategy_use": "Use when competing religious or ideological time horizons shape alliance behavior, risk tolerance, or claims about historical necessity.",
+      "source_ids": ["geo-19"],
+      "tags": ["eschatology", "ideology", "religion", "risk", "time-horizon"],
+      "limits": "This pattern is especially easy to overstate. Use it only when the relevant actors or movements make explicit sacred-history claims.",
+      "public_status": "seed"
+    },
+    {
+      "pattern_id": "civ-modern-ideology-machine",
+      "title": "Modern Ideology Machine",
+      "summary": "Modernity can convert philosophy, class, race, science, empire, technology, and administration into mass ideological systems.",
+      "strategy_use": "Use when an analysis needs a public frame for ideological machinery, administrative abstraction, mass mobilization, or modern claims to historical inevitability.",
+      "source_ids": ["civ-56", "civ-58"],
+      "tags": ["ideology", "modernity", "administration", "mobilization", "empire"],
+      "limits": "Do not treat modern ideology as one thing. The pattern points to machinery and scale, not a single doctrine or moral verdict.",
+      "public_status": "seed"
+    }
+  ]
+}

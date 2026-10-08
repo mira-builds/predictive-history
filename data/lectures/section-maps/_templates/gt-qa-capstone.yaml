@@ -1,0 +1,9 @@
+sections:
+  - title: Opening and Thanks
+    split: paragraph
+  - title: Substack Questions
+    split: paragraph
+  - title: YouTube Questions
+    split: paragraph
+  - title: Closing
+    split: paragraph

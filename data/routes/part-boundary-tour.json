@@ -1,0 +1,80 @@
+{
+  "tour_id": "part_boundary_tour",
+  "deprecated": true,
+  "replacement": "data/routes/volume-i-spine-tour.json",
+  "registry": "data/parts/volume-i-parts.deprecated.json",
+  "related_seed_id": "ten_route_spine_seed",
+  "rationale": "Ten stops at each Volume I Part spine_start — complements ten_route_spine_seed (civ-07, civ-17, civ-29, civ-51 overlap Parts II, III, VI, IX opens).",
+  "stops": [
+    {
+      "part_id": "part-01-dawn-of-civilization",
+      "part_number": 1,
+      "display_title": "Part I — The Dawn of Civilization",
+      "route_id": "civ-01",
+      "doorway_path": "docs/routes/volume-i-parts/part-01-dawn-of-civilization.md"
+    },
+    {
+      "part_id": "part-02-hellenic-world",
+      "part_number": 2,
+      "display_title": "Part II — The Hellenic World",
+      "route_id": "civ-07",
+      "doorway_path": "docs/routes/volume-i-parts/part-02-hellenic-world.md"
+    },
+    {
+      "part_id": "part-03-roman-imperium",
+      "part_number": 3,
+      "display_title": "Part III — The Roman Imperium",
+      "route_id": "civ-14",
+      "doorway_path": "docs/routes/volume-i-parts/part-03-roman-imperium.md"
+    },
+    {
+      "part_id": "part-04-ancient-foundations",
+      "part_number": 4,
+      "display_title": "Part IV — The Ancient Foundations",
+      "route_id": "civ-18",
+      "doorway_path": "docs/routes/volume-i-parts/part-04-ancient-foundations.md"
+    },
+    {
+      "part_id": "part-05-christianity-and-islam",
+      "part_number": 5,
+      "display_title": "Part V — Christianity and Islam",
+      "route_id": "civ-24",
+      "doorway_path": "docs/routes/volume-i-parts/part-05-christianity-and-islam.md"
+    },
+    {
+      "part_id": "part-06-medieval-imagination",
+      "part_number": 6,
+      "display_title": "Part VI — The Medieval Imagination",
+      "route_id": "civ-29",
+      "doorway_path": "docs/routes/volume-i-parts/part-06-medieval-imagination.md"
+    },
+    {
+      "part_id": "part-07-world-after-rome",
+      "part_number": 7,
+      "display_title": "Part VII — The World After Rome",
+      "route_id": "civ-35",
+      "doorway_path": "docs/routes/volume-i-parts/part-07-world-after-rome.md"
+    },
+    {
+      "part_id": "part-08-birth-of-modernity",
+      "part_number": 8,
+      "display_title": "Part VIII — The Birth of Modernity",
+      "route_id": "civ-42",
+      "doorway_path": "docs/routes/volume-i-parts/part-08-birth-of-modernity.md"
+    },
+    {
+      "part_id": "part-09-age-of-conscience",
+      "part_number": 9,
+      "display_title": "Part IX — The Age of Conscience",
+      "route_id": "civ-51",
+      "doorway_path": "docs/routes/volume-i-parts/part-09-age-of-conscience.md"
+    },
+    {
+      "part_id": "part-10-rise-of-the-nation-state",
+      "part_number": 10,
+      "display_title": "Part X — The Rise of the Nation-State",
+      "route_id": "civ-54",
+      "doorway_path": "docs/routes/volume-i-parts/part-10-rise-of-the-nation-state.md"
+    }
+  ]
+}

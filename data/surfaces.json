@@ -1,0 +1,66 @@
+{
+  "repo_identity": "predictive-history",
+  "primary_artifact": "namespace_catalog",
+  "source_snapshot": {
+    "repo": "public-source-capture",
+    "commit": ""
+  },
+  "catalog_hub": {
+    "markdown": "docs/predictive-history-index.md",
+    "json": "docs/predictive-history-index.json"
+  },
+  "namespace_slices": {
+    "lectures": {
+      "markdown": "lectures/predictive-history-lecture-index.md",
+      "json": "lectures/predictive-history-lecture-index.json"
+    },
+    "essays": {
+      "markdown": "essays/predictive-history-essay-index.md",
+      "json": "essays/predictive-history-essay-index.json"
+    },
+    "interviews": {
+      "markdown": "interviews/predictive-history-interview-index.md",
+      "json": "interviews/predictive-history-interview-index.json"
+    }
+  },
+  "bridge_support_nodes": [
+    "sh-11",
+    "sh-16",
+    "sh-17",
+    "sh-18"
+  ],
+  "deprecated": {
+    "repo_identity": "ph-civ",
+    "two_volume": {
+      "primary_artifact": "two_volume_ph_civ",
+      "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
+      "reader_map": "docs/archive/two-volumes-one-reader-map.md",
+      "volumes": {
+        "volume_i": {
+          "surface": "ph-civ",
+          "title": "Civilization",
+          "role": "law_discovery",
+          "description": "Volume I discovers the laws of history through the Civilization-facing public orientation layer."
+        },
+        "volume_ii": {
+          "surface": "ph-apo",
+          "title": "Apocalypse",
+          "role": "law_application",
+          "description": "Volume II applies the laws of history through the Apocalypse / World War-facing public orientation layer."
+        }
+      },
+      "surfaces": {
+        "ph-civ": {
+          "title": "Predictive History: Civilization",
+          "status": "deprecated",
+          "description": "Deprecated Volume I reader surface; use namespace catalog hub and lecture slice."
+        },
+        "ph-apo": {
+          "title": "Predictive History: Apocalypse",
+          "status": "deprecated",
+          "description": "Deprecated Volume II reader surface; use namespace catalog hub and lecture slice."
+        }
+      }
+    }
+  }
+}

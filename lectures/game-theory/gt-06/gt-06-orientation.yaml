@@ -1,0 +1,16 @@
+source_id: gt-06
+placement_weight: strong
+part: civilization
+part_role: civilization
+where_this_sits: |
+  This chapter belongs in Volume I because it reconstructs the British imperial and monetary game as foundational system architecture. It is about how a world-order machine gets built, not yet about a live apocalypse-facing showdown.
+reading_posture: |
+  Read it as a chapter on imperial finance, reserve order, and institutional design. The lecture is strongest when treated as a structural map of the system rather than a forecast packet.
+historical_pressure_points:
+  - imperial finance and monetary order as system architecture
+  - Britain as a model for how global rules are structured and enforced
+  - capital, trade, and institutional design as civilizational levers
+limits_of_the_frame: |
+  This entry is provisional and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Social theory claims, historical generalizations, demographic arguments, and political implications still require later comparative review before quotation-grade or publication-grade use.
+return_path: |
+  Return through lectures/game-theory/gt-06/, the commentary canvas, and the lecture transcript. The full transcript is preserved in-repo under lectures/.

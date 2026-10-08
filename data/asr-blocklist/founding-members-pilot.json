@@ -1,0 +1,852 @@
+{
+  "version": "2026-06-10",
+  "scope": "predictive-history founding-members livestreams (statecraft archive)",
+  "pilot_slugs": [
+    "founding-members-01"
+  ],
+  "source_ssot": "scripts/work_jiang/asr_transcript_replacements.py:FOUNDING_MEMBERS_REPLACEMENTS",
+  "regenerate": "python scripts/generate_founding_members_asr_blocklist.py",
+  "apply": "python scripts/normalize_statecraft_source_asr.py <source.md> --write",
+  "validate": "python scripts/validate_statecraft_asr_blocklist.py",
+  "allowed_residuals": [
+    {
+      "literal": "Mr. label",
+      "note": "livestream chat username; not a proper noun"
+    },
+    {
+      "literal": "Wakar",
+      "note": "chat username"
+    },
+    {
+      "literal": "Ankodu",
+      "note": "chat username"
+    },
+    {
+      "literal": "Mikl G",
+      "note": "chat username"
+    },
+    {
+      "literal": "Sarin Coron",
+      "note": "chat username"
+    },
+    {
+      "literal": "Go to go",
+      "note": "chat username"
+    },
+    {
+      "literal": "Nome says",
+      "note": "chat fragment"
+    },
+    {
+      "literal": "Marin Nathal",
+      "note": "Twitter handle spelling uncertain; verify against @"
+    }
+  ],
+  "entries": [
+    {
+      "id": "then-how-can-congress-properly-analyze-or-understand-thi",
+      "literal": "then how can Congress properly analyze or understand this level cooperation right so it seems like section 224 it's it's meant to offiscate or hide",
+      "replacement": "then how can Congress properly analyze or understand this level cooperation right so it seems like section 224 it's it's meant to obfuscate or hide"
+    },
+    {
+      "id": "larry-johnson-and-tb-escobar-who-i-these-are-two-people-",
+      "literal": "Larry Johnson and TB Escobar who I these are two people I respect by the way they went on judging freedom uh Josh Napino",
+      "replacement": "Larry Johnson and Pepe Escobar who I these are two people I respect by the way they went on Judging Freedom uh Josh Napolitano"
+    },
+    {
+      "id": "i-think-she-has-friends-in-mossad-i-think-she-has-friend",
+      "literal": "I think she has friends in Mossad. I think she has friends in the KGB, the FF FSB",
+      "replacement": "I think she has friends in Mossad. I think she has friends in the KGB, the FSB"
+    },
+    {
+      "id": "i-think-di-is-a-direct-response-to-occupy-wall-street-oc",
+      "literal": "I think DI is a direct response to occupy wall street occupied wall street",
+      "replacement": "I think DEI is a direct response to Occupy Wall Street. Occupy Wall Street"
+    },
+    {
+      "id": "you-become-basically-a-u-uh-viscerite-right-you-become-a",
+      "literal": "you become basically a u uh viscerite right you become a military dictator",
+      "replacement": "you become basically a uh viceroy right you become a military dictator"
+    },
+    {
+      "id": "the-spirit-of-christianity-does-not-exist-beneath-a-yuma",
+      "literal": "The spirit of Christianity does not exist beneath a yuma kissing a wall",
+      "replacement": "The spirit of Christianity does not exist beneath an Ivanka kissing a wall"
+    },
+    {
+      "id": "they-re-either-waiting-for-a-full-flag-just-just-by-a-gr",
+      "literal": "they're either waiting for a full flag just just by a ground invasion",
+      "replacement": "they're either waiting for a false flag just just by a ground invasion"
+    },
+    {
+      "id": "kenneth-owens-and-tucker-carlson-are-two-of-the-most-inf",
+      "literal": "Kenneth Owens and Tucker Carlson are two of the most influential",
+      "replacement": "Candace Owens and Tucker Carlson are two of the most influential"
+    },
+    {
+      "id": "i-ve-done-quite-a-few-live-streams-with-sneo-and-like-hi",
+      "literal": "I've done quite a few live streams with Sneo and like his eyes",
+      "replacement": "I've done quite a few live streams with Sneako and like his eyes"
+    },
+    {
+      "id": "candace-owens-had-this-public-um-split-um-from-banish-ap",
+      "literal": "Candace Owens had this public um split um from banish apparel",
+      "replacement": "Candace Owens had this public um split um from Daily Wire"
+    },
+    {
+      "id": "they-will-fight-over-chipping-lanes-in-the-uh-south-chin",
+      "literal": "they will fight over chipping lanes in the uh South China Sea",
+      "replacement": "they will fight over shipping lanes in the uh South China Sea"
+    },
+    {
+      "id": "so-i-have-a-lot-of-issues-with-dei-dress-asked-professor",
+      "literal": "so I have a lot of issues with dei dress asked professor J",
+      "replacement": "so I have a lot of issues with DEI. Daryl asked professor J"
+    },
+    {
+      "id": "kenneth-owens-and-tucker-carlson-are-two-of-the-smartest",
+      "literal": "Kenneth Owens and Tucker Carlson are two of the smartest",
+      "replacement": "Candace Owens and Tucker Carlson are two of the smartest"
+    },
+    {
+      "id": "streamers-like-hassan-nbsp-nbsp-sneo-my-hats-off",
+      "literal": "streamers like Hassan [&nbsp;__&nbsp;] Sneo my hats off",
+      "replacement": "streamers like Hasan ... Sneako my hats off"
+    },
+    {
+      "id": "iran-s-capacity-to-de-to-deliver-these-nuclear-weapons",
+      "literal": "Iran's capacity to de to deliver these nuclear weapons",
+      "replacement": "Iran's capacity to deliver these nuclear weapons"
+    },
+    {
+      "id": "organize-a-meetup-in-new-york-for-um-vcs-theo-fellows",
+      "literal": "organize a meetup in New York for um VCs Theo Fellows",
+      "replacement": "organize a meetup in New York for um VC Thiel Fellows"
+    },
+    {
+      "id": "i-think-she-s-jesuit-affiliated-uh-is-she-opus-day",
+      "literal": "I think she's Jesuit affiliated. Uh is she opus day?",
+      "replacement": "I think she's Jesuit affiliated. Uh is she Opus Dei?"
+    },
+    {
+      "id": "what-is-the-significance-of-candace-vince-from-from",
+      "literal": "What is the significance of Candace Vince from from",
+      "replacement": "What is the significance of Candace Owens from"
+    },
+    {
+      "id": "blown-up-right-by-this-um-lone-wolf-uh-uniomber-guy",
+      "literal": "blown up right by this um lone wolf uh uniomber guy",
+      "replacement": "blown up right by this um lone wolf uh Unabomber guy"
+    },
+    {
+      "id": "they-spied-on-turk-carlson-and-they-knew-about-this",
+      "literal": "they spied on Turk Carlson and they knew about this",
+      "replacement": "they spied on Tucker Carlson and they knew about this"
+    },
+    {
+      "id": "occupi-occupied-wall-street-had-had-the-potential",
+      "literal": "occupi occupied wall street had had the potential",
+      "replacement": "Occupy Wall Street had had the potential"
+    },
+    {
+      "id": "what-senomen-really-wants-is-for-a-public-bailout",
+      "literal": "what Senomen really wants is for a public bailout",
+      "replacement": "what Sam Altman really wants is for a public bailout"
+    },
+    {
+      "id": "cash-mattel-is-investigating-kind-of-orange-trip",
+      "literal": "Cash Mattel is investigating kind of orange trip",
+      "replacement": "Cash Patel is investigating Candace Owens' trip"
+    },
+    {
+      "id": "go-to-go-says-what-do-you-think-about-space-acts",
+      "literal": "Go to go says what do you think about space acts",
+      "replacement": "Go to go says what do you think about SpaceX"
+    },
+    {
+      "id": "i-think-the-autoarchs-will-win-the-ai-right-race",
+      "literal": "I think the autoarchs will win the AI right race",
+      "replacement": "I think the autocrats will win the AI race"
+    },
+    {
+      "id": "however-malay-is-doing-whatever-peter-theo-wants",
+      "literal": "however Malay is doing whatever Peter Theo wants",
+      "replacement": "however Milei is doing whatever Peter Thiel wants"
+    },
+    {
+      "id": "it-s-very-much-a-color-revol-revolution-playbook",
+      "literal": "it's very much a color revol revolution playbook",
+      "replacement": "it's very much a color revolution playbook"
+    },
+    {
+      "id": "larry-johnson-and-pebb-escobar-and-george-npino",
+      "literal": "Larry Johnson and Pebb Escobar and George Npino",
+      "replacement": "Larry Johnson and Pepe Escobar and Josh Napolitano"
+    },
+    {
+      "id": "he-s-he-s-he-s-shooting-fallaces-up-into-space",
+      "literal": "He's he's he's shooting fallaces up into space",
+      "replacement": "He's he's he's shooting Falcon rockets up into space"
+    },
+    {
+      "id": "section-two-does-not-authorize-a-single-dollar",
+      "literal": "section two does not authorize a single dollar",
+      "replacement": "Section 224 does not authorize a single dollar"
+    },
+    {
+      "id": "the-major-difference-between-kenneth-owens-and",
+      "literal": "the major difference between Kenneth Owens and",
+      "replacement": "the major difference between Candace Owens and"
+    },
+    {
+      "id": "are-the-alalbanians-really-going-door-to-door",
+      "literal": "Are the AlAlbanians really going door to door",
+      "replacement": "Are the Albanians really going door to door"
+    },
+    {
+      "id": "bernie-sanders-and-soman-on-the-same-headline",
+      "literal": "Bernie Sanders and Soman on the same headline",
+      "replacement": "Bernie Sanders and Sam Altman on the same headline"
+    },
+    {
+      "id": "bernie-sanders-and-some-are-working-together",
+      "literal": "Bernie Sanders, and some are working together",
+      "replacement": "Bernie Sanders, and Sam Altman are working together"
+    },
+    {
+      "id": "i-think-that-kenneth-owens-and-tucker-carlson",
+      "literal": "I think that Kenneth Owens and Tucker Carlson",
+      "replacement": "I think that Candace Owens and Tucker Carlson"
+    },
+    {
+      "id": "i-think-that-kenneth-and-tucker-are-will-only",
+      "literal": "I think that Kenneth and Tucker are will only",
+      "replacement": "I think that Candace and Tucker will only"
+    },
+    {
+      "id": "candace-owens-i-think-converted-to-catholism",
+      "literal": "Candace Owens I think converted to Catholism",
+      "replacement": "Candace Owens I think converted to Catholicism"
+    },
+    {
+      "id": "meet-the-future-uh-peter-theals-of-the-world",
+      "literal": "meet the future uh Peter Theals of the world",
+      "replacement": "meet the future uh Peter Thiels of the world"
+    },
+    {
+      "id": "do-you-think-kenneth-owens-has-a-deep-plant",
+      "literal": "Do you think Kenneth Owens has a deep plant",
+      "replacement": "Do you think Candace Owens has a deep plant"
+    },
+    {
+      "id": "i-think-kenneth-and-tucker-are-really-smart",
+      "literal": "I think Kenneth and Tucker are really smart",
+      "replacement": "I think Candace and Tucker are really smart"
+    },
+    {
+      "id": "what-do-you-think-about-pdb-and-many-hassan",
+      "literal": "what do you think about PDB and many Hassan",
+      "replacement": "what do you think about PBD and Hasan"
+    },
+    {
+      "id": "george-foreman-is-open-state-and-she-s-not",
+      "literal": "George Foreman is open state and she's not",
+      "replacement": "George Farmer is Opus Dei and she's not"
+    },
+    {
+      "id": "iran-to-do-a-force-strike-against-tel-aviv",
+      "literal": "Iran to do a force strike against Tel Aviv",
+      "replacement": "Iran to do a first strike against Tel Aviv"
+    },
+    {
+      "id": "is-it-possible-kenneth-is-being-influenced",
+      "literal": "Is it possible Kenneth is being influenced",
+      "replacement": "Is it possible Candace is being influenced"
+    },
+    {
+      "id": "she-s-gone-after-eric-kirk-for-a-long-time",
+      "literal": "she's gone after Eric Kirk for a long time",
+      "replacement": "she's gone after Charlie Kirk for a long time"
+    },
+    {
+      "id": "bernie-sanders-and-seth-alman-are-talking",
+      "literal": "Bernie Sanders and Seth Alman are talking",
+      "replacement": "Bernie Sanders and Sam Altman are talking"
+    },
+    {
+      "id": "number-four-session-224-will-give-israel",
+      "literal": "Number four, session 224 will give Israel",
+      "replacement": "Number four, Section 224 will give Israel"
+    },
+    {
+      "id": "tucker-and-kenneth-do-really-really-well",
+      "literal": "Tucker and Kenneth do really, really well",
+      "replacement": "Tucker and Candace do really, really well"
+    },
+    {
+      "id": "my-interview-with-manny-hassan-went-viral",
+      "literal": "my interview with Manny Hassan went viral",
+      "replacement": "my interview with Hasan went viral"
+    },
+    {
+      "id": "america-using-nucle-weapons-against-iran",
+      "literal": "America using nucle weapons against Iran",
+      "replacement": "America using nuclear weapons against Iran"
+    },
+    {
+      "id": "i-put-all-my-money-on-kenneth-and-tucker",
+      "literal": "I put all my money on Kenneth and Tucker",
+      "replacement": "I put all my money on Candace and Tucker"
+    },
+    {
+      "id": "kenneth-owens-is-now-under-the-influence",
+      "literal": "Kenneth Owens is now under the influence",
+      "replacement": "Candace Owens is now under the influence"
+    },
+    {
+      "id": "friends-with-with-people-like-peter-theo",
+      "literal": "friends with with people like Peter Theo",
+      "replacement": "friends with with people like Peter Thiel"
+    },
+    {
+      "id": "medin-will-run-him-over-because-medin-h",
+      "literal": "Medin will run him over because Medin H",
+      "replacement": "Hasan will run him over because Hasan"
+    },
+    {
+      "id": "sneo-who-was-also-very-close-with-nick",
+      "literal": "Sneo, who was also very close with Nick",
+      "replacement": "Sneako, who was also very close with Nick"
+    },
+    {
+      "id": "she-continues-to-make-fun-of-erica-kirk",
+      "literal": "she continues to make fun of Erica Kirk",
+      "replacement": "she continues to make fun of Charlie Kirk"
+    },
+    {
+      "id": "why-nick-fantes-is-probably-compromised",
+      "literal": "why Nick Fantes is probably compromised",
+      "replacement": "why Nick Fuentes is probably compromised"
+    },
+    {
+      "id": "i-think-kenneth-owens-also-appreciates",
+      "literal": "I think Kenneth Owens also appreciates",
+      "replacement": "I think Candace Owens also appreciates"
+    },
+    {
+      "id": "so-what-son-omen-basically-wants-to-do",
+      "literal": "So what son Omen basically wants to do",
+      "replacement": "So what Sam Altman basically wants to do"
+    },
+    {
+      "id": "between-the-us-and-american-militaries",
+      "literal": "between the US and American militaries",
+      "replacement": "between the US and Israeli militaries"
+    },
+    {
+      "id": "people-like-alman-will-see-as-a-threat",
+      "literal": "people like Alman will see as a threat",
+      "replacement": "people like Altman will see as a threat"
+    },
+    {
+      "id": "trying-to-create-an-air-civilian-state",
+      "literal": "trying to create an air civilian state",
+      "replacement": "trying to create a libertarian state"
+    },
+    {
+      "id": "number-five-jin-224-will-give-israel",
+      "literal": "Number five, Jin 224 will give Israel",
+      "replacement": "Number five, Section 224 will give Israel"
+    },
+    {
+      "id": "this-is-mariel-nal-who-i-don-t-follow",
+      "literal": "This is Mariel Nal who I don't follow",
+      "replacement": "This is Marin Nathal who I don't follow"
+    },
+    {
+      "id": "in-my-fine-i-thought-that-um-albania",
+      "literal": "in my fine. I thought that um Albania",
+      "replacement": "in my mind. I thought that um Albania"
+    },
+    {
+      "id": "tenson-would-eventually-go-of-course",
+      "literal": "Tenson would eventually go of course",
+      "replacement": "Tucker would eventually go of course"
+    },
+    {
+      "id": "turk-coulson-when-it-was-at-fox-news",
+      "literal": "Turk Coulson when it was at Fox News",
+      "replacement": "Tucker Carlson when it was at Fox News"
+    },
+    {
+      "id": "um-it-what-i-think-di-really-is-it-s",
+      "literal": "Um it what I think DI really is it's",
+      "replacement": "Um it what I think DEI really is it's"
+    },
+    {
+      "id": "stateowned-a-yes-ai-and-data-centers",
+      "literal": "stateowned a yes AI and data centers",
+      "replacement": "state-owned AI and data centers"
+    },
+    {
+      "id": "kenneth-owens-is-by-far-the-bravest",
+      "literal": "Kenneth Owens is by far the bravest",
+      "replacement": "Candace Owens is by far the bravest"
+    },
+    {
+      "id": "nos-s-a-leading-conservation-group",
+      "literal": "NOS's, a leading conservation group",
+      "replacement": "NGOs, a leading conservation group"
+    },
+    {
+      "id": "english-sp-speakaking-alalbanians",
+      "literal": "English-sp speakaking AlAlbanians",
+      "replacement": "English-speaking Albanians"
+    },
+    {
+      "id": "peter-feel-the-going-to-argentina",
+      "literal": "Peter feel the going to Argentina",
+      "replacement": "Peter Thiel going to Argentina"
+    },
+    {
+      "id": "and-it-s-the-radians-who-did-this",
+      "literal": "and it's the Radians who did this",
+      "replacement": "and it's the Russians who did this"
+    },
+    {
+      "id": "she-went-after-the-mcron-you-know",
+      "literal": "she went after the Mcron you know",
+      "replacement": "she went after Macron you know"
+    },
+    {
+      "id": "everyone-has-uh-divide-loyalties",
+      "literal": "Everyone has uh divide loyalties",
+      "replacement": "Everyone has uh divided loyalties"
+    },
+    {
+      "id": "google-january-6-and-nick-frantz",
+      "literal": "Google January 6 and Nick Frantz",
+      "replacement": "Google January 6 and Nick Fuentes"
+    },
+    {
+      "id": "they-re-inter-meteries-basically",
+      "literal": "they're inter meteries basically",
+      "replacement": "they're intermediaries basically"
+    },
+    {
+      "id": "english-sp-speakaking-albanians",
+      "literal": "English-sp speakaking Albanians",
+      "replacement": "English-speaking Albanians"
+    },
+    {
+      "id": "pet-peter-theo-fellows-are-fans",
+      "literal": "Pet Peter Theo fellows are fans",
+      "replacement": "Peter Thiel fellows are fans"
+    },
+    {
+      "id": "so-we-re-going-to-go-to-ap-pack",
+      "literal": "So we're going to go to AP pack",
+      "replacement": "So we're going to go to AIPAC"
+    },
+    {
+      "id": "peter-theel-and-and-his-people",
+      "literal": "Peter Theel and and his people",
+      "replacement": "Peter Thiel and and his people"
+    },
+    {
+      "id": "tucker-and-kenneth-were-stocks",
+      "literal": "Tucker and Kenneth were stocks",
+      "replacement": "Tucker and Candace were stocks"
+    },
+    {
+      "id": "pebb-escobar-and-george-npino",
+      "literal": "Pebb Escobar and George Npino",
+      "replacement": "Pepe Escobar and Josh Napolitano"
+    },
+    {
+      "id": "section-2-to4-um-will-improve",
+      "literal": "section 2 to4 um will improve",
+      "replacement": "Section 224 um will improve"
+    },
+    {
+      "id": "why-would-kenneth-owens-go-to",
+      "literal": "why would Kenneth Owens go to",
+      "replacement": "why would Candace Owens go to"
+    },
+    {
+      "id": "could-kandis-become-an-agent",
+      "literal": "Could Kandis become an agent",
+      "replacement": "Could Candace become an agent"
+    },
+    {
+      "id": "your-article-on-peter-theo-s",
+      "literal": "Your article on Peter Theo's",
+      "replacement": "Your article on Peter Thiel's"
+    },
+    {
+      "id": "third-room-esque-esquetology",
+      "literal": "third room esque esquetology",
+      "replacement": "Third Rome-esque eschatology"
+    },
+    {
+      "id": "glenn-glenn-beck-s-argument",
+      "literal": "Glenn Glenn Beck's argument",
+      "replacement": "Glenn Beck's argument"
+    },
+    {
+      "id": "here-in-this-garnet-article",
+      "literal": "here in this Garnet article",
+      "replacement": "here in this Guardian article"
+    },
+    {
+      "id": "javier-malay-in-argentina",
+      "literal": "Javier Malay in Argentina",
+      "replacement": "Javier Milei in Argentina"
+    },
+    {
+      "id": "kon-kenneth-owens-goes-to",
+      "literal": "Kon Kenneth Owens goes to",
+      "replacement": "Candace Owens goes to"
+    },
+    {
+      "id": "peter-theals-of-the-world",
+      "literal": "Peter Theals of the world",
+      "replacement": "Peter Thiels of the world"
+    },
+    {
+      "id": "nick-fantes-is-declining",
+      "literal": "Nick Fantes is declining",
+      "replacement": "Nick Fuentes is declining"
+    },
+    {
+      "id": "obanians-would-get-upset",
+      "literal": "obanians would get upset",
+      "replacement": "Albanians would get upset"
+    },
+    {
+      "id": "kenneth-owens-in-russia",
+      "literal": "Kenneth Owens in Russia",
+      "replacement": "Candace Owens in Russia"
+    },
+    {
+      "id": "kenneth-went-to-russia",
+      "literal": "Kenneth went to Russia",
+      "replacement": "Candace went to Russia"
+    },
+    {
+      "id": "why-the-obanians-would",
+      "literal": "why the obanians would",
+      "replacement": "why the Albanians would"
+    },
+    {
+      "id": "peter-theo-s-republic",
+      "literal": "Peter Theo's Republic",
+      "replacement": "Peter Thiel's Republic"
+    },
+    {
+      "id": "do-you-think-kenneth",
+      "literal": "Do you think Kenneth",
+      "replacement": "Do you think Candace"
+    },
+    {
+      "id": "i-think-that-kenneth",
+      "literal": "I think that Kenneth",
+      "replacement": "I think that Candace"
+    },
+    {
+      "id": "jd-vance-is-opus-day",
+      "literal": "JD Vance is Opus Day",
+      "replacement": "JD Vance is Opus Dei"
+    },
+    {
+      "id": "ken-kenneth-owens-in",
+      "literal": "Ken Kenneth Owens in",
+      "replacement": "Candace Owens in"
+    },
+    {
+      "id": "pbd-and-many-hassan",
+      "literal": "PBD and many Hassan",
+      "replacement": "PBD and Hasan"
+    },
+    {
+      "id": "this-garnet-article",
+      "literal": "this Garnet article",
+      "replacement": "this Guardian article"
+    },
+    {
+      "id": "malay-in-argentina",
+      "literal": "Malay in Argentina",
+      "replacement": "Milei in Argentina"
+    },
+    {
+      "id": "tim-dylan-is-great",
+      "literal": "Tim Dylan is great",
+      "replacement": "Tim Dillon is great"
+    },
+    {
+      "id": "decision-m-okay",
+      "literal": "decision-m. Okay.",
+      "replacement": "decision-making. Okay."
+    },
+    {
+      "id": "kind-of-owen-says",
+      "literal": "kind of Owen says",
+      "replacement": "Candace Owens says"
+    },
+    {
+      "id": "i-love-tim-dylan",
+      "literal": "I love Tim Dylan",
+      "replacement": "I love Tim Dillon"
+    },
+    {
+      "id": "score-and-bones",
+      "literal": "Score and Bones",
+      "replacement": "Skull and Bones"
+    },
+    {
+      "id": "judging-freedom",
+      "literal": "judging freedom",
+      "replacement": "Judging Freedom"
+    },
+    {
+      "id": "george-foreman",
+      "literal": "George Foreman",
+      "replacement": "George Farmer"
+    },
+    {
+      "id": "kenneth-owens",
+      "literal": "Kenneth Owens",
+      "replacement": "Candace Owens"
+    },
+    {
+      "id": "george-npino",
+      "literal": "George Npino",
+      "replacement": "Josh Napolitano"
+    },
+    {
+      "id": "jerk-kushner",
+      "literal": "Jerk Kushner",
+      "replacement": "Jared Kushner"
+    },
+    {
+      "id": "manny-hassan",
+      "literal": "Manny Hassan",
+      "replacement": "Hasan"
+    },
+    {
+      "id": "pebb-escobar",
+      "literal": "Pebb Escobar",
+      "replacement": "Pepe Escobar"
+    },
+    {
+      "id": "turk-carlson",
+      "literal": "Turk Carlson",
+      "replacement": "Tucker Carlson"
+    },
+    {
+      "id": "turk-coulson",
+      "literal": "Turk Coulson",
+      "replacement": "Tucker Carlson"
+    },
+    {
+      "id": "alalbanians",
+      "literal": "AlAlbanians",
+      "replacement": "Albanians"
+    },
+    {
+      "id": "cash-mattel",
+      "literal": "Cash Mattel",
+      "replacement": "Cash Patel"
+    },
+    {
+      "id": "josh-napino",
+      "literal": "Josh Napino",
+      "replacement": "Josh Napolitano"
+    },
+    {
+      "id": "larry-frink",
+      "literal": "Larry Frink",
+      "replacement": "Larry Fink"
+    },
+    {
+      "id": "michael-bur",
+      "literal": "Michael Bur",
+      "replacement": "Michael Burry"
+    },
+    {
+      "id": "nick-fantes",
+      "literal": "Nick Fantes",
+      "replacement": "Nick Fuentes"
+    },
+    {
+      "id": "nick-frantz",
+      "literal": "Nick Frantz",
+      "replacement": "Nick Fuentes"
+    },
+    {
+      "id": "peter-field",
+      "literal": "Peter Field",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "peter-steel",
+      "literal": "Peter Steel",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "peter-theal",
+      "literal": "Peter Theal",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "peter-theel",
+      "literal": "Peter Theel",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "peter-theos",
+      "literal": "Peter Theos",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "erica-kirk",
+      "literal": "Erica Kirk",
+      "replacement": "Charlie Kirk"
+    },
+    {
+      "id": "mariel-nal",
+      "literal": "Mariel Nal",
+      "replacement": "Marin Nathal"
+    },
+    {
+      "id": "peter-theo",
+      "literal": "Peter Theo",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "peter-feel",
+      "literal": "Peter feel",
+      "replacement": "Peter Thiel"
+    },
+    {
+      "id": "tb-escobar",
+      "literal": "TB Escobar",
+      "replacement": "Pepe Escobar"
+    },
+    {
+      "id": "open-state",
+      "literal": "open state",
+      "replacement": "Opus Dei"
+    },
+    {
+      "id": "adam-cora",
+      "literal": "Adam Cora",
+      "replacement": "Adam Corolla"
+    },
+    {
+      "id": "chachi-bt",
+      "literal": "Chachi BT",
+      "replacement": "ChatGPT"
+    },
+    {
+      "id": "ellen-mus",
+      "literal": "Ellen Mus",
+      "replacement": "Elon Musk"
+    },
+    {
+      "id": "eric-kirk",
+      "literal": "Eric Kirk",
+      "replacement": "Charlie Kirk"
+    },
+    {
+      "id": "tim-dylan",
+      "literal": "Tim Dylan",
+      "replacement": "Tim Dillon"
+    },
+    {
+      "id": "anthropic",
+      "literal": "anthropic",
+      "replacement": "Anthropic"
+    },
+    {
+      "id": "autoarchs",
+      "literal": "autoarchs",
+      "replacement": "autocrats"
+    },
+    {
+      "id": "offiscate",
+      "literal": "offiscate",
+      "replacement": "obfuscate"
+    },
+    {
+      "id": "viscerite",
+      "literal": "viscerite",
+      "replacement": "viceroy"
+    },
+    {
+      "id": "ia-trump",
+      "literal": "IA Trump",
+      "replacement": "Ivanka Trump"
+    },
+    {
+      "id": "opus-day",
+      "literal": "Opus Day",
+      "replacement": "Opus Dei"
+    },
+    {
+      "id": "sen-omen",
+      "literal": "Sen Omen",
+      "replacement": "Sam Altman"
+    },
+    {
+      "id": "opus-day-151",
+      "literal": "opus day",
+      "replacement": "Opus Dei"
+    },
+    {
+      "id": "uniomber",
+      "literal": "uniomber",
+      "replacement": "Unabomber"
+    },
+    {
+      "id": "a-dugan",
+      "literal": "A dugan",
+      "replacement": "Dugin"
+    },
+    {
+      "id": "medin-h",
+      "literal": "Medin H",
+      "replacement": "Hasan"
+    },
+    {
+      "id": "open-ai",
+      "literal": "open AI",
+      "replacement": "OpenAI"
+    },
+    {
+      "id": "dugan",
+      "literal": "Dugan",
+      "replacement": "Dugin"
+    },
+    {
+      "id": "mosad",
+      "literal": "MOSAD",
+      "replacement": "Mossad"
+    },
+    {
+      "id": "mcron",
+      "literal": "Mcron",
+      "replacement": "Macron"
+    },
+    {
+      "id": "apac",
+      "literal": "Apac",
+      "replacement": "AIPAC"
+    },
+    {
+      "id": "sneo",
+      "literal": "Sneo",
+      "replacement": "Sneako"
+    }
+  ]
+}

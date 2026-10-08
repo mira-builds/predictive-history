@@ -1,0 +1,48 @@
+{
+  "goal_system": "ph_civ_public_growth",
+  "principle": "External audience outcomes are strategic ambitions, not directly executable agent goals.",
+  "agent_goal_policy": {
+    "must_translate_outcome_to_machinery": true,
+    "forbidden_completion_claim": "Do not treat audience behavior, platform reach, or viral distribution as directly completed by an agent.",
+    "required_completion_basis": [
+      "public repo surface quality",
+      "shareable narrative assets",
+      "chapter publishing cadence",
+      "measurement plan",
+      "human-approved publication or distribution steps"
+    ]
+  },
+  "campaigns": [
+    {
+      "campaign_id": "one_million_views_2026",
+      "title": "One Million Views By End Of 2026",
+      "status": "strategic_ambition",
+      "target_metric": "total_public_views",
+      "target_count": 1000000,
+      "target_date": "2026-12-31",
+      "unresolved_tension": "ph-civ must seek public reach without letting view-count ambition outrun source-disciplined educational trust.",
+      "agent_executable_translation": "Build the public-growth system that makes the ambition plausible: polished repo narrative, chapter index, shareable assets, contribution paths, analytics definitions, distribution calendar, and weekly review loop.",
+      "first_live_wedge": {
+        "wedge_id": "launch_volume_i_spine",
+        "title": "Launch the Volume I literary spine as the first shareable route",
+        "launch_readiness": "defined_not_launch_ready",
+        "readiness_question": "What must be true before this route deserves audience growth rather than merely being technically shareable?",
+        "scope": [
+          "Homer-to-Tolstoy route",
+          "Volume I landing narrative",
+          "view-count definition for the first public route"
+        ],
+        "done_when": "A human-approved launch packet can point readers to the Homer-to-Tolstoy route, explain why it is the Volume I spine, and state how views will be counted without claiming views have already been earned."
+      },
+      "success_requires_external_audience_behavior": true,
+      "human_approval_required_for_publication": true,
+      "measurable_agent_outputs": [
+        "README and public contract explain the namespace catalog hub within one screen",
+        "chapter and volume routes are easy to share",
+        "analytics plan defines what counts as a view across GitHub, web, video, social, and document surfaces",
+        "distribution calendar converts the target into weekly and monthly milestones",
+        "launch copy and visual assets are staged for human approval"
+      ]
+    }
+  ]
+}

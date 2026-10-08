@@ -1,0 +1,11 @@
+sections:
+  - title: Opening
+    split: paragraph
+  - title: Theory Survey
+    split: paragraph
+  - title: Core Model
+    split: paragraph
+  - title: Examples
+    split: paragraph
+  - title: Closing
+    split: paragraph

@@ -1,0 +1,16 @@
+source_id: gt-01
+placement_weight: strong
+part: civilization
+part_role: civilization
+where_this_sits: |
+  This chapter opens the Game Theory sequence on the Civilization side. It introduces Jiang's basic method - players, rules, incentives, and superstructure - as a way to read how societies form, mature, and collapse.
+reading_posture: |
+  Read it as a law-discovery threshold chapter. The lecture uses dating, fertility, status, and civilizational lifecycle as a way to build the method before the later war-facing application sequence begins.
+historical_pressure_points:
+  - players, rules, incentives, and superstructure as the core game-theory grammar
+  - fertility, status competition, and demographic decline as civilizational signals
+  - rise, maturation, and collapse as a recurrent social lifecycle
+limits_of_the_frame: |
+  This entry is provisional and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Social theory claims, historical generalizations, demographic arguments, and political implications still require later comparative review before quotation-grade or publication-grade use.
+return_path: |
+  Return through lectures/game-theory/gt-01/, the commentary canvas, and the lecture transcript. The full transcript is preserved in-repo under lectures/.

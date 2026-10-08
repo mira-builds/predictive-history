@@ -1,0 +1,69 @@
+{
+  "tour_id": "volume_i_spine_tour",
+  "registry": "data/weave/volume-i-companions.json",
+  "related_seed_id": "ten_route_spine_seed",
+  "deprecated_replacement_for": "data/routes/part-boundary-tour.json",
+  "rationale": "Ten stops at interwoven spine boundaries (spine_start per legacy Part slice). Replaces part_boundary_tour Part IDs with source_id stops.",
+  "stops": [
+    {
+      "source_id": "civ-01",
+      "label": "The Dawn of Civilization",
+      "doorway_path": "docs/routes/volume-i-parts/part-01-dawn-of-civilization.md",
+      "legacy_part_id": "part-01-dawn-of-civilization"
+    },
+    {
+      "source_id": "civ-07",
+      "label": "The Hellenic World",
+      "doorway_path": "docs/routes/volume-i-parts/part-02-hellenic-world.md",
+      "legacy_part_id": "part-02-hellenic-world"
+    },
+    {
+      "source_id": "civ-14",
+      "label": "The Roman Imperium",
+      "doorway_path": "docs/routes/volume-i-parts/part-03-roman-imperium.md",
+      "legacy_part_id": "part-03-roman-imperium"
+    },
+    {
+      "source_id": "civ-18",
+      "label": "The Ancient Foundations",
+      "doorway_path": "docs/routes/volume-i-parts/part-04-ancient-foundations.md",
+      "legacy_part_id": "part-04-ancient-foundations"
+    },
+    {
+      "source_id": "civ-24",
+      "label": "Christianity and Islam",
+      "doorway_path": "docs/routes/volume-i-parts/part-05-christianity-and-islam.md",
+      "legacy_part_id": "part-05-christianity-and-islam"
+    },
+    {
+      "source_id": "civ-29",
+      "label": "The Medieval Imagination",
+      "doorway_path": "docs/routes/volume-i-parts/part-06-medieval-imagination.md",
+      "legacy_part_id": "part-06-medieval-imagination"
+    },
+    {
+      "source_id": "civ-35",
+      "label": "The World After Rome",
+      "doorway_path": "docs/routes/volume-i-parts/part-07-world-after-rome.md",
+      "legacy_part_id": "part-07-world-after-rome"
+    },
+    {
+      "source_id": "civ-42",
+      "label": "The Birth of Modernity",
+      "doorway_path": "docs/routes/volume-i-parts/part-08-birth-of-modernity.md",
+      "legacy_part_id": "part-08-birth-of-modernity"
+    },
+    {
+      "source_id": "civ-51",
+      "label": "The Age of Conscience",
+      "doorway_path": "docs/routes/volume-i-parts/part-09-age-of-conscience.md",
+      "legacy_part_id": "part-09-age-of-conscience"
+    },
+    {
+      "source_id": "civ-54",
+      "label": "The Rise of the Nation-State",
+      "doorway_path": "docs/routes/volume-i-parts/part-10-rise-of-the-nation-state.md",
+      "legacy_part_id": "part-10-rise-of-the-nation-state"
+    }
+  ]
+}

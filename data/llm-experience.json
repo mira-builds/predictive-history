@@ -1,0 +1,245 @@
+{
+  "experience_id": "ph_civ_llm_native_bootloader",
+  "repo_identity": "predictive-history",
+  "github_url": "https://github.com/mira-builds/predictive-history",
+  "primary_artifact": "namespace_catalog",
+  "start_here": "START-HERE.md",
+  "full_context": {
+    "path": "llms-full.txt",
+    "purpose": "one_shot_llm_context_packet",
+    "use_after": "START-HERE.md"
+  },
+  "deprecated_artifacts": {
+    "two_volume_ph_civ": {
+      "archive_doc": "docs/archive/two-volume-ph-civ-apo-deprecated.md",
+      "reader_map": "docs/archive/two-volumes-one-reader-map.md",
+      "surfaces": [
+        "ph-civ",
+        "ph-apo"
+      ]
+    }
+  },
+  "first_response_contract": {
+    "default_mode": "first_tour",
+    "anti_pattern": "Do not stop at a generic repository summary or ask only what the reader would like to do next.",
+    "required_opening_files": [
+      "START-HERE.md",
+      "llms.txt",
+      "llms-full.txt"
+    ],
+    "opening_route": "civ-07",
+    "opening_path": "homer-to-tolstoy",
+    "template": [
+      "I am starting from START-HERE.md, llms.txt, and llms-full.txt. Default mode: first_tour.",
+      "Predictive History is organized as a namespace catalog hub (216 public chapters) with lecture, essay, and interview slice indexes; legacy two-volume ph-civ/ph-apo framing is deprecated.",
+      "I will begin with the 10-route literary spine seed. The opening path is Homer-to-Tolstoy, starting at civ-07, with the guardrail that this is the literary spine route, not a side corridor.",
+      "Choose one: continue the first tour; study civ-07; or switch modes."
+    ]
+  },
+  "catalog_hub": {
+    "markdown": "docs/predictive-history-index.md",
+    "json": "docs/predictive-history-index.json"
+  },
+  "namespace_slices": {
+    "lectures": {
+      "markdown": "lectures/predictive-history-lecture-index.md",
+      "json": "lectures/predictive-history-lecture-index.json"
+    },
+    "essays": {
+      "markdown": "essays/predictive-history-essay-index.md",
+      "json": "essays/predictive-history-essay-index.json"
+    },
+    "interviews": {
+      "markdown": "interviews/predictive-history-interview-index.md",
+      "json": "interviews/predictive-history-interview-index.json"
+    }
+  },
+  "first_seed": {
+    "seed_id": "ten_route_spine_seed",
+    "route_ids": [
+      "civ-07",
+      "civ-17",
+      "civ-29",
+      "civ-51",
+      "gb-02",
+      "gb-09",
+      "geo-14",
+      "gt-16",
+      "sh-16",
+      "sh-28"
+    ],
+    "starting_path": "homer-to-tolstoy",
+    "data_files": [
+      "data/routes/seed.json",
+      "data/routes/first-tour.json",
+      "data/routes/choreography.json",
+      "data/spines/homer-to-tolstoy.json"
+    ]
+  },
+  "spine_tour": {
+    "path": "data/routes/volume-i-spine-tour.json",
+    "registry": "data/weave/volume-i-companions.json",
+    "reader_doc": "docs/archive/two-volume-reader-order-interwoven.md",
+    "deprecated_registry": "data/parts/volume-i-parts.deprecated.json",
+    "related_seed_id": "ten_route_spine_seed",
+    "instruction": "Tour Volume I by interwoven spine stops (source_id at each legacy Part boundary). Replaces part_tour; does not replace Homer-to-Tolstoy opening at civ-07."
+  },
+  "first_tour": {
+    "path": "data/routes/first-tour.json",
+    "reader_doc": "docs/onboarding/first-tour.md",
+    "opening_route": "civ-07",
+    "opening_path": "homer-to-tolstoy",
+    "continue_prompt": "Continue the first_tour by opening civ-07 as the Homeric memory system: explain why it matters, how to read it, what not to overclaim, and where the reader can go next."
+  },
+  "bilingual_bridge": {
+    "path": "data/bilingual-loop.json",
+    "reader_doc": "docs/localization/bilingual-civilizational-bridge.md",
+    "posture": "civilizational_bridge",
+    "bridge_id": "trilingual_civilizational_bridge",
+    "language_scope": "trilingual",
+    "status": "ambition_metadata",
+    "canonical_source": "predictive-history",
+    "primary_wedge": "homer_to_tolstoy_read_from_china",
+    "localization_roadmap": [
+      "ph-civ-zh",
+      "ph-civ-ru"
+    ],
+    "authority_model": "ph-civ-zh and ph-civ-ru are downstream mirrors of canonical predictive-history, not sibling sources of truth."
+  },
+  "chapter_folder_links": {
+    "reader_doc": "docs/onboarding/chapter-folder-links.md",
+    "default_mode": "study",
+    "cli": "predictive-history link <source_id>",
+    "url_pattern": "https://github.com/mira-builds/predictive-history/tree/main/lectures/<series>/<source_id>",
+    "purpose": "direct YouTube comment and LLM-chat handoff for one chapter folder",
+    "not_replacement_for": "first_tour"
+  },
+  "chapter_catalog": {
+    "json_path": "docs/predictive-history-index.json",
+    "markdown_path": "docs/predictive-history-index.md",
+    "purpose": "full_chapter_and_lecture_catalog",
+    "instruction": "When the reader needs to browse, search, or resolve any chapter by source_id, load docs/predictive-history-index.json (namespace-first catalog with by_series primary and legacy by_surface mirror). Use slice indexes for lectures, essays, or interviews. Use predictive-history index for the namespace catalog.",
+    "cli": "predictive-history index",
+    "not_replacement_for": "first_tour"
+  },
+  "modes": [
+    {
+      "mode": "first_tour",
+      "instruction": "Orient the reader to the namespace catalog hub and the 10-route literary spine seed before opening individual chapters.",
+      "start_files": [
+        "START-HERE.md",
+        "README.md",
+        "docs/predictive-history-index.md",
+        "data/routes/seed.json",
+        "data/routes/first-tour.json",
+        "docs/onboarding/first-tour.md"
+      ]
+    },
+    {
+      "mode": "spine_tour",
+      "instruction": "Tour Volume I using interwoven spine stops and the weave companion registry; chapter commentaries are L0–6 SSOT.",
+      "start_files": [
+        "data/weave/volume-i-companions.json",
+        "data/routes/volume-i-spine-tour.json",
+        "docs/archive/two-volume-reader-order-interwoven.md",
+        "docs/methodology/commentary-methodology-v2.md"
+      ]
+    },
+    {
+      "mode": "study",
+      "instruction": "Study one chapter through its card, transcript, commentary, limits, and return path.",
+      "start_files": [
+        "docs/predictive-history-index.json",
+        "data/cards.jsonl",
+        "lectures/"
+      ]
+    },
+    {
+      "mode": "catalog",
+      "instruction": "Browse or resolve chapters via the namespace catalog hub and slice indexes.",
+      "start_files": [
+        "docs/predictive-history-index.json",
+        "docs/predictive-history-index.md"
+      ]
+    },
+    {
+      "mode": "seminar",
+      "instruction": "Generate discussion questions grounded in public card limits and source chapter text.",
+      "start_files": [
+        "prompts/seminar.md",
+        "data/cards.jsonl",
+        "lectures/"
+      ]
+    },
+    {
+      "mode": "commentary_canvas",
+      "instruction": "Use the commentary scaffold as a project-development canvas, not as finished analysis.",
+      "start_files": [
+        "docs/methodology/commentary-canvas.md",
+        "lectures/"
+      ]
+    },
+    {
+      "mode": "pattern_bridge",
+      "instruction": "Connect chapters to public pattern IDs without importing private strategy notes.",
+      "start_files": [
+        "data/patterns.json",
+        "docs/methodology/pattern-calibration.md"
+      ]
+    },
+    {
+      "mode": "bounded_application",
+      "instruction": "Apply patterns to present-day questions only as orientation and with explicit evidentiary limits.",
+      "start_files": [
+        "data/routes/choreography.json",
+        "data/patterns.json",
+        "docs/contracts/public-repo-contract.md"
+      ]
+    }
+  ],
+  "guardrails": [
+    "Homer to Tolstoy is the literary spine route, not a side corridor.",
+    "sh-16 is a routed Tolstoy endpoint via an Anna Karenina coda, not a dedicated Tolstoy lecture.",
+    "Application routes are public orientation only, not quotation-grade live operational analysis.",
+    "Commentaries are open project canvases and should not be treated as final scholarly review.",
+    "Public growth goals are ambitions; do not claim views, attention, or launch readiness has already been earned.",
+    "Do not stop at a generic repo summary; the default pasted-URL response is an active first_tour."
+  ],
+  "do_not_claim": [
+    "Do not claim this repo is official course material or endorsement.",
+    "Do not claim live geopolitical certainty from orientation routes.",
+    "Do not claim commentaries are complete final analysis."
+  ],
+  "unfolding_map": [
+    "START-HERE.md",
+    "llms.txt",
+    "llms-full.txt",
+    "README.md",
+    "AGENTS.md",
+    "docs/predictive-history-index.json",
+    "docs/predictive-history-index.md",
+    "lectures/predictive-history-lecture-index.md",
+    "essays/predictive-history-essay-index.md",
+    "interviews/predictive-history-interview-index.md",
+    "docs/archive/two-volume-ph-civ-apo-deprecated.md",
+    "docs/contracts/public-repo-contract.md",
+    "docs/contracts/export-contract.md",
+    "data/weave/volume-i-companions.json",
+    "data/routes/volume-i-spine-tour.json",
+    "data/parts/volume-i-parts.deprecated.json",
+    "docs/archive/two-volume-reader-order-interwoven.md",
+    "docs/methodology/commentary-methodology-v2.md",
+    "data/routes/seed.json",
+    "data/routes/first-tour.json",
+    "data/routes/choreography.json",
+    "docs/onboarding/first-tour.md",
+    "docs/archive/two-volumes-one-reader-map.md",
+    "data/bilingual-loop.json",
+    "docs/localization/bilingual-civilizational-bridge.md",
+    "docs/onboarding/chapter-folder-links.md",
+    "data/public-surface-inventory.json",
+    "docs/catalogs/public-surface-status.md",
+    "data/cards.jsonl",
+    "data/patterns.json"
+  ]
+}

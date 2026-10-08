@@ -1,0 +1,16 @@
+source_id: gt-16
+placement_weight: strong
+part: world-war
+part_role: world-war
+where_this_sits: |
+  This Game Theory chapter belongs to the late Apocalypse-facing Game Theory sequence, where actors, incentives, signaling, and escalation make the laws of history operational.
+reading_posture: |
+  Read this as an orientation card for pressure and application, not as a substitute for the transcript or commentary. The task is to notice how the lecture converts historical pattern into actors, systems, risks, and possible futures.
+historical_pressure_points:
+  - actors, incentives, signaling, escalation, and miscalculation
+  - US-Iran pressure, regional escalation, and religious-political legitimacy
+  - media-technology pressure, narrative control, and cognitive compression
+limits_of_the_frame: |
+  This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use.
+return_path: |
+  Return through the lectures packet path, commentary canvas, public card, and lecture transcript. The full transcript is preserved in-repo under lectures/.

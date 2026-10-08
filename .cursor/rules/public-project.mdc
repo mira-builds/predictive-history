@@ -1,0 +1,12 @@
+---
+description: Public Predictive History project boundaries and portable workflows.
+alwaysApply: true
+---
+
+# Public Predictive History
+
+Read root AGENTS.md and START-HERE.md. Work within the explicitly selected checkout and requested scope. The namespace catalog hub is the reader model; legacy two-volume labels are compatibility metadata.
+
+Use the repository-local skills under .agents/skills for chapter reading, learning practice, and maintenance. They depend on public project files and the existing provider-neutral CLI. No machine-specific linked skills or private workspace are required.
+
+Preserve original sources and unrelated edits. Local changes, commits, remote publication, and hosting are separate states and require their applicable authorization and verification.

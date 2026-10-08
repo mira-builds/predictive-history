@@ -1,0 +1,9 @@
+sections:
+  - title: Cold Open
+    split: paragraph
+  - title: Lecture Block
+    split: paragraph
+  - title: Q and A Block
+    split: paragraph
+  - title: Closing
+    split: paragraph

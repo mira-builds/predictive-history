@@ -1,0 +1,123 @@
+{
+  "bridge_id": "trilingual_civilizational_bridge",
+  "loop_id": "english_chinese_civilizational_bridge",
+  "posture": "civilizational_bridge",
+  "language_scope": "trilingual",
+  "status": "ambition_metadata",
+  "canonical_source": "predictive-history",
+  "canonical_language_surface": {
+    "surface": "predictive-history",
+    "locale": "en",
+    "role": "canonical_source"
+  },
+  "downstream_mirrors": [
+    "ph-civ-zh",
+    "ph-civ-ru"
+  ],
+  "downstream_language_surfaces": [
+    {
+      "surface": "ph-civ-zh",
+      "locale": "zh",
+      "role": "downstream_localization_mirror"
+    },
+    {
+      "surface": "ph-civ-ru",
+      "locale": "ru",
+      "role": "downstream_localization_mirror"
+    }
+  ],
+  "authority_model": "predictive-history is the upstream public artifact and source of truth; ph-civ-zh and ph-civ-ru are downstream localization mirrors that inherit route IDs, guardrails, cards, transcripts, commentaries, and launch-readiness status from predictive-history.",
+  "primary_wedge": "homer_to_tolstoy_read_from_china",
+  "identity": "predictive-history is an LLM-native trilingual civilizational bridge: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through a shared, source-bounded public route system.",
+  "english_hook": "A Chinese civilizational-history lens can help Western readers recover the stakes of their own canon without turning that canon into nostalgia or culture-war shorthand.",
+  "chinese_hook": "The Western canon can become readable as civilizational pattern without imitation or rejection, and without civilizational scoreboard thinking.",
+  "reinforcement_loop": [
+    "English readers share the surprise that a Chinese civilizational-history lens can clarify the Western canon.",
+    "Chinese readers share the confidence that Western classics can be studied as historical pattern systems, not merely consumed as prestige objects.",
+    "Russian readers add a third reinforcement line through the Homer-to-Tolstoy spine and Russian literary depth.",
+    "Cross-language attention creates social proof: each readership sees the others reading seriously.",
+    "Trilingual LLM chats make the route system portable across English, Chinese, and Russian contexts.",
+    "Route, commentary, and museum refinements compound as readers test the same source-bounded IDs from both directions."
+  ],
+  "guardrails": [
+    "not propaganda",
+    "not anti-Western",
+    "not civilizational flattery",
+    "not a translation dump",
+    "not an independent source of truth",
+    "not launch-readiness proof",
+    "not a replacement for source cards, transcripts, commentary, and evidence limits"
+  ],
+  "future_zh_wedge": {
+    "status": "future_scaffold_only",
+    "upstream_source": "predictive-history",
+    "dependency_role": "downstream_localization_mirror",
+    "first_steps": [
+      "canonical glossary",
+      "Chinese bootloader",
+      "Chinese first-tour metadata"
+    ],
+    "defer": "Do not translate all 149 source chapters before the glossary, bootloader, and first-tour metadata are stable.",
+    "no_repo_scaffold_in_this_pass": true
+  },
+  "future_ru_wedge": {
+    "status": "roadmap_candidate",
+    "future_surface": "ph-civ-ru",
+    "upstream_source": "predictive-history",
+    "dependency_role": "downstream_localization_mirror",
+    "primary_wedge": "homer_to_tolstoy_and_russian_literary_spine",
+    "first_steps": [
+      "Russian glossary",
+      "Russian bootloader",
+      "Russian first-tour metadata"
+    ],
+    "reader_hook": "Russian readers can enter the Homer-to-Tolstoy spine through shared route IDs, Russian literary depth, and civilizational pattern study without turning the surface into present-war apologetics.",
+    "guardrails": [
+      "not Russian-state apologetics",
+      "not anti-Ukrainian",
+      "not anti-Western",
+      "not live war analysis",
+      "not a translation dump"
+    ],
+    "defer": "Do not translate all 149 source chapters or create predictive-history localization commands before the glossary, bootloader, first-tour metadata, and Russia-specific guardrails are stable.",
+    "no_repo_scaffold_in_this_pass": true
+  },
+  "localization_roadmap": [
+    {
+      "future_surface": "ph-civ-zh",
+      "locale": "zh",
+      "status": "future_scaffold_only",
+      "upstream_source": "predictive-history",
+      "dependency_role": "downstream_localization_mirror",
+      "role": "first civilizational bridge mirror",
+      "first_steps": [
+        "canonical glossary",
+        "Chinese bootloader",
+        "Chinese first-tour metadata"
+      ]
+    },
+    {
+      "future_surface": "ph-civ-ru",
+      "locale": "ru",
+      "status": "roadmap_candidate",
+      "upstream_source": "predictive-history",
+      "dependency_role": "downstream_localization_mirror",
+      "role": "Russian literary-spine and civilizational-pattern mirror",
+      "first_steps": [
+        "Russian glossary",
+        "Russian bootloader",
+        "Russian first-tour metadata"
+      ]
+    }
+  ],
+  "public_copy": {
+    "short": "Homer to Tolstoy, read from China.",
+    "long": "A trilingual civilizational bridge where canonical English predictive-history can support downstream Chinese and Russian mirrors through the same source-bounded route system, without propaganda, flattery, loose translation, or independent localization canons."
+  },
+  "start_files": [
+    "docs/localization/bilingual-civilizational-bridge.md",
+    "data/bilingual-loop.json",
+    "data/routes/first-tour.json",
+    "data/spines/homer-to-tolstoy.json"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "generated_from": "data/parts/volume-i-parts.json",
+  "spine_ssot": "docs/archive/two-volume-reader-order-interwoven.md",
+  "deprecated_parts_registry": "data/parts/volume-i-parts.deprecated.json",
+  "by_civ_host": {
+    "civ-01": {
+      "great_books": [
+        {
+          "gb_id": "gb-01",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [
+        {
+          "sh_id": "sh-11",
+          "role": "prologue"
+        }
+      ],
+      "corridor_touchpoints": []
+    },
+    "civ-02": {
+      "great_books": [
+        {
+          "gb_id": "gb-03",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": []
+    },
+    "civ-03": {
+      "great_books": [
+        {
+          "gb_id": "gb-04",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": []
+    },
+    "civ-07": {
+      "great_books": [
+        {
+          "gb_id": "gb-02",
+          "role": "interwoven",
+          "note": null
+        },
+        {
+          "gb_id": "gb-05",
+          "role": "interwoven",
+          "note": null
+        },
+        {
+          "gb_id": "gb-07",
+          "role": "interwoven",
+          "note": null
+        },
+        {
+          "gb_id": "gb-03",
+          "role": "support_ring_optional",
+          "note": "anchor civ-02 in Part I"
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-tolstoy",
+        "homer-to-tolstoy-support-ring",
+        "homer-to-dante"
+      ]
+    },
+    "civ-14": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-tolstoy",
+        "homer-to-dante"
+      ]
+    },
+    "civ-17": {
+      "great_books": [
+        {
+          "gb_id": "gb-08",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": []
+    },
+    "civ-18": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-tolstoy-support-ring"
+      ]
+    },
+    "civ-22": {
+      "great_books": [],
+      "secret_history": [
+        {
+          "sh_id": "sh-17",
+          "role": "deepening"
+        }
+      ],
+      "corridor_touchpoints": []
+    },
+    "civ-28": {
+      "great_books": [],
+      "secret_history": [
+        {
+          "sh_id": "sh-18",
+          "role": "deepening"
+        }
+      ],
+      "corridor_touchpoints": []
+    },
+    "civ-29": {
+      "great_books": [
+        {
+          "gb_id": "gb-09",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-dante",
+        "homer-to-tolstoy"
+      ]
+    },
+    "civ-30": {
+      "great_books": [
+        {
+          "gb_id": "gb-09",
+          "role": "interwoven",
+          "note": null
+        },
+        {
+          "gb_id": "gb-10",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": []
+    },
+    "civ-35": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-dante",
+        "homer-to-tolstoy"
+      ]
+    },
+    "civ-41": {
+      "great_books": [
+        {
+          "gb_id": "gb-10",
+          "role": "interwoven",
+          "note": null
+        }
+      ],
+      "secret_history": [],
+      "corridor_touchpoints": []
+    },
+    "civ-42": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "plato-to-hegel"
+      ]
+    },
+    "civ-51": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "homer-to-tolstoy",
+        "civilization-to-apocalypse"
+      ]
+    },
+    "civ-53": {
+      "great_books": [],
+      "secret_history": [
+        {
+          "sh_id": "sh-16",
+          "role": "hinge"
+        }
+      ],
+      "corridor_touchpoints": []
+    },
+    "civ-54": {
+      "great_books": [],
+      "secret_history": [],
+      "corridor_touchpoints": [
+        "plato-to-hegel",
+        "civilization-to-apocalypse"
+      ]
+    }
+  },
+  "by_companion": {
+    "gb-01": {
+      "anchor_civ": "civ-01",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-02": {
+      "anchor_civ": "civ-07",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-03": {
+      "anchor_civ": "civ-07",
+      "kind": "great-books",
+      "role": "support_ring_optional"
+    },
+    "gb-04": {
+      "anchor_civ": "civ-03",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-05": {
+      "anchor_civ": "civ-07",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-07": {
+      "anchor_civ": "civ-07",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-08": {
+      "anchor_civ": "civ-17",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-09": {
+      "anchor_civ": "civ-30",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "gb-10": {
+      "anchor_civ": "civ-41",
+      "kind": "great-books",
+      "role": "interwoven"
+    },
+    "sh-11": {
+      "anchor_civ": "civ-01",
+      "kind": "secret-history",
+      "role": "prologue"
+    },
+    "sh-16": {
+      "anchor_civ": "civ-53",
+      "kind": "secret-history",
+      "role": "hinge"
+    },
+    "sh-17": {
+      "anchor_civ": "civ-22",
+      "kind": "secret-history",
+      "role": "deepening"
+    },
+    "sh-18": {
+      "anchor_civ": "civ-28",
+      "kind": "secret-history",
+      "role": "deepening"
+    }
+  }
+}

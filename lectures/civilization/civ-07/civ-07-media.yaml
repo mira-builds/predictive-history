@@ -1,0 +1,87 @@
+﻿source_id: civ-07
+title: "Civilization #7: Homer's Iliad and the Birth of Greek Civilization"
+part: civilization
+media_pack_status: curated_draft
+public_surface: predictive_history_museum
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Achilles and Ajax gaming amphora"
+    item_type: artwork
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/File:Exekias_Achilles_Ajax_Staatliche_Antikensammlungen_1471.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Greek vase painting gives the lecture a visual doorway into heroic competition, aristocratic honor, and the social memory carried by Homeric myth."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "A later painted object is not a direct image of Homeric society; it shows how Greeks remembered and re-staged heroic values."
+    related_paths:
+      orientation_card_path: data/cards/civ-07.md
+      transcript_path: lectures/civilization/civ-07/civ-07-transcript.md
+      commentary_path: lectures/civilization/civ-07/civ-07-commentary.md
+  - id: 02
+    label: "Mycenae Lion Gate"
+    item_type: place
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/File:Lion_Gate,_Mycenae.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Mycenae anchors the Homeric world in the palace and warrior culture that later Greeks imagined as ancestral."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "The archaeological site cannot be read as a simple confirmation of the Iliad as history."
+    related_paths:
+      orientation_card_path: data/cards/civ-07.md
+      transcript_path: lectures/civilization/civ-07/civ-07-transcript.md
+      commentary_path: lectures/civilization/civ-07/civ-07-commentary.md
+  - id: 03
+    label: "Map of Homeric Greece"
+    item_type: map
+    role: context_anchor
+    source_url: "https://en.wikipedia.org/wiki/Homeric_Greece"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "A regional map helps students see Homer as a civilizational memory system spread across places, routes, and rival communities."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Modern maps simplify uncertain Bronze Age and archaic geographies."
+    related_paths:
+      orientation_card_path: data/cards/civ-07.md
+      transcript_path: lectures/civilization/civ-07/civ-07-transcript.md
+      commentary_path: lectures/civilization/civ-07/civ-07-commentary.md
+  - id: 04
+    label: "Linear B tablet"
+    item_type: artifact
+    role: primary_object
+    source_url: "https://commons.wikimedia.org/wiki/File:NAMA_Linear_B_tablet_of_Pylos.jpg"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The tablet points to bureaucratic palace culture before alphabetic epic, clarifying what kind of world collapsed before Homer."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Administrative writing and oral epic are different media and should not be collapsed."
+    related_paths:
+      orientation_card_path: data/cards/civ-07.md
+      transcript_path: lectures/civilization/civ-07/civ-07-transcript.md
+      commentary_path: lectures/civilization/civ-07/civ-07-commentary.md
+  - id: 05
+    label: "Trojan War amphora scene"
+    item_type: artwork
+    role: comparison_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Trojan_War_in_ancient_Greek_pottery"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Pottery scenes show how epic became shared public imagery, not only a private text."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Category pages gather later visual traditions; each object needs separate dating for close claims."
+    related_paths:
+      orientation_card_path: data/cards/civ-07.md
+      transcript_path: lectures/civilization/civ-07/civ-07-transcript.md
+      commentary_path: lectures/civilization/civ-07/civ-07-commentary.md

@@ -1,0 +1,1766 @@
+{
+  "schema_version": 1,
+  "card_count": 216,
+  "bucket_counts": {
+    "PUBLIC_READY": 0,
+    "OPEN_CANVAS": 1,
+    "REVIEW_WITH_CURATOR": 0,
+    "PROVISIONAL": 1,
+    "NEEDS_ROUTE_REVIEW": 0,
+    "NEEDS_SOURCE_FLOOR": 0,
+    "NEEDS_CARD_LIMITS": 0,
+    "NEEDS_COMMENTARY_REVIEW": 210,
+    "STUB_ROUTED": 0,
+    "UNASSIGNED": 4
+  },
+  "buckets": {
+    "PUBLIC_READY": [],
+    "OPEN_CANVAS": [
+      "sh-17"
+    ],
+    "REVIEW_WITH_CURATOR": [],
+    "PROVISIONAL": [
+      "gt-24"
+    ],
+    "NEEDS_ROUTE_REVIEW": [],
+    "NEEDS_SOURCE_FLOOR": [],
+    "NEEDS_CARD_LIMITS": [],
+    "NEEDS_COMMENTARY_REVIEW": [
+      "civ-01",
+      "civ-02",
+      "civ-03",
+      "civ-04",
+      "civ-05",
+      "civ-06",
+      "civ-08",
+      "civ-09",
+      "civ-10",
+      "civ-11",
+      "civ-12",
+      "civ-13",
+      "civ-14",
+      "civ-15",
+      "civ-16",
+      "civ-17",
+      "civ-18",
+      "civ-19",
+      "civ-20",
+      "civ-21",
+      "civ-23",
+      "civ-24",
+      "civ-25",
+      "civ-26",
+      "civ-27",
+      "civ-28",
+      "civ-30",
+      "civ-31",
+      "civ-32",
+      "civ-33",
+      "civ-34",
+      "civ-35",
+      "civ-36",
+      "civ-37",
+      "civ-38",
+      "civ-39",
+      "civ-40",
+      "civ-41",
+      "civ-42",
+      "civ-43",
+      "civ-44",
+      "civ-45",
+      "civ-46",
+      "civ-47",
+      "civ-48",
+      "civ-49",
+      "civ-50",
+      "civ-51",
+      "civ-52",
+      "civ-53",
+      "civ-54",
+      "civ-55",
+      "civ-56",
+      "civ-57",
+      "civ-58",
+      "civ-59",
+      "civ-60",
+      "essay-2025-08-06-vision-mission-goals",
+      "essay-2025-08-08-continuity-of-government-is-a-joke",
+      "essay-2025-08-13-the-third-coming",
+      "essay-2025-08-20-the-secret-history-of-the-world-1",
+      "essay-2025-08-22-the-secret-history-of-the-world-2",
+      "essay-2025-08-26-the-secret-history-of-the-world-3",
+      "essay-2025-08-29-the-secret-history-of-the-world-4",
+      "essay-2025-09-05-the-secret-history-of-the-world-5",
+      "essay-2025-09-09-the-secret-history-of-the-world-6",
+      "essay-2025-09-12-secret-history-7-the-voyage-home",
+      "essay-2025-09-13-tipping-point-usa",
+      "essay-2025-09-17-i-have-questions-about-tyler-robinson",
+      "essay-2025-09-20-predictive-history-reading-list",
+      "essay-2025-09-22-what-can-be-done",
+      "essay-2025-09-27-the-empire-goes-to-war",
+      "essay-2025-10-01-war-machine-usa",
+      "essay-2025-10-03-why-i-refuse-to-get-rich",
+      "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+      "essay-2025-10-12-the-limits-of-pax-judaica",
+      "essay-2025-10-15-secret-history-10-the-war-of-heaven",
+      "essay-2025-10-17-secret-history-10-the-great-revealing",
+      "essay-2026-01-03-blowback-venezuela",
+      "essay-2026-01-10-minnesota-burning",
+      "essay-2026-01-17-iran-greenland-and-canada",
+      "essay-2026-01-24-carneys-speech-and-trumps-letter",
+      "essay-2026-02-07-twilight-of-the-liberal-elite",
+      "essay-2026-02-14-welcome-to-the-rupture",
+      "essay-2026-02-21-countdown-to-iran",
+      "essay-2026-02-28-world-war-iii-begins",
+      "essay-2026-03-07-the-acceleration",
+      "essay-2026-03-14-vietnam-redux",
+      "essay-2026-03-21-the-us-iran-end-game",
+      "essay-2026-04-04-world-war-trump",
+      "essay-2026-04-11-our-wtf-years",
+      "essay-2026-04-18-the-us-iran-war-round-two",
+      "essay-2026-04-25-the-trump-new-deal",
+      "essay-2026-05-01-god-emperor-trump",
+      "essay-2026-05-09-the-us-china-grand-bargain",
+      "essay-2026-05-16-chinas-third-center-strategy",
+      "essay-2026-05-23-the-loneliness-of-mad-king-trump",
+      "essay-2026-05-30-peter-thiels-republic",
+      "essay-2026-06-13-welcome-to-boomer-hell",
+      "essay-2026-06-19-peace-in-our-time",
+      "gb-01",
+      "gb-03",
+      "gb-04",
+      "gb-05",
+      "gb-06",
+      "gb-07",
+      "gb-08",
+      "gb-09",
+      "gb-10",
+      "gb-11",
+      "gb-12",
+      "gb-13",
+      "geo-01",
+      "geo-02",
+      "geo-03",
+      "geo-04",
+      "geo-05",
+      "geo-06",
+      "geo-07",
+      "geo-08",
+      "geo-09",
+      "geo-10",
+      "geo-11",
+      "geo-12",
+      "geo-13",
+      "geo-14",
+      "geo-15",
+      "geo-16",
+      "geo-17",
+      "geo-18",
+      "geo-19",
+      "geo-20",
+      "gt-01",
+      "gt-02",
+      "gt-03",
+      "gt-04",
+      "gt-05",
+      "gt-06",
+      "gt-07",
+      "gt-08",
+      "gt-09",
+      "gt-10",
+      "gt-11",
+      "gt-12",
+      "gt-13",
+      "gt-14",
+      "gt-15",
+      "gt-16",
+      "gt-17",
+      "gt-18",
+      "gt-19",
+      "gt-20",
+      "gt-21",
+      "gt-22",
+      "gt-23",
+      "gt-25",
+      "gt-26",
+      "gt-27",
+      "gt-28",
+      "gt-29",
+      "interview-2025-10-30-cyrus-janssen",
+      "interview-2025-11-24-glenn-diesen",
+      "interview-2026-01-05-glenn-diesen",
+      "interview-2026-01-18-danny-haiphong",
+      "interview-2026-01-22-dimitri-lascaris",
+      "interview-2026-01-26-glenn-diesen",
+      "interview-2026-03-02-breaking-points",
+      "interview-2026-03-07-dialogue-works",
+      "interview-2026-03-09-glenn-diesen-iran-war",
+      "interview-2026-03-09-sneako",
+      "interview-2026-03-16-endgame",
+      "interview-2026-03-19-tom-bilyeu",
+      "interview-2026-03-20-tucker-carlson",
+      "interview-2026-04-01-jay-shapiro",
+      "interview-2026-04-07-patrick-bet-david",
+      "interview-2026-04-13-glenn-diesen",
+      "interview-2026-04-13-sneako-dugin",
+      "interview-2026-04-22-redacted",
+      "interview-2026-05-07-diary-of-a-ceo",
+      "interview-2026-06-01-glenn-diesen",
+      "interview-2026-07-01-glenn-diesen",
+      "interview-2026-07-11-cyrus-janssen",
+      "interview-2026-08-11-glenn-diesen",
+      "sh-01",
+      "sh-02",
+      "sh-03",
+      "sh-04",
+      "sh-05",
+      "sh-06",
+      "sh-07",
+      "sh-08",
+      "sh-09",
+      "sh-10",
+      "sh-11",
+      "sh-12",
+      "sh-13",
+      "sh-14",
+      "sh-15",
+      "sh-16",
+      "sh-18",
+      "sh-19",
+      "sh-20",
+      "sh-21",
+      "sh-22",
+      "sh-23",
+      "sh-24",
+      "sh-25",
+      "sh-26",
+      "sh-27",
+      "sh-28"
+    ],
+    "STUB_ROUTED": [],
+    "UNASSIGNED": [
+      "civ-07",
+      "civ-22",
+      "civ-29",
+      "gb-02"
+    ]
+  },
+  "chapters": [
+    {
+      "source_id": "civ-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "calibration_seed",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-02",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-07",
+      "bucket": "UNASSIGNED",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-14",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-15",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-16",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-17",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-18",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-19",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-20",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-21",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-22",
+      "bucket": "UNASSIGNED",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-23",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-24",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-25",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-26",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-27",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-28",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-29",
+      "bucket": "UNASSIGNED",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-30",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-31",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-32",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-33",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-34",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-35",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-36",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-37",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-38",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-39",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-40",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-41",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-42",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-43",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-44",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-45",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-46",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-47",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-48",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-49",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-50",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-51",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-52",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-53",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-54",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-55",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-56",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-57",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-58",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-59",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "civ-60",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "civilization"
+    },
+    {
+      "source_id": "essay-2025-08-06-vision-mission-goals",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-08-continuity-of-government-is-a-joke",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-13-the-third-coming",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-20-the-secret-history-of-the-world-1",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-22-the-secret-history-of-the-world-2",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-26-the-secret-history-of-the-world-3",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-08-29-the-secret-history-of-the-world-4",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-05-the-secret-history-of-the-world-5",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-09-the-secret-history-of-the-world-6",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-12-secret-history-7-the-voyage-home",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-13-tipping-point-usa",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-17-i-have-questions-about-tyler-robinson",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-20-predictive-history-reading-list",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-22-what-can-be-done",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-09-27-the-empire-goes-to-war",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-01-war-machine-usa",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-03-why-i-refuse-to-get-rich",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-12-the-limits-of-pax-judaica",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-15-secret-history-10-the-war-of-heaven",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2025-10-17-secret-history-10-the-great-revealing",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-01-03-blowback-venezuela",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-01-10-minnesota-burning",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-01-17-iran-greenland-and-canada",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-01-24-carneys-speech-and-trumps-letter",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-02-07-twilight-of-the-liberal-elite",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-02-14-welcome-to-the-rupture",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-02-21-countdown-to-iran",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-02-28-world-war-iii-begins",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-03-07-the-acceleration",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-03-14-vietnam-redux",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-03-21-the-us-iran-end-game",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-04-04-world-war-trump",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-04-11-our-wtf-years",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-04-18-the-us-iran-war-round-two",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-04-25-the-trump-new-deal",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-05-01-god-emperor-trump",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-05-09-the-us-china-grand-bargain",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-05-16-chinas-third-center-strategy",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-05-23-the-loneliness-of-mad-king-trump",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-05-30-peter-thiels-republic",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-06-13-welcome-to-boomer-hell",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "essay-2026-06-19-peace-in-our-time",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "essays"
+    },
+    {
+      "source_id": "gb-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-02",
+      "bucket": "UNASSIGNED",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-07",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "gb-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "civilization",
+      "series": "great-books"
+    },
+    {
+      "source_id": "geo-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-02",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-07",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-14",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-15",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-16",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-17",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-18",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-19",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "geo-20",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "geo-strategy"
+    },
+    {
+      "source_id": "gt-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-02",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-07",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "civilization",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-14",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-15",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-16",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-17",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-18",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-19",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-20",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-21",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-22",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-23",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-24",
+      "bucket": "PROVISIONAL",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-25",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-26",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-27",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-28",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "gt-29",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "provisional",
+      "part": "world-war",
+      "series": "game-theory"
+    },
+    {
+      "source_id": "interview-2025-10-30-cyrus-janssen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2025-11-24-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-05-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-18-danny-haiphong",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-22-dimitri-lascaris",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-01-26-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-02-breaking-points",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-07-dialogue-works",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-09-glenn-diesen-iran-war",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-09-sneako",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-16-endgame",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-19-tom-bilyeu",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-03-20-tucker-carlson",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-01-jay-shapiro",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-07-patrick-bet-david",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-13-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-13-sneako-dugin",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-04-22-redacted",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-05-07-diary-of-a-ceo",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-06-01-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-07-01-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-07-11-cyrus-janssen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "interview-2026-08-11-glenn-diesen",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "provenance",
+      "series": "interviews"
+    },
+    {
+      "source_id": "sh-01",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-02",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-03",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-04",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-05",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-06",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-07",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-08",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-09",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-10",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-11",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-12",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-13",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-14",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-15",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-16",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-17",
+      "bucket": "OPEN_CANVAS",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-18",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-19",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-20",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-21",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-22",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-23",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-24",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-25",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-26",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-27",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    },
+    {
+      "source_id": "sh-28",
+      "bucket": "NEEDS_COMMENTARY_REVIEW",
+      "review_status": "in_review",
+      "part": "world-war",
+      "series": "secret-history"
+    }
+  ],
+  "fingerprint": "135e9ddaf9e2ffb3",
+  "generated_at": "2026-10-08T17:27:49Z",
+  "markdown_summary": "runtime/artifacts/public-surface-triage.md",
+  "inventory_json": "data/public-surface-inventory.json"
+}

@@ -1,0 +1,50 @@
+name: Study edition GitHub Pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: study-edition-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build study edition
+        run: python scripts/build_study_edition.py --all-parts
+      - name: Validate study edition
+        run: |
+          python scripts/validate_study_edition.py --part 01
+          python scripts/validate_study_edition.py --part 02 --from-chapter civ-08
+          python scripts/validate_study_edition.py --part 03
+          python scripts/validate_study_edition.py --part 04
+          python scripts/validate_study_edition.py --part 05
+          python scripts/validate_study_edition.py --part 06
+          python scripts/validate_study_edition.py --part 07
+          python scripts/validate_study_edition.py --part 08
+          python scripts/validate_study_edition.py --part 09
+          python scripts/validate_study_edition.py --part 10
+          python scripts/validate_study_edition.py --chapter civ-07
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

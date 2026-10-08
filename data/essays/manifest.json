@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "description": "Pinned public essay IDs. Canonical source_id is essay-YYYY-MM-DD-{substack_slug}; legacy_source_id essay-NN and workshop es-NN are crosswalk only.",
+  "disambiguation": "If two essays share publication_date, append -2 or a title fragment to substack_slug before assigning source_id.",
+  "entries": [
+    {
+      "legacy_source_id": "essay-01",
+      "source_id": "essay-2025-08-06-vision-mission-goals",
+      "publication_date": "2025-08-06",
+      "substack_slug": "vision-mission-goals",
+      "title": "Vision, Mission, Goals",
+      "workshop_source_id": "es-01"
+    },
+    {
+      "legacy_source_id": "essay-02",
+      "source_id": "essay-2025-08-08-continuity-of-government-is-a-joke",
+      "publication_date": "2025-08-08",
+      "substack_slug": "continuity-of-government-is-a-joke",
+      "title": "\"Continuity of Government\" is a Joke. Here's Why.",
+      "workshop_source_id": "es-02"
+    },
+    {
+      "legacy_source_id": "essay-03",
+      "source_id": "essay-2025-08-13-the-third-coming",
+      "publication_date": "2025-08-13",
+      "substack_slug": "the-third-coming",
+      "title": "The Third Coming",
+      "workshop_source_id": "es-03"
+    },
+    {
+      "legacy_source_id": "essay-04",
+      "source_id": "essay-2025-08-20-the-secret-history-of-the-world-1",
+      "publication_date": "2025-08-20",
+      "substack_slug": "the-secret-history-of-the-world-1",
+      "title": "The Secret History of the World #1: The Cost of Money",
+      "workshop_source_id": "es-04"
+    },
+    {
+      "legacy_source_id": "essay-05",
+      "source_id": "essay-2025-08-22-the-secret-history-of-the-world-2",
+      "publication_date": "2025-08-22",
+      "substack_slug": "the-secret-history-of-the-world-2",
+      "title": "The Secret History of the World #2: Measuring the Resilience of Societies",
+      "workshop_source_id": "es-05"
+    },
+    {
+      "legacy_source_id": "essay-06",
+      "source_id": "essay-2025-08-26-the-secret-history-of-the-world-3",
+      "publication_date": "2025-08-26",
+      "substack_slug": "the-secret-history-of-the-world-3",
+      "title": "The Secret History of the World #3: The Corporate Re-Structuring of Canada",
+      "workshop_source_id": "es-06"
+    },
+    {
+      "legacy_source_id": "essay-07",
+      "source_id": "essay-2025-08-29-the-secret-history-of-the-world-4",
+      "publication_date": "2025-08-29",
+      "substack_slug": "the-secret-history-of-the-world-4",
+      "title": "The Secret History of the World #4: Enter Epstein Island",
+      "workshop_source_id": "es-07"
+    },
+    {
+      "legacy_source_id": "essay-08",
+      "source_id": "essay-2025-09-05-the-secret-history-of-the-world-5",
+      "publication_date": "2025-09-05",
+      "substack_slug": "the-secret-history-of-the-world-5",
+      "title": "The Secret History of the World #5: The Poetry of Transgression",
+      "workshop_source_id": "es-08"
+    },
+    {
+      "legacy_source_id": "essay-09",
+      "source_id": "essay-2025-09-09-the-secret-history-of-the-world-6",
+      "publication_date": "2025-09-09",
+      "substack_slug": "the-secret-history-of-the-world-6",
+      "title": "The Secret History of the World #6: Manchurian Candidates",
+      "workshop_source_id": "es-09"
+    },
+    {
+      "legacy_source_id": "essay-10",
+      "source_id": "essay-2025-09-12-secret-history-7-the-voyage-home",
+      "publication_date": "2025-09-12",
+      "substack_slug": "secret-history-7-the-voyage-home",
+      "title": "Secret History #7: The Voyage Home",
+      "workshop_source_id": "es-10"
+    },
+    {
+      "legacy_source_id": "essay-11",
+      "source_id": "essay-2025-09-13-tipping-point-usa",
+      "publication_date": "2025-09-13",
+      "substack_slug": "tipping-point-usa",
+      "title": "Tipping Point USA",
+      "workshop_source_id": "es-11"
+    },
+    {
+      "legacy_source_id": "essay-12",
+      "source_id": "essay-2025-09-17-i-have-questions-about-tyler-robinson",
+      "publication_date": "2025-09-17",
+      "substack_slug": "i-have-questions-about-tyler-robinson",
+      "title": "I Have Questions about Tyler Robinson",
+      "workshop_source_id": "es-12"
+    },
+    {
+      "legacy_source_id": "essay-13",
+      "source_id": "essay-2025-09-20-predictive-history-reading-list",
+      "publication_date": "2025-09-20",
+      "substack_slug": "predictive-history-reading-list",
+      "title": "\"Predictive History\" Reading List",
+      "workshop_source_id": "es-13"
+    },
+    {
+      "legacy_source_id": "essay-14",
+      "source_id": "essay-2025-09-22-what-can-be-done",
+      "publication_date": "2025-09-22",
+      "substack_slug": "what-can-be-done",
+      "title": "What Can Be Done?",
+      "workshop_source_id": "es-14"
+    },
+    {
+      "legacy_source_id": "essay-15",
+      "source_id": "essay-2025-09-27-the-empire-goes-to-war",
+      "publication_date": "2025-09-27",
+      "substack_slug": "the-empire-goes-to-war",
+      "title": "The Empire Goes to War",
+      "workshop_source_id": "es-15"
+    },
+    {
+      "legacy_source_id": "essay-16",
+      "source_id": "essay-2025-10-01-war-machine-usa",
+      "publication_date": "2025-10-01",
+      "substack_slug": "war-machine-usa",
+      "title": "War Machine USA",
+      "workshop_source_id": "es-16"
+    },
+    {
+      "legacy_source_id": "essay-17",
+      "source_id": "essay-2025-10-03-why-i-refuse-to-get-rich",
+      "publication_date": "2025-10-03",
+      "substack_slug": "why-i-refuse-to-get-rich",
+      "title": "Why I Refuse to Get Rich",
+      "workshop_source_id": "es-17"
+    },
+    {
+      "legacy_source_id": "essay-18",
+      "source_id": "essay-2025-10-10-secret-history-8-the-rise-of-the-american-kakistocracy",
+      "publication_date": "2025-10-10",
+      "substack_slug": "secret-history-8-the-rise-of-the-american-kakistocracy",
+      "title": "Secret History #8: The Rise of the American Kakistocracy",
+      "workshop_source_id": "es-18"
+    },
+    {
+      "legacy_source_id": "essay-19",
+      "source_id": "essay-2025-10-12-the-limits-of-pax-judaica",
+      "publication_date": "2025-10-12",
+      "substack_slug": "the-limits-of-pax-judaica",
+      "title": "The Limits of Pax Judaica",
+      "workshop_source_id": "es-19"
+    },
+    {
+      "legacy_source_id": "essay-20",
+      "source_id": "essay-2025-10-15-secret-history-10-the-war-of-heaven",
+      "publication_date": "2025-10-15",
+      "substack_slug": "secret-history-10-the-war-of-heaven",
+      "title": "Secret History #9: The War of Heaven and Hell",
+      "workshop_source_id": "es-20"
+    },
+    {
+      "legacy_source_id": "essay-21",
+      "source_id": "essay-2025-10-17-secret-history-10-the-great-revealing",
+      "publication_date": "2025-10-17",
+      "substack_slug": "secret-history-10-the-great-revealing",
+      "title": "Secret History #10: The Great Revealing",
+      "workshop_source_id": "es-21"
+    },
+    {
+      "legacy_source_id": "essay-22",
+      "source_id": "essay-2026-01-03-blowback-venezuela",
+      "publication_date": "2026-01-03",
+      "substack_slug": "blowback-venezuela",
+      "title": "Blowback Venezuela",
+      "workshop_source_id": "es-22"
+    },
+    {
+      "legacy_source_id": "essay-23",
+      "source_id": "essay-2026-01-10-minnesota-burning",
+      "publication_date": "2026-01-10",
+      "substack_slug": "minnesota-burning",
+      "title": "Minnesota Burning",
+      "workshop_source_id": "es-23"
+    },
+    {
+      "legacy_source_id": "essay-24",
+      "source_id": "essay-2026-01-17-iran-greenland-and-canada",
+      "publication_date": "2026-01-17",
+      "substack_slug": "iran-greenland-and-canada",
+      "title": "Iran, Greenland, and Canada",
+      "workshop_source_id": "es-24"
+    },
+    {
+      "legacy_source_id": "essay-25",
+      "source_id": "essay-2026-01-24-carneys-speech-and-trumps-letter",
+      "publication_date": "2026-01-24",
+      "substack_slug": "carneys-speech-and-trumps-letter",
+      "title": "Carney’s Speech and Trump’s Letter",
+      "workshop_source_id": "es-25"
+    },
+    {
+      "legacy_source_id": "essay-26",
+      "source_id": "essay-2026-02-07-twilight-of-the-liberal-elite",
+      "publication_date": "2026-02-07",
+      "substack_slug": "twilight-of-the-liberal-elite",
+      "title": "Twilight of the Liberal Elite",
+      "workshop_source_id": "es-26"
+    },
+    {
+      "legacy_source_id": "essay-27",
+      "source_id": "essay-2026-02-14-welcome-to-the-rupture",
+      "publication_date": "2026-02-14",
+      "substack_slug": "welcome-to-the-rupture",
+      "title": "Welcome to the Rupture",
+      "workshop_source_id": "es-27"
+    },
+    {
+      "legacy_source_id": "essay-28",
+      "source_id": "essay-2026-02-21-countdown-to-iran",
+      "publication_date": "2026-02-21",
+      "substack_slug": "countdown-to-iran",
+      "title": "Countdown to Iran",
+      "workshop_source_id": "es-28"
+    },
+    {
+      "legacy_source_id": "essay-29",
+      "source_id": "essay-2026-02-28-world-war-iii-begins",
+      "publication_date": "2026-02-28",
+      "substack_slug": "world-war-iii-begins",
+      "title": "World War III Begins",
+      "workshop_source_id": "es-29"
+    },
+    {
+      "legacy_source_id": "essay-30",
+      "source_id": "essay-2026-03-07-the-acceleration",
+      "publication_date": "2026-03-07",
+      "substack_slug": "the-acceleration",
+      "title": "The Acceleration",
+      "workshop_source_id": "es-30"
+    },
+    {
+      "legacy_source_id": "essay-31",
+      "source_id": "essay-2026-03-14-vietnam-redux",
+      "publication_date": "2026-03-14",
+      "substack_slug": "vietnam-redux",
+      "title": "Vietnam Redux",
+      "workshop_source_id": "es-31"
+    },
+    {
+      "legacy_source_id": "essay-32",
+      "source_id": "essay-2026-03-21-the-us-iran-end-game",
+      "publication_date": "2026-03-21",
+      "substack_slug": "the-us-iran-end-game",
+      "title": "The US-Iran End Game",
+      "workshop_source_id": "es-32"
+    },
+    {
+      "legacy_source_id": "essay-33",
+      "source_id": "essay-2026-04-04-world-war-trump",
+      "publication_date": "2026-04-04",
+      "substack_slug": "world-war-trump",
+      "title": "World War Trump"
+    },
+    {
+      "legacy_source_id": "essay-34",
+      "source_id": "essay-2026-04-18-the-us-iran-war-round-two",
+      "publication_date": "2026-04-18",
+      "substack_slug": "the-us-iran-war-round-two",
+      "title": "The US-Iran War, Round Two"
+    },
+    {
+      "legacy_source_id": "essay-35",
+      "source_id": "essay-2026-04-25-the-trump-new-deal",
+      "publication_date": "2026-04-25",
+      "substack_slug": "the-trump-new-deal",
+      "title": "The Trump New Deal"
+    },
+    {
+      "legacy_source_id": "essay-36",
+      "source_id": "essay-2026-05-01-god-emperor-trump",
+      "publication_date": "2026-05-01",
+      "substack_slug": "god-emperor-trump",
+      "title": "God Emperor Trump"
+    },
+    {
+      "legacy_source_id": "essay-37",
+      "source_id": "essay-2026-05-16-chinas-third-center-strategy",
+      "publication_date": "2026-05-16",
+      "substack_slug": "chinas-third-center-strategy",
+      "title": "China's Third Center Strategy"
+    },
+    {
+      "legacy_source_id": "essay-38",
+      "source_id": "essay-2026-04-11-our-wtf-years",
+      "publication_date": "2026-04-11",
+      "substack_slug": "our-wtf-years",
+      "title": "Our WTF! Years"
+    },
+    {
+      "legacy_source_id": "essay-39",
+      "source_id": "essay-2026-05-09-the-us-china-grand-bargain",
+      "publication_date": "2026-05-09",
+      "substack_slug": "the-us-china-grand-bargain",
+      "title": "The US-China Grand Bargain"
+    },
+    {
+      "legacy_source_id": "essay-40",
+      "source_id": "essay-2026-05-23-the-loneliness-of-mad-king-trump",
+      "publication_date": "2026-05-23",
+      "substack_slug": "the-loneliness-of-mad-king-trump",
+      "title": "The Loneliness of Mad King Trump"
+    },
+    {
+      "legacy_source_id": "essay-41",
+      "source_id": "essay-2026-05-30-peter-thiels-republic",
+      "publication_date": "2026-05-30",
+      "substack_slug": "peter-thiels-republic",
+      "title": "Peter Thiel's Republic"
+    },
+    {
+      "legacy_source_id": "essay-42",
+      "source_id": "essay-2026-06-13-welcome-to-boomer-hell",
+      "publication_date": "2026-06-13",
+      "substack_slug": "welcome-to-boomer-hell",
+      "title": "Welcome to Boomer Hell"
+    },
+    {
+      "legacy_source_id": "essay-43",
+      "source_id": "essay-2026-06-19-peace-in-our-time",
+      "publication_date": "2026-06-19",
+      "substack_slug": "peace-in-our-time",
+      "title": "Peace in Our Time?"
+    }
+  ]
+}

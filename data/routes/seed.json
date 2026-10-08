@@ -1,0 +1,24 @@
+{
+  "seed_id": "ten_route_spine_seed",
+  "route_ids": [
+    "civ-07",
+    "civ-17",
+    "civ-29",
+    "civ-51",
+    "gb-02",
+    "gb-09",
+    "geo-14",
+    "gt-16",
+    "sh-16",
+    "sh-28"
+  ],
+  "rationale": "First public route seed foregrounds Homer-to-Tolstoy spine exposure while preserving Volume II application exposure through geography, game theory, and secret-history pressure routes.",
+  "next_candidates": [
+    "civ-53",
+    "geo-19",
+    "civ-27",
+    "civ-40",
+    "civ-56",
+    "civ-58"
+  ]
+}
