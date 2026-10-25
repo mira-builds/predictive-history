@@ -6,6 +6,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable
+from urllib.parse import unquote, urlsplit
 
 from .commentary_v2 import commentary_metadata
 from .data import PACKAGE_ROOT, load_cards
@@ -480,7 +481,7 @@ def render_essays_table(cards: list[dict], repo_root: Path) -> list[str]:
                     entry["title"].replace("|", "\\|"),
                     card.get("publication_date", ""),
                     f"{words:,}" if words else "—",
-                    md_link("essay", transcript, link_prefix="") if transcript else "",
+                    md_link("essay", transcript) if transcript else "",
                     md_link("commentary", commentary, link_prefix="../") if commentary else "",
                     f"[substack]({substack})" if substack else "",
                 ]
@@ -635,7 +636,7 @@ def render_lectures_index_body(cards: list[dict], repo_root: Path) -> list[str]:
                 "",
             ]
         )
-        lines.extend(render_table(series_cards, repo_root, link_prefix=""))
+        lines.extend(render_table(series_cards, repo_root))
         lines.append("")
     return lines
 
@@ -681,7 +682,7 @@ def render_interviews_index_body(cards: list[dict], repo_root: Path) -> list[str
         "## Interviews by upload date",
         "",
     ]
-    lines.extend(render_table(filtered, repo_root, part="provenance", link_prefix=""))
+    lines.extend(render_table(filtered, repo_root, part="provenance"))
     lines.append("")
     return lines
 
@@ -770,17 +771,19 @@ def ensure_ph_civ_index(
     md_path = index_markdown_path(root)
     json_path = index_json_path(root)
     fingerprint = expected_index_fingerprint(cards, root)
+    markdown = render_index_markdown(cards, root, fingerprint=fingerprint)
+    json_text = render_index_json(cards, root)
     if not force and md_path.exists() and json_path.exists():
         if (
-            read_index_fingerprint(md_path) == fingerprint
-            and read_index_fingerprint(json_path) == fingerprint
+            md_path.read_text(encoding="utf-8") == markdown
+            and json_path.read_text(encoding="utf-8") == json_text
         ):
             return md_path, json_path, False
 
     md_path.parent.mkdir(parents=True, exist_ok=True)
     json_path.parent.mkdir(parents=True, exist_ok=True)
-    md_path.write_text(render_index_markdown(cards, root, fingerprint=fingerprint), encoding="utf-8")
-    json_path.write_text(render_index_json(cards, root), encoding="utf-8")
+    md_path.write_text(markdown, encoding="utf-8")
+    json_path.write_text(json_text, encoding="utf-8")
     return md_path, json_path, True
 
 
@@ -797,20 +800,22 @@ def ensure_namespace_index(
     md_path = namespace_markdown_path(scope, root)
     json_path = namespace_json_path(scope, root)
     fingerprint = expected_namespace_fingerprint(scope, cards, root)
+    markdown = render_namespace_markdown(scope, cards, root, fingerprint=fingerprint)
+    json_text = render_namespace_json(scope, cards, root)
     if not force and md_path.exists() and json_path.exists():
         if (
-            read_index_fingerprint(md_path, marker=config.fingerprint_marker) == fingerprint
-            and read_index_fingerprint(json_path) == fingerprint
+            md_path.read_text(encoding="utf-8") == markdown
+            and json_path.read_text(encoding="utf-8") == json_text
         ):
             return md_path, json_path, False
 
     md_path.parent.mkdir(parents=True, exist_ok=True)
     json_path.parent.mkdir(parents=True, exist_ok=True)
     md_path.write_text(
-        render_namespace_markdown(scope, cards, root, fingerprint=fingerprint),
+        markdown,
         encoding="utf-8",
     )
-    json_path.write_text(render_namespace_json(scope, cards, root), encoding="utf-8")
+    json_path.write_text(json_text, encoding="utf-8")
     return md_path, json_path, True
 
 
@@ -892,6 +897,12 @@ def validate_ph_civ_index(cards: list[dict] | None = None, *, repo_root: Path | 
     if md_fp and json_fp and md_fp != json_fp:
         errors.append("chapter index fingerprint mismatch between markdown and JSON exports")
 
+    errors.extend(validate_rendered_index(
+        md_path, json_path,
+        render_index_markdown(cards, root, fingerprint=expected_fp),
+        render_index_json(cards, root),
+        repo_root=root,
+    ))
     return errors
 
 
@@ -940,6 +951,46 @@ def validate_namespace_index(
     if md_fp and json_fp and md_fp != json_fp:
         errors.append(f"namespace index fingerprint mismatch for {scope}")
 
+    errors.extend(validate_rendered_index(
+        md_path, json_path,
+        render_namespace_markdown(scope, cards, root, fingerprint=expected_fp),
+        render_namespace_json(scope, cards, root),
+        repo_root=root,
+    ))
+    return errors
+
+
+def validate_rendered_index(
+    md_path: Path,
+    json_path: Path,
+    expected_markdown: str,
+    expected_json: str,
+    *,
+    repo_root: Path,
+) -> list[str]:
+    """Check generated content and local file links independently of its marker.
+
+    These catalogs use inline Markdown links. External URLs and heading anchors
+    are outside this file-existence check; no network requests or writes occur.
+    """
+    errors: list[str] = []
+    for path, expected in ((md_path, expected_markdown), (json_path, expected_json)):
+        if path.exists() and path.read_text(encoding="utf-8") != expected:
+            errors.append(
+                f"stale index content: {path.relative_to(repo_root).as_posix()} "
+                "(run `predictive-history index` to refresh)"
+            )
+    if md_path.exists():
+        for line_number, line in enumerate(md_path.read_text(encoding="utf-8").splitlines(), 1):
+            for target in re.findall(r"\]\(([^)]+)\)", line):
+                url = urlsplit(target)
+                if url.scheme or url.netloc or not url.path:
+                    continue
+                if not (md_path.parent / unquote(url.path)).exists():
+                    errors.append(
+                        f"broken local index link: {md_path.relative_to(repo_root).as_posix()}"
+                        f":{line_number}: {target}"
+                    )
     return errors
 
 
