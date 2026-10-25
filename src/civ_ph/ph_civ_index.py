@@ -17,6 +17,38 @@ FINGERPRINT_MARKER = "<!-- predictive-history-index-fingerprint:"
 SCHEMA_VERSION = 5
 PRIMARY_ARTIFACT = "namespace_catalog"
 
+COMMENTARY_STAGES = {
+    "scaffold": ("Scaffold", "Starting structure; analysis may be empty, provisional, or TBD."),
+    "l2_pinned": ("Source-linked draft", "Early analysis with source references."),
+    "l3_falsifiers": ("Falsifier layer", "Predictions and falsifiers layer populated, or explicitly not applicable."),
+    "l6_drafted": ("Expanded draft", "Later layers and project canvas drafted."),
+    "in_review": ("Awaiting review", "Marked ready for operator review."),
+    "calibration": ("Calibration pilot", "Reference pilot; not a completion or approval rating."),
+}
+
+
+def commentary_stage(entry: dict) -> str:
+    stage = COMMENTARY_STAGES.get(entry.get("commentary_maturity", ""))
+    return stage[0] if stage else "Unclassified"
+
+
+def commentary_stage_key() -> list[str]:
+    return [
+        "## Reading commentary stages",
+        "",
+        "**Commentary stage** describes the existing commentary metadata, including "
+        "legacy structure-based inference. It is separate from the card's **Review** "
+        "status. These labels are navigation aids, not a new assessment of completeness, "
+        "source accuracy, or scholarly approval. Open the commentary to inspect its support.",
+        "",
+        "| Commentary stage | Meaning | JSON value |",
+        "| --- | --- | --- |",
+        *[f"| {label} | {meaning} | `{value}` |" for value, (label, meaning) in COMMENTARY_STAGES.items()],
+        "",
+        "Unclassified means no recognized commentary stage is available; it does not imply developed analysis.",
+        "",
+    ]
+
 NAMESPACE_SLICE_PATHS = {
     "lectures": {
         "markdown": "lectures/predictive-history-lecture-index.md",
@@ -432,8 +464,8 @@ def render_table(
     part: str | None = None,
     link_prefix: str = "../",
 ) -> list[str]:
-    header = "| Source ID | Title | Review | Words | Transcript | Commentary | Folder | Video |"
-    sep = "| --- | --- | --- | ---: | --- | --- | --- | --- |"
+    header = "| Source ID | Title | Review | Commentary stage | Words | Transcript | Commentary | Folder | Video |"
+    sep = "| --- | --- | --- | --- | ---: | --- | --- | --- | --- |"
     rows = [header, sep]
     for card in sort_cards_for_table(cards, part=part):
         entry = chapter_entry(card, repo_root)
@@ -450,6 +482,7 @@ def render_table(
                     f"`{entry['source_id']}`",
                     entry["title"].replace("|", "\\|"),
                     f"`{entry['review_status']}`",
+                    commentary_stage(entry),
                     f"{words:,}" if words else "—",
                     md_link("transcript", transcript, link_prefix=link_prefix) if transcript else "",
                     md_link("commentary", commentary, link_prefix=link_prefix) if commentary else "",
@@ -463,8 +496,8 @@ def render_table(
 
 
 def render_essays_table(cards: list[dict], repo_root: Path) -> list[str]:
-    header = "| Source ID | Title | Date | Words | Essay | Commentary | Substack |"
-    sep = "| --- | --- | --- | ---: | --- | --- | --- |"
+    header = "| Source ID | Title | Date | Commentary stage | Words | Essay | Commentary | Substack |"
+    sep = "| --- | --- | --- | --- | ---: | --- | --- | --- |"
     rows = [header, sep]
     for card in sort_essays_for_table(cards):
         entry = chapter_entry(card, repo_root)
@@ -480,6 +513,7 @@ def render_essays_table(cards: list[dict], repo_root: Path) -> list[str]:
                     f"`{entry['source_id']}`",
                     entry["title"].replace("|", "\\|"),
                     card.get("publication_date", ""),
+                    commentary_stage(entry),
                     f"{words:,}" if words else "—",
                     md_link("essay", transcript) if transcript else "",
                     md_link("commentary", commentary, link_prefix="../") if commentary else "",
@@ -698,7 +732,10 @@ def render_namespace_body(scope: str, cards: list[dict], repo_root: Path) -> lis
 
 
 def render_index_markdown(cards: list[dict], repo_root: Path, *, fingerprint: str) -> str:
-    body = "\n".join(render_index_body(cards, repo_root))
+    lines = render_index_body(cards, repo_root)
+    position = lines.index("## Namespace slice indexes")
+    lines[position:position] = commentary_stage_key()
+    body = "\n".join(lines)
     return f"{FINGERPRINT_MARKER} {fingerprint} -->\n{body}"
 
 
@@ -710,7 +747,10 @@ def render_namespace_markdown(
     fingerprint: str,
 ) -> str:
     config = NAMESPACE_SCOPES[scope]
-    body = "\n".join(render_namespace_body(scope, cards, repo_root))
+    lines = render_namespace_body(scope, cards, repo_root)
+    position = next((i for i, line in enumerate(lines) if line.startswith("## ")), len(lines))
+    lines[position:position] = commentary_stage_key()
+    body = "\n".join(lines)
     return f"{config.fingerprint_marker} {fingerprint} -->\n{body}"
 
 

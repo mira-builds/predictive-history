@@ -85,3 +85,40 @@ def test_normal_generation_repairs_content_without_force(scope, tmp_path):
     assert generate()[2]
     assert (md.read_text(encoding="utf-8"), data.read_text(encoding="utf-8")) == expected
     assert not generate()[2]
+
+
+@pytest.mark.parametrize("scope", SCOPES)
+def test_every_catalog_row_exposes_existing_commentary_stage(scope):
+    md, data = paths(scope)
+    payload = json.loads(data.read_text(encoding="utf-8"))
+    labels = {
+        "scaffold": "Scaffold",
+        "l2_pinned": "Source-linked draft",
+        "l3_falsifiers": "Falsifier layer",
+        "l6_drafted": "Expanded draft",
+        "in_review": "Awaiting review",
+        "calibration": "Calibration pilot",
+    }
+    expected = {entry["source_id"]: labels.get(entry.get("commentary_maturity"), "Unclassified")
+                for entry in payload["chapters"]}
+    text = md.read_text(encoding="utf-8")
+    assert text.count("## Reading commentary stages") == 1
+    assert "legacy structure-based inference" in text
+    assert "not a new assessment" in text
+    seen = set()
+    for line in text.splitlines():
+        if not line.startswith("| `"):
+            continue
+        cells = re.split(r"(?<!\\)\|", line)[1:-1]
+        source_id = cells[0].strip().strip("`")
+        assert cells[3].strip() == expected[source_id]
+        seen.add(source_id)
+    assert seen == set(expected)
+
+
+def test_secret_history_placeholder_is_distinct_from_developed_commentary():
+    text = (ROOT / index.INDEX_MD_REL).read_text(encoding="utf-8")
+    scaffold_rows = [line for line in text.splitlines() if line.startswith("| `sh-01` |")]
+    developed_rows = [line for line in text.splitlines() if line.startswith("| `civ-01` |")]
+    assert scaffold_rows and all("| Scaffold |" in line for line in scaffold_rows)
+    assert developed_rows and all("| Source-linked draft |" in line for line in developed_rows)
