@@ -18,7 +18,7 @@ One chapter consists of a lecture transcript (or essay/interview body), a compan
 
 ## Root Chapter Corpora
 
-Medium-first namespaces at the repository root (canonical corpora; [`book/`](../book/) is a deprecated compat tombstone only):
+Medium-first namespaces at the repository root (canonical corpora; [`book/`](book/) is a deprecated compat tombstone only):
 
 - [`essays/`](essays/README.md) — Substack and long-form essays (`essay-2025-08-06-vision-mission-goals` … `essay-2026-06-19-peace-in-our-time`)
 - [`lectures/`](lectures/README.md) — canonical lecture packets under `lectures/<series>/` (150)

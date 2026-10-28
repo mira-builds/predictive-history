@@ -44,7 +44,7 @@ When a public-growth ambition is stated, convert it into measurable project mach
 
 The canonical growth guardrail is `data/growth-goals.json`.
 
-Surface-readiness vocabulary and triage buckets: [public-surface-status.md](public-surface-status.md) · machine rollup [`data/public-surface-triage.json`](../data/public-surface-triage.json).
+Surface-readiness vocabulary and triage buckets: [public-surface-status.md](../catalogs/public-surface-status.md) · machine rollup [`data/public-surface-triage.json`](../../data/public-surface-triage.json).
 
 Defined public-growth machinery is not the same as launch readiness. A route is launch-ready only when it can serve a first public reader without relying on private context, unsupported scholarly claims, or metric pressure to supply meaning.
 

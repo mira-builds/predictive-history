@@ -2,7 +2,7 @@
 
 **Status:** specification (2026-06-10)  
 **Pilot:** Homer-to-Tolstoy route · first chapter `civ-07`  
-**Companion:** [`PIN-CITE-DISCIPLINE.md`](./PIN-CITE-DISCIPLINE.md) · [`public-repo-contract.md`](./public-repo-contract.md) · [`source-lattice.md`](./source-lattice.md)
+**Companion:** [`PIN-CITE-DISCIPLINE.md`](../methodology/PIN-CITE-DISCIPLINE.md) · [`public-repo-contract.md`](../contracts/public-repo-contract.md) · [`source-lattice.md`](../methodology/source-lattice.md)
 
 ---
 
@@ -275,9 +275,9 @@ Do not claim `launch_ready` until:
 ## See also
 
 - [`study-edition-phase1-visual.md`](./study-edition-phase1-visual.md) — Phase 1 visual spec (`civ-07`: claim morph, Greece–China split, seminar strip)
-- [`two-volumes-one-reader-map.md`](./two-volumes-one-reader-map.md)
+- [`two-volumes-one-reader-map.md`](../archive/two-volumes-one-reader-map.md)
 - [`chapter-folder-links.md`](./chapter-folder-links.md)
-- [`pin-cite-manifest-index.md`](./pin-cite-manifest-index.md)
-- [`data/growth-goals.json`](../data/growth-goals.json) — first live wedge
+- [`pin-cite-manifest-index.md`](../methodology/pin-cite-manifest-index.md)
+- [`data/growth-goals.json`](../../data/growth-goals.json) — first live wedge
 
 Hosting note: URLs in this document describe a prospective Pages destination. Publication of the repository alone does not enable or verify a Pages deployment.

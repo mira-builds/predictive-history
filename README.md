@@ -24,7 +24,7 @@ It also contains the chapter body for each source item. In this repo, one chapte
 
 This package is independent educational infrastructure. It is not official course material, not endorsement, and not a substitute for the source lectures, transcripts, commentary, or external verification.
 
-The repo also carries a trilingual civilizational bridge ambition: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese or Russian translation launch. Both `ph-civ-zh` and `ph-civ-ru` would be downstream mirrors of canonical `ph-civ`, not sibling sources of truth; see `docs/localization/bilingual-civilizational-bridge.md`.
+The repo also carries a trilingual civilizational bridge ambition: English, Chinese, and Russian readerships can reinforce each other by reading the Western canon, historical pattern, and modern crisis through the same source-bounded route system. This is ambition metadata, not a Chinese or Russian translation launch. Both `ph-civ-zh` and `ph-civ-ru` would be downstream mirrors of canonical `predictive-history`, not sibling sources of truth; see `docs/localization/bilingual-civilizational-bridge.md`.
 
 ## Repository Role
 
@@ -114,7 +114,7 @@ See `docs/methodology/commentary-canvas.md`.
 
 Large reach targets, such as one million public views by the end of 2026, are strategic ambitions rather than directly executable agent tasks. Treat them as campaign pressure: convert the ambition into one live publishing wedge, then ship only human-approved assets with clear metrics.
 
-The first live wedge is the Volume I literary spine: make the Homer-to-Tolstoy route shareable, connect it to the two-volume ph-civ narrative, pair it with one publishable chapter/commentary path sample, and define what counts as a view before public distribution.
+The first live wedge is the Homer-to-Tolstoy literary spine: make the route shareable, connect it to the namespace catalog hub and its chapter study doorways, pair it with one publishable chapter/commentary path sample, and define what counts as a view before public distribution.
 
 This wedge is defined, not automatically launch-ready. The unresolved tension is whether the route has enough source-disciplined educational trust to deserve audience growth, not only whether the CLI can render it.
 

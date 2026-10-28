@@ -48,7 +48,7 @@ Excluded:
 - Use `data/llm-experience.json` as the provider-neutral unfolding map for first-tour, study, seminar, commentary, pattern bridge, and bounded-application modes.
 - Use `llms-full.txt` when the LLM needs a complete one-shot context packet after the compact map.
 - Do not stop at a generic repository summary or "what would you like to do next?" response. Begin the `first_tour` through the 10-route spine seed unless the reader chooses another mode.
-- If the pasted URL is a direct chapter-folder URL under `book/`, treat it as `study` mode: open the folder `README.md`, transcript, commentary canvas, orientation payload, and public card. This is not a replacement for `first_tour`.
+- If the pasted URL identifies a chapter under `lectures/`, `essays/`, or `interviews/`, treat it as `study` mode: resolve its source body, companion commentary, and public card through the catalog. For folder-backed chapters, also open the folder `README.md` and orientation payload; essays use flat source files and companion files under `commentaries/`. This is not a replacement for `first_tour`.
 - Then read `AGENTS.md` and `README.md`.
 - If the operator says `coffee`, open the `predictive-history` repo state; do not give a generic coffee greeting.
 - Use `docs/contracts/public-repo-contract.md` for repository role and boundaries.
@@ -61,7 +61,7 @@ Excluded:
 - Use [`docs/predictive-history-index.md`](docs/predictive-history-index.md) when a reader needs public Predictive History source URLs in one place (Video column; JSON: `source_video_url`).
 - Use `docs/predictive-history-index.md` when a reader needs the full catalog of all 216 public chapters (lectures, essays, and provenance interviews) with links to transcript, commentary, folder README, and source video or Substack URL.
 - Use `docs/predictive-history-index.json` when a tool needs the same catalog as structured JSON (`chapters`, `by_series`, legacy `by_surface`, paths, and video URLs).
-- Use `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `ph-civ`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `ph-civ`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
+- Use `data/bilingual-loop.json` and `docs/localization/bilingual-civilizational-bridge.md` for the trilingual civilizational bridge ambition and localization roadmap: canonical English `predictive-history`, downstream Chinese `ph-civ-zh`, and downstream Russian `ph-civ-ru`. This is an identity/growth layer, not a `first_tour` replacement and not a translation dump. `ph-civ-zh` and `ph-civ-ru` are downstream mirrors of canonical `predictive-history`, not sibling sources of truth. `ph-civ-ru` is roadmap metadata only, not a Russian edition or command surface.
 - Do not answer as if this repo owns live workshop editorial state.
 
 ## Useful Commands

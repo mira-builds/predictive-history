@@ -97,3 +97,84 @@ def test_flat_docs_root_is_hub_plus_stubs():
     flat_files = {path.name for path in docs_root.iterdir() if path.is_file()}
     unexpected = flat_files - allowed_flat_names
     assert unexpected == set(), f"unexpected flat docs/: {sorted(unexpected)}"
+
+
+# Bounded entry/onboarding coverage; historical documents and corpus bodies are
+# deliberately outside this check. Validate file destinations, not heading IDs.
+READER_ENTRY_DOCS = (
+    "README.md",
+    "START-HERE.md",
+    "AGENTS.md",
+    "llms.txt",
+    "docs/contracts/public-repo-contract.md",
+    "docs/contracts/export-contract.md",
+    "docs/onboarding/first-tour.md",
+    "docs/onboarding/chapter-folder-links.md",
+    "docs/onboarding/study-edition.md",
+)
+
+
+def missing_inline_link_destinations(path: Path, root: Path) -> list[str]:
+    """Check inline Markdown file links, excluding code fences and URL schemes."""
+    import re
+    from urllib.parse import unquote, urlsplit
+
+    errors = []
+    fence = None
+    for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        marker = re.match(r"^\s*(`{3,}|~{3,})", line)
+        if marker:
+            token = marker.group(1)
+            if fence is None:
+                fence = token
+            elif token[0] == fence[0] and len(token) >= len(fence):
+                fence = None
+            continue
+        if fence is not None:
+            continue
+        for match in re.finditer(r"\]\(\s*(?:<([^>]+)>|([^\s)]+))", line):
+            target = match.group(1) or match.group(2)
+            url = urlsplit(target)
+            if url.scheme or url.netloc or not url.path:
+                continue
+            destination = (path.parent / unquote(url.path)).resolve()
+            if not destination.is_relative_to(root.resolve()) or not destination.exists():
+                errors.append(f"{path.relative_to(root).as_posix()}:{line_number}: {target}")
+    return errors
+
+
+def test_reader_entry_inline_links_resolve():
+    errors = [
+        error
+        for relative in READER_ENTRY_DOCS
+        for error in missing_inline_link_destinations(ROOT / relative, ROOT)
+    ]
+    assert not errors, "Broken reader links:\n" + "\n".join(errors)
+
+
+def test_link_check_reports_missing_and_outside_targets(tmp_path):
+    docs = tmp_path / "docs"
+    docs.mkdir()
+    page = docs / "reader.md"
+    page.write_text(
+        "[missing](missing.md#section)\n[outside](../../outside.md)\n",
+        encoding="utf-8",
+    )
+    assert missing_inline_link_destinations(page, tmp_path) == [
+        "docs/reader.md:1: missing.md#section",
+        "docs/reader.md:2: ../../outside.md",
+    ]
+
+
+def test_link_check_accepts_relative_files_and_skips_nonfile_targets(tmp_path):
+    (tmp_path / "a file.md").write_text("# Existing\n", encoding="utf-8")
+    page = tmp_path / "reader.md"
+    page.write_text(
+        "[file](a%20file.md#heading)\n[angle](<a file.md>)\n"
+        "[anchor](#heading)\n[web](https://example.org/missing.md)\n"
+        "[mail](mailto:reader@example.org)\n[web](//example.org/path)\n"
+        "```md\n[example](missing.md)\n```\n"
+        "~~~md\n[example](missing.md)\n~~~\n",
+        encoding="utf-8",
+    )
+    assert missing_inline_link_destinations(page, tmp_path) == []
